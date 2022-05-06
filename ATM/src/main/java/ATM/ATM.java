@@ -6,7 +6,7 @@ public class ATM {
 	static Logger logger=Logger.getLogger(ATM.class);
 	
 	public static void main(String[] args) {
-		String str="welcome to sonar";
+		String str="Hi This is Yours";
 		
 		String log4jConfigFile = System.getProperty("user.dir") + File.separator + "log4j.properties";
 		PropertyConfigurator.configure(log4jConfigFile);
