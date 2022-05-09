@@ -107,3 +107,7 @@ INFO    2022-05-06 15:06:06,874 [main] atm.login_page  -  Enter Account Number
 INFO    2022-05-06 15:06:11,973 [main] atm.login_page  - this is a welcome message....
 INFO    2022-05-06 15:06:11,973 [main] atm.login_page  -  Enter Password
 INFO    2022-05-06 15:06:15,900 [main] atm.login_page  - correct Password :This is Your Account
+INFO    2022-05-06 15:12:50,512 [main] atm.LoginPage  -  Enter Account Number
+INFO    2022-05-06 15:13:05,483 [main] atm.LoginPage  - this is a welcome message....
+INFO    2022-05-06 15:13:05,483 [main] atm.LoginPage  -  Enter Password
+INFO    2022-05-06 15:13:09,299 [main] atm.LoginPage  - correct Password :This is Your Account
