@@ -1,7 +1,6 @@
 package ifelse;
 import java.io.File;
 import java.util.Scanner;
-
 import org.apache.log4j.Logger;
 public class IforElse {
 	static Logger logger=logger.getLogger(IforElse);
