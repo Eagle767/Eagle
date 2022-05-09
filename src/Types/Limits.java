@@ -13,7 +13,7 @@ public class Limits {
 		f=2147483647;
 		long g, d=-9_223_372_036_854_775_808L;
 		g=9_223_372_036_854_775_807L;
-		String str="Hello Muthu.";
+		String str="Hello Muthu";
 		String s=new String("Eagle");
 		System.out.print("\n Byte Limit  "+a+" to "+h);
 		System.out.print("\n Short Limit  "+b+" to "+e);
