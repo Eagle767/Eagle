@@ -13,7 +13,7 @@ public class StringDemo {
 		
 		String log4jConfigFile = System.getProperty("user.dir") + File.separator + "log4j.properties";
 		PropertyConfigurator.configure(log4jConfigFile);
-		logger.info("The value is..:"+c);
+		logger.info("The value is...:"+c);
 
 		String substr=str.substring(3);
 		logger.info("The sub str is....:"+substr);
