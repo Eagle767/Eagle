@@ -16,7 +16,7 @@ public class WrapperDemo {
 		in=i;//auto boxing
 		
 		String arg1=args[3];
-		String arg2=args[1];
+		String arg2=args[2];
 		
 		System.out.println(arg1+arg2);
 		System.out.println(Integer.parseInt(arg1)+Integer.parseInt(arg2));
