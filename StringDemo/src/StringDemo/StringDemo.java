@@ -16,7 +16,7 @@ public class StringDemo {
 		logger.info("The value is..:"+c);
 
 		String substr=str.substring(3);
-		logger.info("The sub str is...:"+substr);
+		logger.info("The sub str is....:"+substr);
 		
 		String substr2=str.substring(3, 7);
 		logger.info("The value is..:"+substr2);
