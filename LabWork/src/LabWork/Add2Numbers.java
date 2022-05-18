@@ -15,7 +15,7 @@ public class Add2Numbers {
 		Scanner s=new Scanner(System.in);
 		int a=s.nextInt();
 		int b=s.nextInt();
-		logger.info("The Given Numbers Are "+a+", "+b);
+		logger.info("The Given Numbers Are "+a+","+b);
 		int sum=a+b;
 		logger.info("The Addition of Two Numbers are "+sum);
 	}
