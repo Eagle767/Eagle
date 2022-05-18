@@ -1,22 +1,25 @@
 package Day1;
 
 import java.util.Scanner;
-
+import java.io.File;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 public class HighandLow {
-
+	static Logger logger=Logger.getLogger(HighandLow.class);
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String log4jConfigFile=System.getProperty("user.dir")+File.separator+"log4j.properties";
+		PropertyConfigurator.configure(log4jConfigFile);
 		Scanner s=new Scanner(System.in);
-		System.out.println("Enter Length");
+		logger.info("Enter Length");
 		int n=s.nextInt();
-		System.out.println("Enter Values");
+		logger.info("Enter Values");
 		int[] a=new int[n];
 		for(int i=0;i<n;i++) {
 			a[i]=s.nextInt();
 		}
-		System.out.println("Enter the values are");
+		logger.info("Enter the values are");
 		for(int i=0;i<n;i++) {
-			System.out.print(a[i]+" ");
+			logger.info(a[i]+" ");
 		}
 		int temp=0;
 		for(int k=0;k<n;k++) {
@@ -25,25 +28,25 @@ public class HighandLow {
 				temp=a[k];
 				a[k]=a[j];
 				a[j]=temp;
-				System.out.println(temp);
 			} 
 				
-			}//System.out.println(temp);
-		}System.out.println("\n Ascending Order");
-		for(int i=0;i<n;i++) {
-			System.out.print(a[i]+" ");
+			}
 		}
-		for(int k=0;k<n;k++) {
-			for(int j=k+1;j<n;j++) {
-				if(a[k]<a[j]) {
-				temp=a[k];
-				a[k]=a[j];
-				a[j]=temp;
-				System.out.println(temp);
-			}}
-		}System.out.println("\n Descending Order");
+		logger.info("\n Ascending Order");
 		for(int i=0;i<n;i++) {
-			System.out.print(a[i]+" ");
+			logger.info(a[i]+" ");
+		}
+		for(int l=0;l<n;l++) {
+			for(int j=l+1;j<n;j++) {
+				if(a[l]<a[j]) {
+				temp=a[l];
+				a[l]=a[j];
+				a[j]=temp;
+			}}
+		}
+		logger.info("\n Descending Order");
+		for(int i=0;i<n;i++) {
+			logger.info(a[i]+" ");
 		}
 	}
 

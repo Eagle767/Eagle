@@ -1,26 +1,29 @@
 package Day1;
 
 import java.util.Scanner;
-
+import java.io.File;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 public class Location {
-
+	static Logger logger=Logger.getLogger(Location.class);
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		String log4jConfigFile=System.getProperty("user.dir")+File.separator+"log4j.properties";
+		PropertyConfigurator.configure(log4jConfigFile);
 		Scanner s=new Scanner(System.in);
-		System.out.println("Enter Length");
+		logger.info("Enter Length");
 		int n=s.nextInt();
-		System.out.println("Enter Values");
+		logger.info("Enter Values");
 		int[] a=new int[n];
 		for(int i=0;i<n;i++) {
 			a[i]=s.nextInt();
 		}
 		int count=0;
-		System.out.println("Enter needed Location Value");
+		logger.info("Enter needed Location Value");
 		int b=s.nextInt();
 		for(int i=0;i<n;i++) {
 			if(a[i]==b) {
 				i++;
-				System.out.println("Location is  "+i);
+				logger.info("Location is  "+i);
 			}
 			
 		}
