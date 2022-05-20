@@ -113,6 +113,7 @@ INFO    2022-05-18 12:02:39,653 [main] Access.Pyramid  - Enter Highest Value
 INFO    2022-05-18 12:03:46,345 [main] Access.Pyramid  - Enter Highest Value
 INFO    2022-05-18 12:03:54,513 [main] Access.Pyramid  - Enter Highest Value
 INFO    2022-05-18 12:04:16,499 [main] Access.Pyramid  - Enter Highest Value
+<<<<<<< HEAD
 INFO    2022-05-20 12:17:24,064 [main] Calculator.Add  - Enter Value
 INFO    2022-05-20 12:17:27,576 [main] Calculator.Add  - Enter Value
 INFO    2022-05-20 12:19:21,455 [main] Calculator.Add  - Enter Value
@@ -2929,3 +2930,5 @@ INFO    2022-05-20 17:54:48,122 [main] Access.StringDemos  - Muthu
 INFO    2022-05-20 17:54:48,122 [main] Access.StringDemos  - [Ljava.lang.String;@2bbf4b8b
 INFO    2022-05-20 17:54:48,122 [main] Access.StringDemos  - [Ljava.lang.String;@30a3107a
 INFO    2022-05-20 17:54:48,122 [main] Access.StringDemos  - false
+=======
+>>>>>>> branch 'master' of https://github.com/Eagle767/Eagle.git
