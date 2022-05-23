@@ -17,8 +17,8 @@ public class StringDemos {
 		//int u=10;
 		Integer t=Integer.valueOf(20);
 		logger.info(t);
-		String a="Hello",b="Muthu",c="Hi";
-		boolean s=b.equals(a);
+		String a="Hello",b="Muthu",c="Hi",g="Muthu";
+		boolean s=b.equals(g);
 		logger.info(s);
 		logger.info(String.valueOf(b.equals(c)));//equal to true or false
 		logger.info(b.equals(a));
@@ -26,7 +26,6 @@ public class StringDemos {
 		char d=a.charAt(4);//Location to get Character
 		logger.info(d);  
 		logger.info(b.charAt(0));
-		
 		b.chars();
 		logger.info(b.chars());
 		
@@ -38,10 +37,7 @@ public class StringDemos {
 		logger.info(f);
 		logger.info(b.codePointBefore(3));//1,2,3,4 to check value provide ascii value-1
 		
-		//b.valueOf(b[2], 1, 1);
-		//logger.warn(b.valueOf(b[2], 1, 1));
-		
-		String g=b.valueOf("HI HI");
+		String z=b.valueOf("HI HI");
 		logger.info(g);
 		logger.info(b);
 		
@@ -86,10 +82,6 @@ public class StringDemos {
 		logger.info(b.formatted(args));
 		b.getBytes();
 		logger.info(b.getBytes());
-		//b.getBytes(null);
-		//b.getBytes(h);
-		//b.getChars(e, d, null, e);
-		//logger.info(b.getChars(a, c,null , b));
 		b.getClass();
 		logger.info(b.getClass());
 		b.hashCode();
@@ -110,12 +102,6 @@ public class StringDemos {
 		logger.info(b.lines());
 		b.matches(g);
 		logger.info(b.matches(g));
-		//b.notify();
-		//logger.info(b.notify());
-		//b.notifyAll();
-		//logger.info(b.notifyAll());
-		//b.offsetByCodePoints(e, f);
-		//logger.info(b.offsetByCodePoints(e, f));
 		b.regionMatches(f, h, f, e);
 		logger.info(b.regionMatches(f, h, f, e));
 		b.regionMatches(s, f, h, f, e);
@@ -139,40 +125,88 @@ public class StringDemos {
 		b.startsWith(h);
 		logger.info(b.startsWith(h));
 		b.startsWith(h, f);
+		logger.info(b.startsWith(h, f));
 		b.strip();
+		logger.info(b.strip());
 		b.stripIndent();
+		logger.info(b.stripIndent());
 		b.stripLeading();
+		logger.info(b.stripLeading());
 		b.stripTrailing();
-		b.subSequence(d, e);
-		b.substring(e);
-		b.substring(d, e);
+        logger.info(b.stripTrailing());
 		b.toCharArray();
+		logger.info(b.toCharArray());
 		b.toLowerCase();
-		b.toLowerCase(null);
+		logger.info(b.toLowerCase());
 		b.toString();
+		logger.info(b.toString());
 		b.toUpperCase();
-		b.toUpperCase(null);
-		b.transform(null);
+		logger.info(b.toUpperCase());
 		b.translateEscapes();
+		logger.info(b.translateEscapes());
 		b.trim();
-		//b.wait();
-		//b.wait(e);
-		//b.wait(e, f);
-		//b.CASE_INSENSITIVE_ORDER;
-		b.copyValueOf(null);
-		b.copyValueOf(null, e, f);
+		logger.info(b.trim());
+		logger.info(b.CASE_INSENSITIVE_ORDER);
 		b.format(a, args);
+		logger.info(b.format(a, args));
 		b.format(null, a, args);
+		logger.info(b.format(null, a, args));
 		b.join(h, args);
-		//b.join(h, null);
-		b.valueOf(null, e, f);
+		logger.info(b.join(h, args));
 		b.valueOf(b);
+		logger.info(b.valueOf(b));
 		b.valueOf(f);
+		logger.info(b.valueOf(f));
 		b.valueOf(f);
+		logger.info(b.valueOf(f));
 		b.valueOf(f);
+		logger.info(b.valueOf(f));
 		b.valueOf(d);
-		b.valueOf(null);
+		logger.info(b.valueOf(d));
 		b.valueOf(d);
+		logger.info(b.valueOf(d));
 		b.valueOf(s);
+		logger.info(b.valueOf(s));
+		//b.valueOf(b[2], 1, 1);
+	    //logger.warn(b.valueOf(b[2], 1, 1));
+		//b.getBytes(null);
+		//b.getBytes(h);
+		//b.getChars(e, d, null, e);
+	   //logger.info(b.getChars(a, c,null , b));
+		//b.notify();
+		//logger.info(b.notify());
+		//b.notifyAll();
+		//logger.info(b.notifyAll());
+		//b.offsetByCodePoints(e, f);
+		//logger.info(b.offsetByCodePoints(e, f));	
+		//b.subSequence(d, e);
+		//logger.info(b.subSequence(d, e));
+		//b.substring(e);
+		//logger.info(b.substring(e));
+		//b.substring(d, e);
+		//logger.info(b.substring(d, e));
+		//b.toLowerCase(null);
+		//logger.info(b.toLowerCase(null));
+		//b.toUpperCase(null);
+		//logger.info(b.toUpperCase(null));
+		//b.transform(null);
+		//logger.info(b.transform(null));
+		//b.wait();
+		//logger.info(b.wait());
+		//b.wait(e);
+	    //logger.info(b.wait(e));
+		//b.wait(e, f);
+		//logger.info(b.wait(e, f));
+		//b.CASE_INSENSITIVE_ORDER;
+		//b.copyValueOf(null);
+		//logger.info(b.copyValueOf(null));
+		//b.copyValueOf(null, e, f);
+		//logger.info(b.copyValueOf(null, e ,f));
+		//b.join(h, null);
+		//logger.info(b.join(h, null));
+		//b.valueOf(null, e, f);
+		//logger.info(b.valueOf(null, e, f));
+		//b.valueOf(null);
+		//logger.info(b.valueOf(null));
 	}
 }
