@@ -22,7 +22,7 @@ class PBV{
 }
 class PBR{
 	public void accept(Laddu laddu) {
-		laddu.size=laddu.size-5;
+		laddu.size= laddu.size-5;
 	}
 }
 class Laddu{
