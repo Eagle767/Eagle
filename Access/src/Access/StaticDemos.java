@@ -23,7 +23,7 @@ public class StaticDemos {
 		h.abc();
 		h.display();
 	    logger.info(h.display());
-	    h.display2("Hi Muthu");
+	    h.display2("Hi Muthu how are you");
 	   // logger.info(h.display2);
 	    h.display3="HI Eagle";
 	   logger.info(h.display3);
