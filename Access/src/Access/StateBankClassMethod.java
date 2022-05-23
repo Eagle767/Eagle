@@ -1,13 +1,19 @@
 package Access;
 public class StateBankClassMethod extends abc {   //it is mainclkass it is also dont change able and
 	//and creating object for the main class
-	
+	int e=5,f=6;
 	 //int c=a+b;
 	 void msg() {
 		 System.out.println(a+b);
+		 System.out.println(e+f);
 	 }
-	//static int d;
+	int g=5;
+	static int d;
 	public static void main(String[] args) {
+		System.out.println(d);
+		 int i=10;
+		System.out.println(i);
+		
 		StateBankClassMethod h=new StateBankClassMethod();
 		h.msg();
 		//StateBankClassMethod.d=7;
@@ -25,18 +31,27 @@ public class StateBankClassMethod extends abc {   //it is mainclkass it is also 
 	}
 }
 class Bank implements cashiar{//abstarac class it is dont changable
+	static int b;
+	StateBankClassMethod h=new StateBankClassMethod();
+	int r=h.e;
 class g {
 	int c=5;
+	
 	void avg() {
+		
 		System.out.println("the class");
 	}
 		 class v{
+			int o;
 			void avg() {
+				//StateBankClassMethod.d;
+				System.out.println(StateBankClassMethod.d);
 				System.out.println("the class");
 			}
 			class u{
+				int s=10;
 				void msg() {
-					System.out.println("hai it is inner class");
+					System.out.println("hai it is inner class"+s);
 				}
 			}
 			u U=new u();
