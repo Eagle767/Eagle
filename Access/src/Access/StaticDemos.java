@@ -54,7 +54,7 @@ class Human{
 	
     static void display1() {
 		// TODO Auto-generated method stub
-	logger.info("HI");
+	logger.info("HI Muthu");
 	}
     String display3;
     void display2(String g) {
