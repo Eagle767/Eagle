@@ -6,7 +6,7 @@ public class ConsDemo {
 		System.out.println("cons with default called...");
 	}
 	public ConsDemo(int i) {
-		System.out.println("cons with i value called...:"+i);
+		System.out.println("cons with i value called....:"+i);
 	}
 	public ConsDemo(Employee e) {
 		System.out.println("employee cons called...."+e);
