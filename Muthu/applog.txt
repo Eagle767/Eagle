@@ -1,0 +1,26 @@
+INFO    2022-05-23 17:15:30,275 [main] Muthu.Muthu  - Hello World
+INFO    2022-05-23 17:16:10,991 [main] Muthu.Muthu  - Hello World
+ERROR   2022-05-23 17:16:10,993 [main] Muthu.Muthu  - Hello World
+WARN    2022-05-23 17:16:10,993 [main] Muthu.Muthu  - Hello World
+DEBUG   2022-05-23 17:16:10,993 [main] Muthu.Muthu  - Hello World
+INFO    2022-05-23 17:16:49,778 [main] Muthu.HelloWorld  - Hello World
+ERROR   2022-05-23 17:16:49,780 [main] Muthu.HelloWorld  - Hello World
+WARN    2022-05-23 17:16:49,780 [main] Muthu.HelloWorld  - Hello World
+DEBUG   2022-05-23 17:16:49,780 [main] Muthu.HelloWorld  - Hello World
+INFO    2022-05-23 17:31:21,219 [main] Muthu.HelloWorld  - Hello World
+ERROR   2022-05-23 17:31:21,221 [main] Muthu.HelloWorld  - Hello World
+WARN    2022-05-23 17:31:21,224 [main] Muthu.HelloWorld  - Hello World
+DEBUG   2022-05-23 17:31:21,224 [main] Muthu.HelloWorld  - Hello World
+INFO    2022-05-24 13:08:30,280 [main] Muthu.HelloWorld  - Hello World
+ERROR   2022-05-24 13:08:30,282 [main] Muthu.HelloWorld  - Hello World
+WARN    2022-05-24 13:08:30,282 [main] Muthu.HelloWorld  - Hello World
+DEBUG   2022-05-24 13:08:30,282 [main] Muthu.HelloWorld  - Hello World
+INFO    2022-05-24 13:08:44,106 [main] Muthu.HelloWorld  - 
+ Hello World
+ERROR   2022-05-24 13:08:44,108 [main] Muthu.HelloWorld  - Hello World
+WARN    2022-05-24 13:08:44,108 [main] Muthu.HelloWorld  - Hello World
+DEBUG   2022-05-24 13:08:44,108 [main] Muthu.HelloWorld  - Hello World
+INFO    2022-05-24 13:08:57,801 [main] Muthu.HelloWorld  - Hello World
+ERROR   2022-05-24 13:08:57,803 [main] Muthu.HelloWorld  - Hello World
+WARN    2022-05-24 13:08:57,803 [main] Muthu.HelloWorld  - Hello World
+DEBUG   2022-05-24 13:08:57,803 [main] Muthu.HelloWorld  - Hello World
