@@ -12,7 +12,7 @@ public class ReturnObject {
 class SPD{
 	int i;
 	SPD(int a){
-		i=a;
+		 i=a;
 	}
 	SPD del() {
 		SPD s=new SPD(i+2);
