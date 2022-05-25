@@ -1,0 +1,1323 @@
+INFO    2022-05-11 11:10:18,008 [main] Test.OperatorsDemo  - 12
+INFO    2022-05-11 11:11:45,129 [main] Test.OperatorsDemo  - 12
+INFO    2022-05-11 11:14:13,591 [main] Test.OperatorsDemo  - 12
+INFO    2022-05-11 11:14:13,593 [main] Test.OperatorsDemo  - 8
+INFO    2022-05-11 11:14:13,593 [main] Test.OperatorsDemo  - 20
+INFO    2022-05-11 11:14:13,593 [main] Test.OperatorsDemo  - 5
+INFO    2022-05-11 11:14:13,593 [main] Test.OperatorsDemo  - 0
+INFO    2022-05-11 11:14:13,593 [main] Test.OperatorsDemo  - 12
+INFO    2022-05-11 11:14:13,594 [main] Test.OperatorsDemo  - 20
+INFO    2022-05-11 11:14:13,594 [main] Test.OperatorsDemo  - 21
+INFO    2022-05-11 11:14:13,594 [main] Test.OperatorsDemo  - 20
+INFO    2022-05-11 11:14:13,594 [main] Test.OperatorsDemo  - 19
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 21
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 21
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 19
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 19
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 24
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 15
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 40
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 6
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - 2
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - false
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - false
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 11:14:13,596 [main] Test.OperatorsDemo  - false
+INFO    2022-05-11 11:14:13,597 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 11:14:13,597 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 11:14:13,597 [main] Test.OperatorsDemo  - false
+INFO    2022-05-11 11:34:26,651 [main] Test.HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-05-11 11:34:26,653 [main] Test.HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-05-11 11:34:26,653 [main] Test.HelloWorld  - error message...:welcome to sonar
+INFO    2022-05-11 11:38:23,621 [main] Test.StringDemo  - The value is..:h
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - The sub str is...:lo world
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - The value is..:lo w
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - The va...:6
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - false
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - true
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - 65
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - 67
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - -2
+INFO    2022-05-11 11:38:23,623 [main] Test.StringDemo  - 2
+INFO    2022-05-11 12:22:57,960 [main] Test.BranchCondition  - small
+INFO    2022-05-11 12:26:02,570 [main] Test.BranchCondition  - true
+INFO    2022-05-11 12:26:02,572 [main] Test.BranchCondition  - small
+INFO    2022-05-11 12:26:02,572 [main] Test.BranchCondition  - not same
+INFO    2022-05-11 12:37:01,800 [main] Test.BranchCondition  - true
+INFO    2022-05-11 12:37:01,802 [main] Test.BranchCondition  - small
+INFO    2022-05-11 12:37:01,802 [main] Test.BranchCondition  - not same
+INFO    2022-05-11 12:37:01,802 [main] Test.BranchCondition  - not same
+INFO    2022-05-11 12:37:01,802 [main] Test.BranchCondition  - 10
+INFO    2022-05-11 12:37:01,802 [main] Test.BranchCondition  - 10 is big
+INFO    2022-05-11 12:37:01,802 [main] Test.BranchCondition  - 10 is big
+INFO    2022-05-11 12:43:19,125 [main] Test.BranchCondition  - 10
+INFO    2022-05-11 12:43:19,127 [main] Test.BranchCondition  - 30
+INFO    2022-05-11 12:43:19,127 [main] Test.BranchCondition  - The length of array.COLUMNS..4
+INFO    2022-05-11 12:43:19,127 [main] Test.BranchCondition  - 20
+INFO    2022-05-11 12:43:19,127 [main] Test.BranchCondition  - No of rows..:4
+INFO    2022-05-11 12:43:19,127 [main] Test.BranchCondition  - No of columns..:3
+INFO    2022-05-11 12:43:19,127 [main] Test.BranchCondition  - 5
+INFO    2022-05-11 12:43:19,128 [main] Test.BranchCondition  - 0
+INFO    2022-05-11 12:43:19,128 [main] Test.BranchCondition  - 3
+INFO    2022-05-11 12:44:23,330 [main] Test.HelloWorld  - Please enter your name..:
+INFO    2022-05-11 12:44:28,138 [main] Test.HelloWorld  - Welcome Mr.../Ms...:fsrdg
+INFO    2022-05-11 12:44:28,138 [main] Test.HelloWorld  - Please enter your age..:
+INFO    2022-05-11 12:44:30,177 [main] Test.HelloWorld  - Your age is...:32
+INFO    2022-05-11 12:50:32,895 [main] Test.VariableDemo  - Welcome To Java....
+INFO    2022-05-11 12:50:32,897 [main] Test.VariableDemo  - hello world
+INFO    2022-05-11 12:51:59,974 [main] Test.WrapperDemo  - 56200
+INFO    2022-05-11 12:51:59,976 [main] Test.WrapperDemo  - 256
+INFO    2022-05-11 12:51:59,976 [main] Test.WrapperDemo  - 2147483647
+INFO    2022-05-11 12:51:59,976 [main] Test.WrapperDemo  - -2147483648
+INFO    2022-05-11 12:51:59,976 [main] Test.WrapperDemo  - 1
+INFO    2022-05-11 12:51:59,976 [main] Test.WrapperDemo  - 40
+INFO    2022-05-11 14:05:35,609 [main] Test.KeyBoardInput  - Please enter your name..:
+INFO    2022-05-11 14:05:43,198 [main] Test.KeyBoardInput  - Welcome Mr.../Ms...:dsfsdg
+INFO    2022-05-11 14:05:43,199 [main] Test.KeyBoardInput  - Please enter your age..:
+INFO    2022-05-11 14:05:45,246 [main] Test.KeyBoardInput  - Your age is...:23
+INFO    2022-05-11 14:16:33,699 [main] Test.LoopingCondition  - loop executed - do while...
+INFO    2022-05-11 14:16:33,701 [main] Test.LoopingCondition  - 10
+INFO    2022-05-11 14:16:33,701 [main] Test.LoopingCondition  - 9
+INFO    2022-05-11 14:16:33,701 [main] Test.LoopingCondition  - 8
+INFO    2022-05-11 14:16:33,701 [main] Test.LoopingCondition  - 7
+INFO    2022-05-11 14:16:33,701 [main] Test.LoopingCondition  - 6
+INFO    2022-05-11 14:16:33,701 [main] Test.LoopingCondition  - 5
+INFO    2022-05-11 14:16:33,701 [main] Test.LoopingCondition  - 4
+INFO    2022-05-11 14:16:33,701 [main] Test.LoopingCondition  - 3
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - 2
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - 1
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:0
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:10
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:16:33,702 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 10...0
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 9...1
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 8...2
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 7...3
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 6...4
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 5...5
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 4...6
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 3...7
+INFO    2022-05-11 14:16:33,703 [main] Test.LoopingCondition  - 2...8
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 1...9
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,704 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,705 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:16:33,705 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:17:42,881 [main] Test.LoopingCondition  - loop executed - do while...
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 10
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 9
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 8
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 7
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 6
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 5
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 4
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 3
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 2
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - 1
+INFO    2022-05-11 14:17:42,883 [main] Test.LoopingCondition  - i value is...:0
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:10
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:17:42,884 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 10...0
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 9...1
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 8...2
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 7...3
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 6...4
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 5...5
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 4...6
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 3...7
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 2...8
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 1...9
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,885 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,886 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,886 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,886 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,886 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,886 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,886 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:42,886 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,943 [main] Test.LoopingCondition  - loop executed - do while...
+INFO    2022-05-11 14:17:57,945 [main] Test.LoopingCondition  - 10
+INFO    2022-05-11 14:17:57,945 [main] Test.LoopingCondition  - 9
+INFO    2022-05-11 14:17:57,945 [main] Test.LoopingCondition  - 8
+INFO    2022-05-11 14:17:57,945 [main] Test.LoopingCondition  - 7
+INFO    2022-05-11 14:17:57,945 [main] Test.LoopingCondition  - 6
+INFO    2022-05-11 14:17:57,945 [main] Test.LoopingCondition  - 5
+INFO    2022-05-11 14:17:57,945 [main] Test.LoopingCondition  - 4
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - 3
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - 2
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - 1
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:0
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:10
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:17:57,946 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 10...0
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 9...1
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 8...2
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 7...3
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 6...4
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 5...5
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 4...6
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 3...7
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 2...8
+INFO    2022-05-11 14:17:57,947 [main] Test.LoopingCondition  - 1...9
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,948 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:17:57,949 [main] Test.LoopingCondition  - 
+INFO    2022-05-11 14:18:24,825 [main] Test.LoopingCondition  - loop executed - do while...
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 10
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 9
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 8
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 7
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 6
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 5
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 4
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 3
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 2
+INFO    2022-05-11 14:18:24,827 [main] Test.LoopingCondition  - 1
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:0
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:10
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:18:24,828 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 10...0
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 9...1
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 8...2
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 7...3
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 6...4
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 5...5
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 4...6
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 3...7
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 2...8
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 1...9
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,829 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,830 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,830 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,830 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,830 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,830 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,830 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,830 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:18:24,831 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,842 [main] Test.LoopingCondition  - loop executed - do while...
+INFO    2022-05-11 14:19:01,844 [main] Test.LoopingCondition  - 10
+INFO    2022-05-11 14:19:01,844 [main] Test.LoopingCondition  - 9
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - 8
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - 7
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - 6
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - 5
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - 4
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - 3
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - 2
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - 1
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:0
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:19:01,845 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:10
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - 10...0
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - 9...1
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - 8...2
+INFO    2022-05-11 14:19:01,846 [main] Test.LoopingCondition  - 7...3
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 6...4
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 5...5
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 4...6
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 3...7
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 2...8
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 1...9
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,847 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,848 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,848 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:01,848 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,474 [main] Test.LoopingCondition  - loop executed - do while...
+INFO    2022-05-11 14:19:17,477 [main] Test.LoopingCondition  - 10
+INFO    2022-05-11 14:19:17,477 [main] Test.LoopingCondition  - 9
+INFO    2022-05-11 14:19:17,477 [main] Test.LoopingCondition  - 8
+INFO    2022-05-11 14:19:17,477 [main] Test.LoopingCondition  - 7
+INFO    2022-05-11 14:19:17,477 [main] Test.LoopingCondition  - 6
+INFO    2022-05-11 14:19:17,477 [main] Test.LoopingCondition  - 5
+INFO    2022-05-11 14:19:17,477 [main] Test.LoopingCondition  - 4
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - 3
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - 2
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - 1
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:0
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:10
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:19:17,478 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 10...0
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 9...1
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 8...2
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 7...3
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 6...4
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 5...5
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 4...6
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 3...7
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 2...8
+INFO    2022-05-11 14:19:17,479 [main] Test.LoopingCondition  - 1...9
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,480 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:19:17,481 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:21:27,216 [main] Test.BranchCondition  - Even Number ...
+INFO    2022-05-11 14:21:27,218 [main] Test.BranchCondition  - yes it will lesser than 20
+INFO    2022-05-11 14:21:27,218 [main] Test.BranchCondition  - Odd number....
+INFO    2022-05-11 14:21:27,218 [main] Test.BranchCondition  - allahuddin and 40 theifs....
+INFO    2022-05-11 14:21:46,599 [main] Test.ArrayDemo  - 10
+INFO    2022-05-11 14:21:46,601 [main] Test.ArrayDemo  - 30
+INFO    2022-05-11 14:21:46,601 [main] Test.ArrayDemo  - The length of array.COLUMNS..4
+INFO    2022-05-11 14:21:46,601 [main] Test.ArrayDemo  - 20
+INFO    2022-05-11 14:21:46,601 [main] Test.ArrayDemo  - No of rows..:4
+INFO    2022-05-11 14:21:46,601 [main] Test.ArrayDemo  - No of columns..:3
+INFO    2022-05-11 14:21:46,601 [main] Test.ArrayDemo  - 5
+INFO    2022-05-11 14:21:46,601 [main] Test.ArrayDemo  - 0
+INFO    2022-05-11 14:21:46,601 [main] Test.ArrayDemo  - 3
+INFO    2022-05-11 14:21:57,903 [main] Test.BranchCondition  - Even Number ...
+INFO    2022-05-11 14:21:57,905 [main] Test.BranchCondition  - yes it will lesser than 20
+INFO    2022-05-11 14:21:57,905 [main] Test.BranchCondition  - Odd number....
+INFO    2022-05-11 14:21:57,905 [main] Test.BranchCondition  - allahuddin and 40 theifs....
+INFO    2022-05-11 14:22:10,119 [main] Test.HelloWorld  - this is a message....:welcome to sonar
+WARN    2022-05-11 14:22:10,121 [main] Test.HelloWorld  - warning message...:welcome to sonar
+ERROR   2022-05-11 14:22:10,121 [main] Test.HelloWorld  - error message...:welcome to sonar
+INFO    2022-05-11 14:22:17,049 [main] Test.BranchCondition  - Even Number ...
+INFO    2022-05-11 14:22:17,051 [main] Test.BranchCondition  - yes it will lesser than 20
+INFO    2022-05-11 14:22:17,051 [main] Test.BranchCondition  - Odd number....
+INFO    2022-05-11 14:22:17,051 [main] Test.BranchCondition  - allahuddin and 40 theifs....
+INFO    2022-05-11 14:22:22,002 [main] Test.KeyBoardInput  - Please enter your name..:
+INFO    2022-05-11 14:22:27,378 [main] Test.KeyBoardInput  - Welcome Mr.../Ms...:sfdgfs
+INFO    2022-05-11 14:22:27,379 [main] Test.KeyBoardInput  - Please enter your age..:
+INFO    2022-05-11 14:22:30,171 [main] Test.KeyBoardInput  - Your age is...:45
+INFO    2022-05-11 14:22:37,852 [main] Test.LoopingCondition  - loop executed - do while...
+INFO    2022-05-11 14:22:37,854 [main] Test.LoopingCondition  - 10
+INFO    2022-05-11 14:22:37,854 [main] Test.LoopingCondition  - 9
+INFO    2022-05-11 14:22:37,854 [main] Test.LoopingCondition  - 8
+INFO    2022-05-11 14:22:37,854 [main] Test.LoopingCondition  - 7
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - 6
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - 5
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - 4
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - 3
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - 2
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - 1
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:0
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:22:37,855 [main] Test.LoopingCondition  - i value is...:10
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - 10...0
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - 9...1
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - 8...2
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - 7...3
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - 6...4
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - 5...5
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - 4...6
+INFO    2022-05-11 14:22:37,856 [main] Test.LoopingCondition  - 3...7
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 2...8
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 1...9
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,857 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,858 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,858 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:37,858 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 14:22:43,065 [main] Test.OperatorsDemo  - 12
+INFO    2022-05-11 14:22:43,066 [main] Test.OperatorsDemo  - 8
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 20
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 5
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 0
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 12
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 20
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 21
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 20
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 19
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 21
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 21
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 19
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 19
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 24
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 15
+INFO    2022-05-11 14:22:43,067 [main] Test.OperatorsDemo  - 40
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - 6
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - 2
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - false
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - false
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - false
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - true
+INFO    2022-05-11 14:22:43,068 [main] Test.OperatorsDemo  - false
+INFO    2022-05-11 14:22:50,771 [main] Test.StringDemo  - The value is..:h
+INFO    2022-05-11 14:22:50,773 [main] Test.StringDemo  - The sub str is...:lo world
+INFO    2022-05-11 14:22:50,773 [main] Test.StringDemo  - The value is..:lo w
+INFO    2022-05-11 14:22:50,773 [main] Test.StringDemo  - The va...:6
+INFO    2022-05-11 14:22:50,773 [main] Test.StringDemo  - false
+INFO    2022-05-11 14:22:50,774 [main] Test.StringDemo  - true
+INFO    2022-05-11 14:22:50,774 [main] Test.StringDemo  - 65
+INFO    2022-05-11 14:22:50,774 [main] Test.StringDemo  - 67
+INFO    2022-05-11 14:22:50,774 [main] Test.StringDemo  - -2
+INFO    2022-05-11 14:22:50,774 [main] Test.StringDemo  - 2
+INFO    2022-05-11 14:22:56,961 [main] Test.VariableDemo  - Welcome To Java....
+INFO    2022-05-11 14:22:56,963 [main] Test.VariableDemo  - hello world
+INFO    2022-05-11 14:23:05,669 [main] Test.WrapperDemo  - 56200
+INFO    2022-05-11 14:23:05,672 [main] Test.WrapperDemo  - 256
+INFO    2022-05-11 14:23:05,672 [main] Test.WrapperDemo  - 2147483647
+INFO    2022-05-11 14:23:05,672 [main] Test.WrapperDemo  - -2147483648
+INFO    2022-05-11 14:23:05,672 [main] Test.WrapperDemo  - 1
+INFO    2022-05-11 14:23:05,672 [main] Test.WrapperDemo  - 40
+INFO    2022-05-11 14:56:12,259 [main] Test.BranchCondition  - Even Number ...
+INFO    2022-05-11 14:56:12,261 [main] Test.BranchCondition  - yes it will lesser than 20
+INFO    2022-05-11 14:56:12,261 [main] Test.BranchCondition  - Odd number....
+INFO    2022-05-11 14:56:12,261 [main] Test.BranchCondition  - allahuddin and 40 theifs....
+INFO    2022-05-11 14:56:12,261 [main] Test.BranchCondition  - Monday
+INFO    2022-05-11 14:56:36,787 [main] Test.BranchCondition  - Even Number ...
+INFO    2022-05-11 14:56:36,789 [main] Test.BranchCondition  - yes it will lesser than 20
+INFO    2022-05-11 14:56:36,789 [main] Test.BranchCondition  - Odd number....
+INFO    2022-05-11 14:56:36,790 [main] Test.BranchCondition  - allahuddin and 40 theifs....
+INFO    2022-05-11 14:56:36,790 [main] Test.BranchCondition  - no week day
+INFO    2022-05-11 15:04:40,751 [main] Test.BranchCondition  - Even Number ...
+INFO    2022-05-11 15:04:40,753 [main] Test.BranchCondition  - yes it will lesser than 20
+INFO    2022-05-11 15:04:40,753 [main] Test.BranchCondition  - Odd number....
+INFO    2022-05-11 15:04:40,754 [main] Test.BranchCondition  - allahuddin and 40 theifs....
+INFO    2022-05-11 15:04:40,754 [main] Test.BranchCondition  - no week day
+INFO    2022-05-11 15:04:40,754 [main] Test.BranchCondition  - Jan
+INFO    2022-05-11 15:04:40,754 [main] Test.BranchCondition  - Jan
+INFO    2022-05-11 15:05:09,649 [main] Test.BranchCondition  - Even Number ...
+INFO    2022-05-11 15:05:09,651 [main] Test.BranchCondition  - yes it will lesser than 20
+INFO    2022-05-11 15:05:09,651 [main] Test.BranchCondition  - Odd number....
+INFO    2022-05-11 15:05:09,652 [main] Test.BranchCondition  - allahuddin and 40 theifs....
+INFO    2022-05-11 15:05:09,652 [main] Test.BranchCondition  - no week day
+INFO    2022-05-11 15:05:09,652 [main] Test.BranchCondition  - Jan
+INFO    2022-05-11 15:05:09,652 [main] Test.BranchCondition  - march
+INFO    2022-05-11 17:52:51,797 [main] Test.LoopingCondition  - loop executed - do while...
+INFO    2022-05-11 17:52:51,799 [main] Test.LoopingCondition  - 10
+INFO    2022-05-11 17:52:51,799 [main] Test.LoopingCondition  - 9
+INFO    2022-05-11 17:52:51,799 [main] Test.LoopingCondition  - 8
+INFO    2022-05-11 17:52:51,799 [main] Test.LoopingCondition  - 7
+INFO    2022-05-11 17:52:51,799 [main] Test.LoopingCondition  - 6
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - 5
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - 4
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - 3
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - 2
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - 1
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:0
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 17:52:51,800 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:10
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:9
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:8
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:7
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:6
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:5
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:4
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:3
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:2
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - i value is...:1
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - 10...0
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - 9...1
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - 8...2
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - 7...3
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - 6...4
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - 5...5
+INFO    2022-05-11 17:52:51,801 [main] Test.LoopingCondition  - 4...6
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 3...7
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 2...8
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 1...9
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,802 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,803 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-11 17:52:51,803 [main] Test.LoopingCondition  - 
+
+INFO    2022-05-12 10:18:31,020 [main] Test.CastingDemo  - 100
+INFO    2022-05-12 10:18:31,023 [main] Test.CastingDemo  - 1
+INFO    2022-05-12 10:18:31,023 [main] Test.CastingDemo  - 20
+INFO    2022-05-12 10:18:31,023 [main] Test.CastingDemo  - a
+INFO    2022-05-12 10:18:31,023 [main] Test.CastingDemo  - a
+INFO    2022-05-12 14:30:10,215 [main] Test.ArrayDemo  - 10
+INFO    2022-05-12 14:30:10,217 [main] Test.ArrayDemo  - 30
+INFO    2022-05-12 14:30:10,218 [main] Test.ArrayDemo  - The length of array.COLUMNS..4
+INFO    2022-05-12 14:30:10,218 [main] Test.ArrayDemo  - 20
+INFO    2022-05-12 14:30:10,218 [main] Test.ArrayDemo  - No of rows..:4
+INFO    2022-05-12 14:30:10,218 [main] Test.ArrayDemo  - No of columns..:3
+INFO    2022-05-12 14:30:10,218 [main] Test.ArrayDemo  - 5
+INFO    2022-05-12 14:30:10,218 [main] Test.ArrayDemo  - 0
+INFO    2022-05-12 14:30:10,218 [main] Test.ArrayDemo  - 3
+INFO    2022-05-12 14:31:59,533 [main] Test.ArrayDemo  - 10
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 30
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - The length of array.COLUMNS..4
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 20
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - No of rows..:4
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - No of columns..:3
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 5
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 0
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 3
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 20	
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 30	
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 40	
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 50	
+INFO    2022-05-12 14:31:59,535 [main] Test.ArrayDemo  - 60	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 20	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 30	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 40	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 50	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 60	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 10	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 20	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 30	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 40	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 100	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 200	
+INFO    2022-05-12 14:31:59,536 [main] Test.ArrayDemo  - 300	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 400	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 1000	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 2000	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 3000	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 4000	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 10	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 20	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 30	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 40	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 100	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 200	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 300	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 400	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 1000	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 2000	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 3000	
+INFO    2022-05-12 14:31:59,537 [main] Test.ArrayDemo  - 4000	
+INFO    2022-05-12 14:34:06,897 [main] Test.ArrayDemo  - 10
+INFO    2022-05-12 14:34:06,898 [main] Test.ArrayDemo  - 30
+INFO    2022-05-12 14:34:06,898 [main] Test.ArrayDemo  - The length of array.COLUMNS..4
+INFO    2022-05-12 14:34:06,898 [main] Test.ArrayDemo  - 20
+INFO    2022-05-12 14:34:06,898 [main] Test.ArrayDemo  - No of rows..:4
+INFO    2022-05-12 14:34:06,898 [main] Test.ArrayDemo  - No of columns..:3
+INFO    2022-05-12 14:34:06,899 [main] Test.ArrayDemo  - 5
+INFO    2022-05-12 14:34:06,899 [main] Test.ArrayDemo  - 0
+INFO    2022-05-12 14:34:06,899 [main] Test.ArrayDemo  - 3
+WARN    2022-05-20 10:02:34,196 [main] Test1.ClassDemo  - .........20
+WARN    2022-05-20 10:02:34,197 [main] Test1.ClassDemo  - .........30
+WARN    2022-05-20 10:02:34,197 [main] Test1.ClassDemo  - .........40
+WARN    2022-05-20 10:04:32,428 [main] Test1.ClassDemo  - .........20
+DEBUG   2022-05-20 10:04:32,429 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:04:32,430 [main] Test1.Test  - 10
+WARN    2022-05-20 10:04:32,430 [main] Test1.ClassDemo  - .........30
+DEBUG   2022-05-20 10:04:32,430 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:04:32,430 [main] Test1.Test  - 10
+WARN    2022-05-20 10:04:32,430 [main] Test1.ClassDemo  - .........40
+DEBUG   2022-05-20 10:04:32,430 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:04:32,430 [main] Test1.Test  - 10
+ERROR   2022-05-20 10:07:21,427 [main] Test1.ClassDemo  - 20:30:hello
+INFO    2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 10
+INFO    2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 20
+INFO    2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 30
+INFO    2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 40
+INFO    2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 10
+INFO    2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 30
+INFO    2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 40
+INFO    2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 50
+DEBUG   2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 120
+DEBUG   2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 34
+DEBUG   2022-05-20 10:07:21,429 [main] Test1.ClassDemo  - 56
+DEBUG   2022-05-20 10:07:21,430 [main] Test1.ClassDemo  - 67
+DEBUG   2022-05-20 10:07:21,430 [main] Test1.ClassDemo  - 78
+DEBUG   2022-05-20 10:07:21,430 [main] Test1.ClassDemo  - 20
+DEBUG   2022-05-20 10:07:21,430 [main] Test1.ClassDemo  - 30
+DEBUG   2022-05-20 10:07:21,430 [main] Test1.ClassDemo  - 40
+WARN    2022-05-20 10:07:21,430 [main] Test1.ClassDemo  - .........20
+DEBUG   2022-05-20 10:07:21,430 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:07:21,430 [main] Test1.Test  - 10
+WARN    2022-05-20 10:07:21,431 [main] Test1.ClassDemo  - .........30
+DEBUG   2022-05-20 10:07:21,431 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:07:21,431 [main] Test1.Test  - 10
+WARN    2022-05-20 10:07:21,431 [main] Test1.ClassDemo  - .........40
+DEBUG   2022-05-20 10:07:21,431 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:07:21,431 [main] Test1.Test  - 10
+ERROR   2022-05-20 10:08:16,383 [main] Test1.ClassDemo  - 20:30:hello
+INFO    2022-05-20 10:08:16,385 [main] Test1.ClassDemo  - 10
+INFO    2022-05-20 10:08:16,385 [main] Test1.ClassDemo  - 20
+INFO    2022-05-20 10:08:16,385 [main] Test1.ClassDemo  - 30
+INFO    2022-05-20 10:08:16,385 [main] Test1.ClassDemo  - 40
+INFO    2022-05-20 10:08:16,385 [main] Test1.ClassDemo  - 10
+INFO    2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 30
+INFO    2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 40
+INFO    2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 50
+DEBUG   2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 120
+DEBUG   2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 34
+DEBUG   2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 56
+DEBUG   2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 67
+DEBUG   2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 78
+DEBUG   2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 20
+DEBUG   2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 30
+DEBUG   2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - 40
+WARN    2022-05-20 10:08:16,386 [main] Test1.ClassDemo  - .........20
+DEBUG   2022-05-20 10:08:16,387 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:08:16,387 [main] Test1.Test  - 10
+INFO    2022-05-20 10:08:16,387 [main] Test1.Test  - 0
+WARN    2022-05-20 10:08:16,387 [main] Test1.ClassDemo  - .........30
+DEBUG   2022-05-20 10:08:16,387 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:08:16,387 [main] Test1.Test  - 10
+INFO    2022-05-20 10:08:16,387 [main] Test1.Test  - 0
+WARN    2022-05-20 10:08:16,387 [main] Test1.ClassDemo  - .........40
+DEBUG   2022-05-20 10:08:16,387 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:08:16,387 [main] Test1.Test  - 10
+INFO    2022-05-20 10:08:16,387 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:08:37,553 [main] Test1.ClassDemo  - 20:30:hello
+INFO    2022-05-20 10:08:37,555 [main] Test1.ClassDemo  - 10
+INFO    2022-05-20 10:08:37,555 [main] Test1.ClassDemo  - 20
+INFO    2022-05-20 10:08:37,555 [main] Test1.ClassDemo  - 30
+INFO    2022-05-20 10:08:37,555 [main] Test1.ClassDemo  - 40
+INFO    2022-05-20 10:08:37,555 [main] Test1.ClassDemo  - 10
+INFO    2022-05-20 10:08:37,555 [main] Test1.ClassDemo  - 30
+INFO    2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 40
+INFO    2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 50
+DEBUG   2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 120
+DEBUG   2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 34
+DEBUG   2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 56
+DEBUG   2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 67
+DEBUG   2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 78
+DEBUG   2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 20
+DEBUG   2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 30
+DEBUG   2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - 40
+WARN    2022-05-20 10:08:37,556 [main] Test1.ClassDemo  - .........20
+DEBUG   2022-05-20 10:08:37,557 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:08:37,557 [main] Test1.Test  - 10
+INFO    2022-05-20 10:08:37,557 [main] Test1.Test  - 0
+WARN    2022-05-20 10:08:37,557 [main] Test1.ClassDemo  - .........30
+DEBUG   2022-05-20 10:08:37,557 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:08:37,557 [main] Test1.Test  - 10
+INFO    2022-05-20 10:08:37,557 [main] Test1.Test  - 0
+WARN    2022-05-20 10:08:37,557 [main] Test1.ClassDemo  - .........40
+DEBUG   2022-05-20 10:08:37,557 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:08:37,557 [main] Test1.Test  - 10
+INFO    2022-05-20 10:08:37,557 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:34:46,921 [main] Test1.ClassDemo  - 20:30:hello
+INFO    2022-05-20 10:34:46,923 [main] Test1.ClassDemo  - 10
+INFO    2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 20
+INFO    2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 30
+INFO    2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 40
+INFO    2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 10
+INFO    2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 30
+INFO    2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 40
+INFO    2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 50
+DEBUG   2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 120
+DEBUG   2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 34
+DEBUG   2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 56
+DEBUG   2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 67
+DEBUG   2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 78
+DEBUG   2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 20
+DEBUG   2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 30
+DEBUG   2022-05-20 10:34:46,924 [main] Test1.ClassDemo  - 40
+WARN    2022-05-20 10:34:46,925 [main] Test1.ClassDemo  - .........20
+DEBUG   2022-05-20 10:34:46,925 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:34:46,925 [main] Test1.Test  - 10
+INFO    2022-05-20 10:34:46,925 [main] Test1.Test  - 0
+WARN    2022-05-20 10:34:46,925 [main] Test1.ClassDemo  - .........30
+DEBUG   2022-05-20 10:34:46,925 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:34:46,925 [main] Test1.Test  - 10
+INFO    2022-05-20 10:34:46,925 [main] Test1.Test  - 0
+WARN    2022-05-20 10:34:46,925 [main] Test1.ClassDemo  - .........40
+DEBUG   2022-05-20 10:34:46,925 [main] Test1.Test  - 0
+ERROR   2022-05-20 10:34:46,925 [main] Test1.Test  - 10
+INFO    2022-05-20 10:34:46,926 [main] Test1.Test  - 0
+INFO    2022-05-20 10:38:08,172 [main] Test1.TestCalculator  - 120
+WARN    2022-05-20 10:40:26,898 [main] Test1.TestCalculator  - the sum of 10and 20is..:30
+INFO    2022-05-20 10:40:26,900 [main] Test1.TestCalculator  - 120
+INFO    2022-05-20 10:40:26,901 [main] Test1.TestCalculator  - The result is..:30
+ERROR   2022-05-20 10:40:26,901 [main] Test1.TestCalculator  - The result is ...:%d440
+WARN    2022-05-20 11:08:27,998 [main] Test1.TestCalculator  - the sum of 10and 20is..:30
+INFO    2022-05-20 11:08:28,000 [main] Test1.TestCalculator  - The result is..:30
+ERROR   2022-05-20 11:08:28,000 [main] Test1.TestCalculator  - The result is ...:%d440
+WARN    2022-05-20 11:09:51,625 [main] Test1.TestCalculator  - the sum of 10and 20is..:30
+INFO    2022-05-20 11:09:51,627 [main] Test1.TestCalculator  - 5
+INFO    2022-05-20 11:09:51,627 [main] Test1.TestCalculator  - The result is..:30
+ERROR   2022-05-20 11:09:51,627 [main] Test1.TestCalculator  - The result is ...:%d440
+WARN    2022-05-20 11:10:39,718 [main] Test1.TestCalculator  - the sum of 10and 20is..:30
+INFO    2022-05-20 11:10:39,720 [main] Test1.TestCalculator  - 5
+INFO    2022-05-20 11:10:39,720 [main] Test1.TestCalculator  - The result is..:30
+ERROR   2022-05-20 11:10:39,720 [main] Test1.TestCalculator  - The result is ...:%d440
+WARN    2022-05-20 11:11:12,654 [main] Test1.TestCalculator  - the sum of 10and 20is..:30
+INFO    2022-05-20 11:11:12,656 [main] Test1.TestCalculator  - 120
+INFO    2022-05-20 11:11:12,656 [main] Test1.TestCalculator  - 120
+INFO    2022-05-20 11:11:12,656 [main] Test1.TestCalculator  - 5
+INFO    2022-05-20 11:11:12,656 [main] Test1.TestCalculator  - The result is..:30
+ERROR   2022-05-20 11:11:12,657 [main] Test1.TestCalculator  - The result is ...:%d440
+INFO    2022-05-20 14:07:55,869 [main] Test1.StringDemo  - false
+INFO    2022-05-20 14:07:55,872 [main] Test1.StringDemo  - true
+INFO    2022-05-20 14:07:55,872 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 14:07:55,877 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 14:07:55,886 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 14:07:55,888 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:18:32,653 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:18:32,655 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:18:32,655 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:18:32,660 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:18:32,671 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:18:32,673 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:25:44,394 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:25:44,397 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:25:44,397 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:25:44,403 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:25:44,412 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:25:44,414 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:25:54,454 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:25:54,457 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:25:54,457 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:25:54,463 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:25:54,473 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:25:54,475 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:26:17,980 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:26:17,982 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:26:17,982 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:26:17,988 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:26:17,999 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:26:18,001 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:26:42,933 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:26:42,935 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:26:42,935 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:26:42,941 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:26:42,950 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:26:42,953 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:26:58,995 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:26:58,997 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:26:58,998 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:26:59,003 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:26:59,013 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:26:59,016 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:27:14,273 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:27:14,275 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:27:14,275 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:27:14,281 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:27:14,291 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:27:14,293 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:27:33,785 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:27:33,787 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:27:33,787 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:27:33,792 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:27:33,802 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:28:12,406 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:28:12,408 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:28:12,409 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:28:12,415 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:28:12,424 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:28:12,427 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:28:36,147 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:28:36,149 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:28:36,149 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:28:36,155 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:28:36,166 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:28:43,782 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:28:43,785 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:28:43,785 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:28:43,792 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:28:43,801 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:28:43,805 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:28:59,140 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:28:59,142 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:28:59,142 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:28:59,148 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:28:59,158 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:28:59,161 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 16:52:09,362 [main] Test1.StringDemo  - false
+INFO    2022-05-20 16:52:09,364 [main] Test1.StringDemo  - true
+INFO    2022-05-20 16:52:09,364 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 16:52:09,370 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 16:52:09,380 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 16:52:09,385 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 17:01:45,994 [main] Test1.StringDemo  - false
+INFO    2022-05-20 17:01:45,995 [main] Test1.StringDemo  - true
+INFO    2022-05-20 17:01:45,996 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 17:01:46,001 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 17:01:46,011 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 17:01:46,016 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 17:16:29,063 [main] Test1.StringDemo  - false
+INFO    2022-05-20 17:16:29,065 [main] Test1.StringDemo  - true
+INFO    2022-05-20 17:16:29,065 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 17:16:29,071 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 17:16:29,080 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 17:16:29,085 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 17:16:50,803 [main] Test1.StringDemo  - false
+INFO    2022-05-20 17:16:50,806 [main] Test1.StringDemo  - true
+INFO    2022-05-20 17:16:50,806 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 17:16:50,811 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 17:16:50,821 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 17:16:50,826 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-20 17:17:20,724 [main] Test1.StringDemo  - false
+INFO    2022-05-20 17:17:20,726 [main] Test1.StringDemo  - true
+INFO    2022-05-20 17:17:20,726 [main] Test1.StringDemo  - both are equal...
+INFO    2022-05-20 17:17:20,732 [main] Test1.StringDemo  - My name is is ..:Billa
+INFO    2022-05-20 17:17:20,743 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70
+INFO    2022-05-20 17:17:20,748 [main] Test1.StringDemo  - My name is is ..:Billa and my age is..:70 and my weight is..:60.500000
+INFO    2022-05-23 13:00:51,475 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 13:00:51,477 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 13:00:51,478 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 13:00:51,478 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 13:00:51,478 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 13:00:51,478 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 13:00:51,478 [main] Test1.House  - steel tap....
+INFO    2022-05-23 13:00:51,478 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 13:00:51,478 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 13:00:51,478 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 13:00:51,478 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 14:41:31,689 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 14:41:31,691 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 14:41:31,691 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 14:41:31,691 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 14:41:31,691 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 14:41:31,691 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 14:41:31,691 [main] Test1.House  - steel tap....
+INFO    2022-05-23 14:41:31,691 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 14:41:31,691 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 14:41:31,691 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 14:41:31,692 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 15:47:01,767 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 15:47:01,768 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 15:47:01,768 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 15:47:01,769 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 15:47:01,769 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 15:47:01,769 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 15:47:01,769 [main] Test1.House  - steel tap....
+INFO    2022-05-23 15:47:01,769 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 15:47:01,769 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 15:47:01,769 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 15:47:01,769 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 15:49:11,184 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 15:49:11,186 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 15:49:11,186 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 15:49:11,186 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 15:49:11,186 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 15:49:11,186 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 15:49:11,186 [main] Test1.House  - steel tap....
+INFO    2022-05-23 15:49:11,186 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 15:49:11,186 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 15:49:11,187 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 15:49:11,187 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 15:49:11,187 [main] Test1.PassByValueDemo  - 30
+INFO    2022-05-23 15:49:11,188 [main] Test1.PassByValueDemo  - hello:30
+INFO    2022-05-23 15:49:54,964 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 15:49:54,966 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 15:49:54,966 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 15:49:54,966 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 15:49:54,966 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 15:49:54,967 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 15:49:54,967 [main] Test1.House  - steel tap....
+INFO    2022-05-23 15:49:54,967 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 15:49:54,967 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 15:49:54,967 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 15:49:54,967 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 15:49:54,968 [main] Test1.PassByValueDemo  - 30
+INFO    2022-05-23 15:49:54,968 [main] Test1.PassByValueDemo  - hello:30
+INFO    2022-05-23 15:50:26,273 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 15:50:26,275 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 15:50:26,275 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 15:50:26,275 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 15:50:26,275 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 15:50:26,275 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 15:50:26,275 [main] Test1.House  - steel tap....
+INFO    2022-05-23 15:50:26,276 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 15:50:26,276 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 15:50:26,276 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 15:50:26,276 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 15:50:26,277 [main] Test1.PassByValueDemo  - 30
+INFO    2022-05-23 15:50:26,277 [main] Test1.PassByValueDemo  - hello:30
+INFO    2022-05-23 15:50:26,277 [main] Test1.StaticDemo  - hi
+INFO    2022-05-23 15:51:23,693 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 15:51:23,695 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 15:51:23,695 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 15:51:23,695 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 15:51:23,695 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 15:51:23,695 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 15:51:23,695 [main] Test1.House  - steel tap....
+INFO    2022-05-23 15:51:23,695 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 15:51:23,695 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 15:51:23,696 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 15:51:23,696 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 15:51:23,696 [main] Test1.PassByValueDemo  - 30
+INFO    2022-05-23 15:51:23,696 [main] Test1.PassByValueDemo  - hello:30
+INFO    2022-05-23 15:51:23,697 [main] Test1.StaticDemo  - hi
+INFO    2022-05-23 15:51:50,960 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 15:51:50,962 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 15:51:50,962 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 15:51:50,962 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 15:51:50,962 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 15:51:50,962 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 15:51:50,963 [main] Test1.House  - steel tap....
+INFO    2022-05-23 15:51:50,963 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 15:51:50,963 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 15:51:50,963 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 15:51:50,963 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 15:51:50,964 [main] Test1.PassByValueDemo  - 30
+INFO    2022-05-23 15:51:50,964 [main] Test1.PassByValueDemo  - hello:30
+INFO    2022-05-23 15:51:50,964 [main] Test1.StaticDemo  - hi
+INFO    2022-05-23 15:52:01,508 [main] Test1.StaticDemo  - this is common saram...
+INFO    2022-05-23 15:52:01,510 [main] Test1.StaticDemo  - Veedu1 saram...:2 ton saram bought...
+INFO    2022-05-23 15:52:01,510 [main] Test1.StaticDemo  - Veedu1 toilet..:western toilet...
+INFO    2022-05-23 15:52:01,510 [main] Test1.House  - plastic..taps...
+INFO    2022-05-23 15:52:01,510 [main] Test1.StaticDemo  - Veedu2 saram...:2 ton saram bought...
+INFO    2022-05-23 15:52:01,510 [main] Test1.StaticDemo  - Veedu2 toilet..:indian toilet...
+INFO    2022-05-23 15:52:01,510 [main] Test1.House  - steel tap....
+INFO    2022-05-23 15:52:01,510 [main] Test1.StaticDemo  - v1..:western toilet...
+INFO    2022-05-23 15:52:01,510 [main] Test1.StaticDemo  - v2..:indian toilet...
+INFO    2022-05-23 15:52:01,510 [main] Test1.StaticDemo  - v2...:3 ton saram....
+INFO    2022-05-23 15:52:01,511 [main] Test1.FloorMill  - wheet is being grinded.......
+INFO    2022-05-23 15:52:01,511 [main] Test1.PassByValueDemo  - 30
+INFO    2022-05-23 15:52:01,511 [main] Test1.PassByValueDemo  - hello:30
+INFO    2022-05-23 15:52:01,511 [main] Test1.StaticDemo  - hi
+INFO    2022-05-23 17:47:02,237 [main] Test1.PassByReferenceDemo  - credited...:100
+INFO    2022-05-23 17:47:02,239 [main] Test1.PassByReferenceDemo  - debited...:200
+INFO    2022-05-23 18:03:01,819 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-23 18:03:01,822 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-23 18:03:01,822 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-23 18:03:01,822 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 09:37:16,270 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 09:37:16,272 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 09:37:16,273 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 09:37:16,273 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 09:37:25,684 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 09:37:25,686 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 09:37:25,687 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 09:37:25,687 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 09:38:57,032 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 09:38:57,034 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 09:38:57,034 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 09:38:57,034 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 09:38:57,034 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 10:51:09,932 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 10:51:09,936 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:51:09,936 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:51:09,936 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 10:51:09,937 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 10:52:49,615 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 10:52:49,617 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:52:49,617 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:52:49,617 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 10:52:49,617 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 10:54:05,724 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 10:54:05,727 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:54:05,727 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:54:05,727 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 10:54:05,727 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 10:54:05,728 [main] Test1.Mutability  - 200
+INFO    2022-05-24 10:54:05,728 [main] Test1.Mutability  - 100
+INFO    2022-05-24 10:54:05,728 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-24 10:54:05,728 [main] Test1.Mutability  - hello
+INFO    2022-05-24 10:54:05,728 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 10:54:05,728 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 10:55:23,020 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 10:55:23,022 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:55:23,023 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:55:23,023 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 10:55:23,023 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 10:55:23,023 [main] Test1.Mutability  - 200
+INFO    2022-05-24 10:55:23,024 [main] Test1.Mutability  - 200
+INFO    2022-05-24 10:55:23,024 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-24 10:55:23,024 [main] Test1.Mutability  - hello
+INFO    2022-05-24 10:55:23,024 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 10:55:23,024 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 10:56:59,604 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 10:56:59,607 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:56:59,607 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:56:59,607 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 10:56:59,607 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 10:56:59,608 [main] Test1.Mutability  - 200
+INFO    2022-05-24 10:56:59,608 [main] Test1.Mutability  - 100
+INFO    2022-05-24 10:56:59,608 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-24 10:56:59,608 [main] Test1.Mutability  - hello
+INFO    2022-05-24 10:56:59,608 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 10:56:59,608 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 10:59:20,235 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 10:59:20,237 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:59:20,237 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:59:20,237 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 10:59:20,238 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 10:59:20,238 [main] Test1.Mutability  - 200
+INFO    2022-05-24 10:59:20,238 [main] Test1.Mutability  - 100
+INFO    2022-05-24 10:59:20,238 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-24 10:59:20,238 [main] Test1.Mutability  - hello
+INFO    2022-05-24 10:59:20,238 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 10:59:20,239 [main] Test1.Mutability  - 10
+INFO    2022-05-24 10:59:52,098 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 10:59:52,100 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:59:52,100 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 10:59:52,100 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 10:59:52,101 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 10:59:52,101 [main] Test1.Mutability  - 200
+INFO    2022-05-24 10:59:52,101 [main] Test1.Mutability  - 100
+INFO    2022-05-24 10:59:52,101 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-24 10:59:52,101 [main] Test1.Mutability  - hello
+INFO    2022-05-24 10:59:52,102 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 10:59:52,102 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 11:00:37,287 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 11:00:37,290 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 11:00:37,290 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 11:00:37,290 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 11:00:37,291 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 11:00:37,291 [main] Test1.Mutability  - 200
+INFO    2022-05-24 11:00:37,291 [main] Test1.Mutability  - 100
+INFO    2022-05-24 11:00:37,291 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-24 11:00:37,291 [main] Test1.Mutability  - hello
+INFO    2022-05-24 11:00:37,292 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 11:00:37,292 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 11:16:04,758 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 11:16:04,760 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 11:16:04,760 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 11:16:04,760 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 11:16:04,761 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 11:16:04,761 [main] Test1.Mutability  - 200
+INFO    2022-05-24 11:16:04,761 [main] Test1.Mutability  - 100
+INFO    2022-05-24 11:16:04,762 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-24 11:16:04,762 [main] Test1.Mutability  - hello
+INFO    2022-05-24 11:16:04,762 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 11:16:04,762 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 11:17:13,109 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-24 11:17:13,111 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 11:17:13,111 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-24 11:17:13,111 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-24 11:17:13,111 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-24 11:17:13,112 [main] Test1.Mutability  - 200
+INFO    2022-05-24 11:17:13,112 [main] Test1.Mutability  - 100
+INFO    2022-05-24 11:17:13,112 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-24 11:17:13,112 [main] Test1.Mutability  - hello
+INFO    2022-05-24 11:17:13,112 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 11:17:13,112 [main] Test1.Mutability  - 110000
+INFO    2022-05-24 12:30:48,595 [main] Test1.StaticComplexType  - Test1.Projector@d44fc21:Test1.Toilet@23faf8f2
+INFO    2022-05-24 12:30:48,597 [main] Test1.StaticComplexType  - Test1.Projector@27a5f880:Test1.Toilet@23faf8f2
+INFO    2022-05-24 12:30:48,597 [main] Test1.StaticComplexType  - Test1.Projector@1d29cf23:Test1.Toilet@23faf8f2
+INFO    2022-05-24 13:00:50,248 [main] Test1.SBDemo  - SBDemo static block called....
+INFO    2022-05-24 13:01:23,045 [main] Test1.SBDemo  - SBDemo static block called....
+INFO    2022-05-24 13:01:52,683 [main] Test1.SBDemo  - SBDemo static block called....
+INFO    2022-05-24 13:02:34,768 [main] Test1.SBDemo  - SBDemo static block called....
+INFO    2022-05-24 13:03:30,750 [main] Test1.SBDemo  - SBDemo static block called....
+INFO    2022-05-24 13:03:30,751 [main] Test1.SBDemo  - static method met called...
+INFO    2022-05-24 13:03:59,627 [main] Test1.SBDemo  - SBDemo static block called....
+INFO    2022-05-24 13:03:59,628 [main] Test1.SBDemo  - static method met called...
+INFO    2022-05-24 13:04:26,232 [main] Test1.SBDemo  - SBDemo static block called....
+INFO    2022-05-24 13:04:26,233 [main] Test1.SBDemo  - static method met called...
+INFO    2022-05-24 17:05:43,890 [main] Test.ArrayDemo  - 10
+INFO    2022-05-24 17:05:43,892 [main] Test.ArrayDemo  - 30
+INFO    2022-05-24 17:05:43,892 [main] Test.ArrayDemo  - The length of array.COLUMNS..4
+INFO    2022-05-24 17:05:43,892 [main] Test.ArrayDemo  - 20
+INFO    2022-05-24 17:05:43,892 [main] Test.ArrayDemo  - No of rows..:4
+INFO    2022-05-24 17:05:43,892 [main] Test.ArrayDemo  - No of columns..:3
+INFO    2022-05-24 17:05:43,892 [main] Test.ArrayDemo  - 5
+INFO    2022-05-24 17:05:43,892 [main] Test.ArrayDemo  - 0
+INFO    2022-05-24 17:05:43,892 [main] Test.ArrayDemo  - 3
+INFO    2022-05-24 17:59:16,951 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-24 17:59:16,953 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-24 17:59:16,954 [main] Test1.StaticDemo  - some value...
+INFO    2022-05-25 09:39:50,200 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-25 09:39:50,202 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-25 09:39:50,203 [main] Test1.StaticDemo  - some value...
+INFO    2022-05-25 09:44:46,732 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-25 09:44:46,734 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-25 09:44:46,734 [main] Test1.StaticDemo  - some value...
+INFO    2022-05-25 09:48:28,184 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-25 09:48:28,187 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-25 09:48:28,187 [main] Test1.StaticDemo  - some value...
+INFO    2022-05-25 09:51:14,432 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-25 09:51:14,435 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-25 09:51:14,435 [main] Test1.StaticDemo  - hi
+INFO    2022-05-25 09:52:11,714 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-25 09:52:11,716 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-25 09:52:11,716 [main] Test1.StaticDemo  - aaaaaaaaaa
+INFO    2022-05-25 09:52:53,795 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-25 09:52:53,798 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-25 09:52:53,798 [main] Test1.StaticDemo  - some value...
+INFO    2022-05-25 09:54:27,130 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-25 09:54:27,132 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-25 09:54:27,133 [main] Test1.StaticDemo  - some value...
+WARN    2022-05-25 11:21:31,433 [main] Test1.TestCalculator  - the sum of 10and 20is..:30
+INFO    2022-05-25 11:21:31,435 [main] Test1.TestCalculator  - 120
+INFO    2022-05-25 11:21:31,435 [main] Test1.TestCalculator  - 120
+INFO    2022-05-25 11:21:31,435 [main] Test1.TestCalculator  - 5
+INFO    2022-05-25 11:21:31,435 [main] Test1.TestCalculator  - The result is..:30
+ERROR   2022-05-25 11:21:31,435 [main] Test1.TestCalculator  - The result is ...:%d440
+WARN    2022-05-25 11:22:15,682 [main] Test1.TestCalculator  - the sum of 10and 20is..:30
+INFO    2022-05-25 11:22:15,684 [main] Test1.TestCalculator  - 120
+INFO    2022-05-25 11:22:15,684 [main] Test1.TestCalculator  - 120
+INFO    2022-05-25 11:22:15,684 [main] Test1.TestCalculator  - 5
+INFO    2022-05-25 11:22:15,684 [main] Test1.TestCalculator  - The result is..:30
+ERROR   2022-05-25 11:22:15,684 [main] Test1.TestCalculator  - The result is ...:%d440
+INFO    2022-05-25 15:56:11,802 [main] Test1.StaticDemo  - fan object created...
+INFO    2022-05-25 15:56:11,804 [main] Test1.StaticDemo  - fan switched on...
+INFO    2022-05-25 15:56:11,805 [main] Test1.StaticDemo  - some value...
+INFO    2022-05-25 16:06:26,876 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:06:26,878 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:06:26,878 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:06:26,878 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:06:26,879 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:06:26,879 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:06:26,879 [main] Test1.DBConnection  - DBCon object created...
+INFO    2022-05-25 16:07:32,773 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:07:32,775 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:32,775 [main] Test1.StaticDemo  - Test1.School@1f7030a6
+INFO    2022-05-25 16:07:32,775 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:32,775 [main] Test1.StaticDemo  - Test1.School@5a1c0542
+INFO    2022-05-25 16:07:32,775 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:32,775 [main] Test1.StaticDemo  - Test1.School@396f6598
+INFO    2022-05-25 16:07:32,776 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:32,776 [main] Test1.StaticDemo  - Test1.School@394e1a0f
+INFO    2022-05-25 16:07:32,776 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:32,776 [main] Test1.StaticDemo  - Test1.School@27a5f880
+ERROR   2022-05-25 16:07:32,776 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+ERROR   2022-05-25 16:07:32,776 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+INFO    2022-05-25 16:07:32,777 [main] Test1.DBConnection  - DBCon object created...
+INFO    2022-05-25 16:07:54,538 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:07:54,540 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:54,541 [main] Test1.StaticDemo  - Test1.School@1f7030a6
+INFO    2022-05-25 16:07:54,541 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:54,541 [main] Test1.StaticDemo  - Test1.School@5a1c0542
+INFO    2022-05-25 16:07:54,541 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:54,541 [main] Test1.StaticDemo  - Test1.School@396f6598
+INFO    2022-05-25 16:07:54,541 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:54,541 [main] Test1.StaticDemo  - Test1.School@394e1a0f
+INFO    2022-05-25 16:07:54,541 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:07:54,541 [main] Test1.StaticDemo  - Test1.School@27a5f880
+ERROR   2022-05-25 16:07:54,541 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+ERROR   2022-05-25 16:07:54,541 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+ERROR   2022-05-25 16:07:54,541 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+INFO    2022-05-25 16:07:54,542 [main] Test1.DBConnection  - DBCon object created...
+INFO    2022-05-25 16:23:41,839 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:23:41,841 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:23:41,841 [main] Test1.StaticDemo  - Test1.School@1f7030a6
+INFO    2022-05-25 16:23:41,841 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:23:41,841 [main] Test1.StaticDemo  - Test1.School@5a1c0542
+INFO    2022-05-25 16:23:41,841 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:23:41,841 [main] Test1.StaticDemo  - Test1.School@396f6598
+INFO    2022-05-25 16:23:41,841 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:23:41,841 [main] Test1.StaticDemo  - Test1.School@394e1a0f
+INFO    2022-05-25 16:23:41,841 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:23:41,841 [main] Test1.StaticDemo  - Test1.School@27a5f880
+ERROR   2022-05-25 16:23:41,841 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+ERROR   2022-05-25 16:23:41,841 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+ERROR   2022-05-25 16:23:41,841 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+INFO    2022-05-25 16:23:41,842 [main] Test1.DBConnection  - DBCon object created...
+INFO    2022-05-25 16:47:35,222 [main] Test1.School  - school object created...
+INFO    2022-05-25 16:47:35,224 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@5a1c0542
+INFO    2022-05-25 16:47:35,224 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@396f6598
+INFO    2022-05-25 16:47:35,224 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@394e1a0f
+INFO    2022-05-25 16:47:35,224 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@27a5f880
+INFO    2022-05-25 16:47:35,224 [main] Test1.School  - school object created...
+ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@1d29cf23
+ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@5f282abb
+ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@5f282abb
+ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@5f282abb
+INFO    2022-05-25 16:47:35,225 [main] Test1.DBConnection  - DBCon object created...
