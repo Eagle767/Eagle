@@ -1,5 +1,5 @@
 package Test1;
-
+//https://fluvid.com/videos/detail/5Ad-5CB2nZtAOgmpy#.Yo4D1mWskzM.link
 import java.io.File;
 
 import org.apache.log4j.Logger;
@@ -44,8 +44,9 @@ class ThisDemo2 {
 	public ThisDemo2(String s) {
 		this.s=s;
 	}
-	
 	public void printS(String s) {
+		//ThisDemo2 a=new ThisDemo2("hi");
+		//s=a.s;
 		logger.info(this.s);
 	}
 }
