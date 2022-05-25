@@ -1,5 +1,5 @@
 package Access;
-public class StateBankClassMethod extends abc {   //it is mainclkass it is also dont change able and
+public class StateBankClassMethod extends efg {   //it is mainclkass it is also dont change able and
 	//and creating object for the main class
 	int e=5,f=6;
 	 //int c=a+b;
@@ -95,7 +95,7 @@ interface cashiar{
 	void ela();
 	int pen();
 }
-abstract class abc{
+abstract class efg{
 	int a=3;
 	int b=5;
 }

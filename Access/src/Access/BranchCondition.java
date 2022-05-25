@@ -49,5 +49,6 @@ public class BranchCondition {
 			logger.info(num1+" is big");
 		}
 		String Day="mon";
+	
 	}
 }

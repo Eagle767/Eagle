@@ -6,7 +6,7 @@ public class Prime {
 		System.out.println("The prime Numbers are ");
 		// TODO Auto-generated method stub
 		for(int n=0;n<=100;n++) {
-			 int i, m=0;
+			 int i, m=0;//actual parameter
 			 boolean flag=true;      
 			  //int n=3;//it is the number to be checked    
 			  m=n/2;      

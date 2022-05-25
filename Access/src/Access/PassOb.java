@@ -1,7 +1,7 @@
 package Access;
 class Test2 { 
-	int a, b; 
-	Test2(int i, int j){ 
+	int a, b; //actual parameter
+	Test2(int i, int j){ //formal parameter
 		a = i; 
 		b = j; 
 		} // return true if o is equal to the invoking object 
