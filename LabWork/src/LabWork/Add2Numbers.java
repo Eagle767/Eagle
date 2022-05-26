@@ -15,11 +15,11 @@ public class Add2Numbers {
 		Scanner s=new Scanner(System.in);
 		int a=s.nextInt();
 		int b=s.nextInt();
-<<<<<<< HEAD
+
 		logger.info("The Given Numbers Are "+a+", "+b);
-=======
+
 		logger.info("The Given Numbers Are "+a+" ,"+b);
->>>>>>> branch 'master' of https://github.com/MayilaiMuthu/Eagle.git
+
 		int sum=a+b;
 		logger.info("The Addition of Two Numbers are "+sum);
 	}
