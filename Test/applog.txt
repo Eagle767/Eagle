@@ -1321,3 +1321,40 @@ ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@5f282abb
 ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@5f282abb
 ERROR   2022-05-25 16:47:35,224 [main] Test1.StaticDemo  - Test1.School@5f282abb
 INFO    2022-05-25 16:47:35,225 [main] Test1.DBConnection  - DBCon object created...
+WARN    2022-05-26 10:51:07,758 [main] Test1.InnerClassEx  - campa cola makes cola...
+INFO    2022-05-26 10:51:07,760 [main] Test1.InnerClassEx  - pepsi fills the cola in pepsi bottle and sells....
+WARN    2022-05-26 10:51:07,760 [main] Test1.InnerClassEx  - campa cola makes cola...
+INFO    2022-05-26 10:51:07,760 [main] Test1.InnerClassEx  - kalimark fills the cola in bovonto bottle and sells...
+INFO    2022-05-26 17:29:24,469 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-26 17:29:24,475 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-26 17:29:24,476 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-26 17:29:24,476 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-26 17:29:24,479 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-26 17:29:24,484 [main] Test1.Mutability  - 200
+INFO    2022-05-26 17:29:24,485 [main] Test1.Mutability  - 100
+INFO    2022-05-26 17:29:24,485 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-26 17:29:24,485 [main] Test1.Mutability  - hello
+INFO    2022-05-26 17:29:24,489 [main] Test1.Mutability  - 110000
+INFO    2022-05-26 17:29:24,489 [main] Test1.Mutability  - 110000
+INFO    2022-05-26 17:29:30,923 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-26 17:29:30,925 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-26 17:29:30,925 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-26 17:29:30,925 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-26 17:29:30,926 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-26 17:29:30,926 [main] Test1.Mutability  - 200
+INFO    2022-05-26 17:29:30,926 [main] Test1.Mutability  - 100
+INFO    2022-05-26 17:29:30,926 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-26 17:29:30,926 [main] Test1.Mutability  - hello
+INFO    2022-05-26 17:29:30,927 [main] Test1.Mutability  - 110000
+INFO    2022-05-26 17:29:30,927 [main] Test1.Mutability  - 110000
+INFO    2022-05-26 17:29:42,841 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBV..:10
+INFO    2022-05-26 17:29:42,844 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-26 17:29:42,844 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBV..:10
+INFO    2022-05-26 17:29:42,844 [main] Test1.PBV_PBR_Demo  - Size of laddu before PBR..:10
+INFO    2022-05-26 17:29:42,844 [main] Test1.PBV_PBR_Demo  - Size of laddu after PBR...:5
+INFO    2022-05-26 17:29:42,844 [main] Test1.Mutability  - 200
+INFO    2022-05-26 17:29:42,845 [main] Test1.Mutability  - 100
+INFO    2022-05-26 17:29:42,845 [main] Test1.Mutability  - helloworld............
+INFO    2022-05-26 17:29:42,845 [main] Test1.Mutability  - hello
+INFO    2022-05-26 17:29:42,845 [main] Test1.Mutability  - 110000
+INFO    2022-05-26 17:29:42,845 [main] Test1.Mutability  - 110000
