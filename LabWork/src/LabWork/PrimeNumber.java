@@ -28,17 +28,13 @@ public class PrimeNumber {
 		else{
 			logger.info("It is not Prime Number \n");
 		}
-		logger.info("PRIME NUMBERS 0 to 100 \n");
+		logger.info("PRIME NUMBERS 0 to 1000 \n");
 		for(int j=0;j<=1000;j++) {
-			if(j==0 || j==1) {
-				//logger.info("Either or Nor Prime Numbers : "+j);
-			}
-			else if(j==2 || j==3 || j==5 || j==7) {
-				//logger.info("Prime Numbers : "+j);
-			}
-			else if(j%2!=0 && j%3!=0 && j%5!=0 && j%7!=0) {
+			
+			if((j==0 || j==1 || j==2 || j==3 || j==5 || j==7) || (j%2!=0 && j%3!=0 && j%5!=0 && j%7!=0) ) {
 				logger.info("Prime Numbers : "+j);
 			}
+			
 			else {
 				//logger.info("Other Numbers : "+j);
 			}
