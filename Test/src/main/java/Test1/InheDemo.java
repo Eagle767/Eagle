@@ -1,23 +1,35 @@
 package Test1;
+
+import java.io.File;
+
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
+
+
 //https://fluvid.com/videos/detail/n8Qdni_r2yIZnOEB_#.YpS6iTDeh8c.link
 public class InheDemo {
 	public static void main(String[] args) {
+String log4jConfigFile=System.getProperty("user.dir")+File.separator+"log4j.Properties";
+		
+		PropertyConfigurator.configure(log4jConfigFile);
 		Dominos dominos=new JahnaviPizza();
 		dominos.sellPizza();
 	}
 }
 abstract class Dominos{
+	static Logger logger=Logger.getLogger(Dominos.class);
 	private void makeDough() {
-		System.out.println("dough made as per the dominos logic..");
+		logger.info("dough made as per the dominos logic..");
 	}
 	private void bakePizza() {
-		System.out.println("pizza baked as the dominos logic..");
+		logger.info("pizza baked as the dominos logic..");
 	}
 	private void addToppings() {
-		System.out.println("toppings added as per the dominos logic..");
+		logger.info("toppings added as per the dominos logic..");
 	}
 	private void packing() {
-		System.out.println("packing done as per dominos logic...");
+		logger.info("packing done as per dominos logic...");
 	}
 	final public void makePizza() {//this method is called template method
 		makeDough();
@@ -36,11 +48,11 @@ abstract class Dominos{
 class JahnaviPizza extends Dominos{
 	@Override
 	public void collectMoney() {
-		System.out.println("money is collected in US Dollors..");
+		logger.info("money is collected in US Dollors..");
 	}
 	@Override
 	public void delivery() {
-		System.out.println("delivery done via benz car....");
+		logger.info("delivery done via benz car....");
 	}
 	
 }
