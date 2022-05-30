@@ -15,7 +15,7 @@ public class PassByValue {
 		laddu.size=10;
 		
 		logger.info("Size of laddu before PBV..:"+laddu.size);//10
-		new PBV().accept(laddu);
+		new PBV().accept(laddu.size);
 		logger.info("Size of laddu after PBV..:"+laddu.size);
 		//logger.info("Size of laddu after PBV..:"+laddu.size);//10
 		
@@ -27,8 +27,8 @@ public class PassByValue {
 	
 }
 class PBV{
-	public void accept(Laddu laddu) {
-		laddu.size= laddu.size-5;
+	public void accept(int size) {
+	    size= size-5;
 	}
 }
 class PBR{
