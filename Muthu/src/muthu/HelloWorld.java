@@ -1,4 +1,4 @@
-package Muthu;
+package muthu;
 
 import java.io.File;
 
