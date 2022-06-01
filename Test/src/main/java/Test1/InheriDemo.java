@@ -20,14 +20,14 @@ public class InheriDemo {
 		}
 	}
 	abstract class IndianPlug{
-		static Logger logger=Logger.getLogger(Dominos.class);
+		static Logger logger=Logger.getLogger(IndianPlug.class);
 		public abstract void roundPin();
 	}
 	abstract class IndianSocket{
 		public abstract void roundPinHole(IndianPlug ip);
 	}
 	abstract class AmericanPlug{
-		static Logger logger=Logger.getLogger(Dominos.class);
+		static Logger logger=Logger.getLogger(AmericanPlug.class);
 		public abstract void slabPin();
 	}
 	abstract class AmericanSocket{

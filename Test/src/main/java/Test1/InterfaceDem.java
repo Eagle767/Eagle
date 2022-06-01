@@ -21,9 +21,9 @@ String log4jConfigFile=System.getProperty("user.dir")+File.separator+"log4j.Prop
 		
 		Command deathCommand=new DeathCertificateCommand(corporation,health,police);
 		
-		sevai.setCommand(deathCommand, 1);
+		sevai.setCommand(deathCommand, 2);
 		
-		sevai.executeCommand(1);
+		sevai.executeCommand(2);
 	}
 	}
 	final class Health{
