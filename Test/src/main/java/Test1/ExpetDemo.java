@@ -8,7 +8,7 @@ public class ExpetDemo {
 				try{
 					String s=args[0];
 					Integer.parseInt(s);
-				}catch(ArrayIndexOutOfBoundsException ae) {
+				}catch(ArrayIndexOutOfBoundsException  ae) {
 					System.out.println(ae);
 				}finally {
 					System.out.println("finally block code called...");
