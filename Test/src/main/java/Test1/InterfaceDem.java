@@ -21,9 +21,9 @@ String log4jConfigFile=System.getProperty("user.dir")+File.separator+"log4j.Prop
 		
 		Command deathCommand=new DeathCertificateCommand(corporation,health,police);
 		
-		sevai.setCommand(deathCommand, 2);
+		sevai.setCommand(deathCommand, 4);
 		
-		sevai.executeCommand(2);
+		sevai.executeCommand(4);
 	}
 	}
 	final class Health{
@@ -46,6 +46,7 @@ String log4jConfigFile=System.getProperty("user.dir")+File.separator+"log4j.Prop
 	}
 	class SevaiMaiyam{
 		Command[] command=new Command[5];
+		DummyCommand[] s=new DummyCommand[3];
 		public SevaiMaiyam() {
 			for(int i=0;i<command.length;i++) {
 				command[i]=new DummyCommand();
@@ -74,7 +75,6 @@ String log4jConfigFile=System.getProperty("user.dir")+File.separator+"log4j.Prop
 		Police police;
 		
 		public DeathCertificateCommand() {
-			// TODO Auto-generated constructor stub
 		}
 		public DeathCertificateCommand(Corporation corporation,Health health,Police police) {
 			
