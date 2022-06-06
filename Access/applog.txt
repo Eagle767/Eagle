@@ -7027,3 +7027,11 @@ INFO    2022-06-02 15:32:06,167 [main] inheritance.MallTest  - The Process is St
 DEBUG   2022-06-02 15:32:06,169 [main] inheritance.MallTest  - The Total cost is...............1770
 DEBUG   2022-06-02 15:32:06,169 [main] inheritance.MallTest  - The Venila cost is...............20
 INFO    2022-06-02 15:32:06,169 [main] inheritance.MallTest  - The Process is Ended.............
+INFO    2022-06-03 14:11:53,354 [main] Access.Total10  - The Integer Value is 10
+WARN    2022-06-03 14:11:53,356 [main] Access.Total10  - The String Value is Muthu
+ERROR   2022-06-03 14:11:53,356 [main] Access.Total10  - The Character Value is M
+DEBUG   2022-06-03 14:11:53,358 [main] Access.Total10  - The Float Value is 12.5
+INFO    2022-06-03 14:15:35,156 [main] Access.Total10  - The Integer Value is 10
+WARN    2022-06-03 14:15:35,157 [main] Access.Total10  - The String Value is Muthu
+ERROR   2022-06-03 14:15:35,157 [main] Access.Total10  - The Character Value is M
+DEBUG   2022-06-03 14:15:35,158 [main] Access.Total10  - The Float Value is 12.5
