@@ -8,6 +8,9 @@ public class FunctionOverLoading {
 		System.out.println("The Money Problem is Coming...............");
 		throw new Exception();
 	}
+	void place(Poolavoorani p) {
+		System.out.println("It is Inside the Poolavoorani...........");
+	}
 	public static void main(String[] args) throws Throwable {
 		FunctionOverLoading fl=new FunctionOverLoading();
 		Function f=new Function();
@@ -15,12 +18,15 @@ public class FunctionOverLoading {
 		Mani m=new Mani();
 		f.function(m);
 		m.Food();
+		fl.place(m);
 		Vembar v=new Vembar();
 		f.function(v);
 		v.Food();
+		fl.place(v);
 		Gopal g=new Gopal();
 		f.function(g);
 		g.Food();
+		//fl.place(g);
 		fl.disp();
 		
 		}catch(Drinkers e) {
@@ -39,10 +45,18 @@ public class FunctionOverLoading {
 	}
 }
 
-abstract class Friends{
+interface Rules{
+	abstract void Food();
+	void ProvideFood();
+}
+
+interface Poolavoorani{}
+
+abstract class Friends implements Rules{
 	Friends(){
 		System.out.println("That Person is My Friend.................");
 	}
+	public void ProvideFood() {}
 }
 
 class Function{
@@ -57,20 +71,20 @@ class Function{
 	}
 }
 
-class Mani extends Friends{
-	void Food() {
+class Mani extends Friends implements Poolavoorani{
+	public void Food() {
 		System.out.println("Breakfast only available...............");
 	}
 }
 
-class Vembar extends Friends{
-	void Food() {
+class Vembar extends Friends implements Poolavoorani{
+	public void Food() {
 		System.out.println("Breakfast and Lunch is available...............");
 	}
 }
 
 class Gopal extends Friends{
-	void Food() {
+	public void Food() {
 		System.out.println("Lunch only available...............");
 	}
 }
