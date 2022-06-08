@@ -475,7 +475,7 @@ final class AccountType{
 	
 	void exe() {
 		
-		System.out.println("The Account Type is Verified.............");
+		System.out.println("The Account  Type is Verified.............");
 		
 	}
 	

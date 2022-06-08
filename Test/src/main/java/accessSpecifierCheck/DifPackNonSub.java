@@ -1,5 +1,5 @@
 package accessSpecifierCheck;
-import Test1.SameClass;
+import chapter6to10.SameClass;
 //https://fluvid.com/videos/detail/aQadEULXXOt3k1YBg#.YpSJGCia9rU.link
 public class DifPackNonSub {
 	public void met() {
