@@ -10,7 +10,7 @@ public class Ascii {
 		//DT150142 - 1st step done
 		char a='e';
 		int b=a;
-		logger.info("The ascii value of "+a+" is "+b);
+		logger.info("The ascii value of "+a+" is "+b );
 		int c=(int) a;
 		logger.info("The cast ascii value of "+a+" is "+c);
 	}
