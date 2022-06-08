@@ -7035,3 +7035,15 @@ INFO    2022-06-03 14:15:35,156 [main] Access.Total10  - The Integer Value is 10
 WARN    2022-06-03 14:15:35,157 [main] Access.Total10  - The String Value is Muthu
 ERROR   2022-06-03 14:15:35,157 [main] Access.Total10  - The Character Value is M
 DEBUG   2022-06-03 14:15:35,158 [main] Access.Total10  - The Float Value is 12.5
+INFO    2022-06-07 12:54:06,339 [main] Access.Total10  - The Integer Value is 10
+WARN    2022-06-07 12:54:06,341 [main] Access.Total10  - The String Value is Muthu
+ERROR   2022-06-07 12:54:06,341 [main] Access.Total10  - The Character Value is M
+DEBUG   2022-06-07 12:54:06,342 [main] Access.Total10  - The Float Value is 12.5
+INFO    2022-06-07 12:54:41,827 [main] Access.Total10  - The Integer Value is 10
+WARN    2022-06-07 12:54:41,828 [main] Access.Total10  - The String Value is Muthu
+ERROR   2022-06-07 12:54:41,828 [main] Access.Total10  - The Character Value is M
+DEBUG   2022-06-07 12:54:41,830 [main] Access.Total10  - The Float Value is 12.5
+INFO    2022-06-07 12:54:56,274 [main] Access.Total10  - The Integer Value is 10
+WARN    2022-06-07 12:54:56,276 [main] Access.Total10  - The String Value is Muthu
+ERROR   2022-06-07 12:54:56,276 [main] Access.Total10  - The Character Value is M
+DEBUG   2022-06-07 12:54:56,277 [main] Access.Total10  - The Float Value is 12.5
