@@ -56,7 +56,7 @@ abstract class FI{
 	
 }
 
-class Hi extends FI{
+final class Hi extends FI{
 	
 	final int a=67;
 	
