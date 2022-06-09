@@ -102,7 +102,7 @@ abstract class VarHigh extends VarTop{
 
 abstract class VarMedium extends VarHigh{
 	
-     int a=16;
+    int a=16;
 	
 }
 
