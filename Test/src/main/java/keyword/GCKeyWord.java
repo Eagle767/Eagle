@@ -104,7 +104,7 @@ class Roads{
 	@Override
 	protected void finalize() throws Throwable {
 		
-		logger.debug("It is a Roads Properties................");
+		logger.debug("It is a Roads Properties...............");
 		
 	}
 	
