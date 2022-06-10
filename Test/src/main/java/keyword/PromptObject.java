@@ -78,6 +78,8 @@ class Ben10 implements Cloneable{
 		
 		}catch(Exception e) {
 			
+			logger.error(e);
+			
 			return null;
 			
 		}
