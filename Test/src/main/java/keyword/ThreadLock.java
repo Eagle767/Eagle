@@ -54,47 +54,69 @@ public class ThreadLock {
 			
 		}
 		
+		es.shutdown();
+		
+		ExecutorService es1=Executors.newFixedThreadPool(3);
+		
 		College batch1=new College();
 		
-		College batch2=new College();
+		es1.execute(()->{
+			
+			Thread.currentThread().setName("Batch1");
+			
+			batch1.FYear();
+			
+			batch1.SYear();
+			
+			batch1.TYear();
+			
+			batch1.FoYear();
+			
+		});
 		
-		College batch3=new College();
+		es1.execute(()->{
+			
+			Thread.currentThread().setName("Batch2");
+			
+			batch1.FYear();
+			
+			batch1.SYear();
+			
+			batch1.TYear();
+			
+			batch1.FoYear();
+			
+		});
 		
-		College batch4=new College();
+		es1.execute(()->{
+			
+			Thread.currentThread().setName("Batch3");
+			
+			batch1.FYear();
+			
+			batch1.SYear();
+			
+			batch1.TYear();
+			
+			batch1.FoYear();
+			
+		});
 		
-		es.execute(()->{Thread.currentThread().setName("Batch1");batch1.FYear();});
+		es1.execute(()->{
+			
+			Thread.currentThread().setName("Batch4");
+			
+			batch1.FYear();
+			
+			batch1.SYear();
+			
+			batch1.TYear();
+			
+			batch1.FoYear();
+			
+		});
 		
-		es.execute(()->{Thread.currentThread().setName("Batch2");batch1.SYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch3");batch1.TYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch4");batch1.FoYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch1");batch2.FYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch2");batch2.SYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch3");batch2.TYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch4");batch2.FoYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch1");batch3.FYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch2");batch3.SYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch3");batch3.TYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch4");batch3.FoYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch1");batch4.FYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch2");batch4.SYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch3");batch4.TYear();});
-		
-		es.execute(()->{Thread.currentThread().setName("Batch4");batch4.FoYear();});
-		
-		es.shutdown();
+		es1.shutdown();
 
 		logger.warn("The Process is Ended............");
 		
@@ -168,7 +190,7 @@ class College{
 		
 		logger.info("The "+name+" 50 Members Joined the College First Year.......");
 		
-		try {Thread.sleep(5000);}catch(Exception e) {}
+		try {Thread.sleep(3000);}catch(Exception e) {}
 		
 		logger.debug("The "+name+" 50 Members Completed First Year..........");
 		
@@ -182,7 +204,7 @@ class College{
 		
 		logger.info("The "+name+" 50 Members Joined the College Second Year.......");
 		
-		try {Thread.sleep(5000);}catch(Exception e) {}
+		try {Thread.sleep(4000);}catch(Exception e) {}
 		
 		logger.debug("The "+name+" 50 Members Completed Second Year..........");
 		
@@ -202,7 +224,7 @@ class College{
 		
 	}
 	
-	synchronized void FoYear() {
+	void FoYear() {
 		
 		Thread t=Thread.currentThread();
 		
@@ -210,7 +232,7 @@ class College{
 		
 		logger.info("The "+name+" 50 Members Joined the College Fourth Year.......");
 		
-		try {Thread.sleep(5000);}catch(Exception e) {}
+		try {Thread.sleep(6000);}catch(Exception e) {}
 		
 		logger.debug("The "+name+" 50 Members Completed Fourth Year..........");
 		
