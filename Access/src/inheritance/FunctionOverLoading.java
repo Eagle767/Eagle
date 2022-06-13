@@ -59,7 +59,7 @@ abstract class Friends implements Rules{
 	public void ProvideFood() {}
 }
 
-class Function{
+final class Function{
 	void function(Mani m) {
 		System.out.println("It is a Mani Anna Marraige Function............");
 	}
@@ -89,8 +89,13 @@ class Gopal extends Friends{
 	}
 }
 
-class Drinkers extends Throwable{
+final class Drinkers extends Throwable{
 	Drinkers() {
 		System.out.println("I don't Know Drinkers...............");
+	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "Drinkers not allowed.........";
 	}
 }
