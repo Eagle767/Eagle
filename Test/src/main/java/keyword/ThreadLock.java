@@ -168,7 +168,7 @@ class SaleProduct{
 		
 		String name=t.getName();
 		
-		logger.debug("Only one "+name+" is saled..........");
+		logger.debug("Only one "+name+" is saled.........");
 		
 		try {Thread.sleep(500);}catch(Exception e) {}
 		
