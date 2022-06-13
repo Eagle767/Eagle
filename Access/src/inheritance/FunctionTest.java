@@ -20,6 +20,7 @@ abstract class Hall{
 	}
 	abstract void chair();
 	abstract void food();
+	
 	abstract void photos();
 }
 
