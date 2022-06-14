@@ -26,7 +26,7 @@ public class ThreadLock {
 		
 		//Cricket c=new Cricket();
 		
-		synchronized(Cricket.class) {
+		synchronized(Cricket.class) {//class lock
 			
 			es.execute(()->{Thread.currentThread().setName("ODI");Cricket.t.throwBall();});
 			
@@ -42,7 +42,7 @@ public class ThreadLock {
 		
 		Shop Shoe=new Shop();
 		
-		synchronized(Bag) {
+		synchronized(Bag) {//object lock
 			
 			es.execute(()->{Thread.currentThread().setName("Eagle Bag");Bag.s.Sale();});
 			
@@ -182,7 +182,7 @@ class College{
 	
 	static Logger logger=Logger.getLogger(College.class);
 	
-	synchronized void FYear() {
+	synchronized void FYear() {//method lock
 		
 		Thread t=Thread.currentThread();
 		
@@ -190,7 +190,7 @@ class College{
 		
 		logger.info("The "+name+" 50 Members Joined the College First Year.......");
 		
-		try {Thread.sleep(3000);}catch(Exception e) {}
+		try {Thread.sleep(300);}catch(Exception e) {}
 		
 		logger.debug("The "+name+" 50 Members Completed First Year..........");
 		
@@ -204,7 +204,7 @@ class College{
 		
 		logger.info("The "+name+" 50 Members Joined the College Second Year.......");
 		
-		try {Thread.sleep(4000);}catch(Exception e) {}
+		try {Thread.sleep(400);}catch(Exception e) {}
 		
 		logger.debug("The "+name+" 50 Members Completed Second Year..........");
 		
@@ -218,7 +218,7 @@ class College{
 		
 		logger.info("The "+name+" 50 Members Joined the College Third Year.......");
 		
-		try {Thread.sleep(5000);}catch(Exception e) {}
+		try {Thread.sleep(500);}catch(Exception e) {}
 		
 		logger.debug("The "+name+" 50 Members Completed Third Year..........");
 		
@@ -232,7 +232,7 @@ class College{
 		
 		logger.info("The "+name+" 50 Members Joined the College Fourth Year.......");
 		
-		try {Thread.sleep(6000);}catch(Exception e) {}
+		try {Thread.sleep(600);}catch(Exception e) {}
 		
 		logger.debug("The "+name+" 50 Members Completed Fourth Year..........");
 		
