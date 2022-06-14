@@ -18,7 +18,7 @@ public class FlagTest {
 	    if(flag) {
 	    	//System.out.println(flag);
 	    	System.out.println("a");
-	    	//f.fast();
+	    	// f.fast();
 	    	// System.out.println(flag==true);
 	    }
 	    System.out.println(flag==true);
