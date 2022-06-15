@@ -21,4 +21,4 @@ class AO extends BO{
 
 class BO extends CE{}
 
-abstract class CE{}
+abstract class CE {}
