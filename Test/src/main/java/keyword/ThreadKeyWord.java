@@ -1,8 +1,9 @@
 package keyword;
 
 import java.io.File;
-import java.util.concurrent.Executor;
+
 import java.util.concurrent.ExecutorService;
+
 import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
@@ -23,12 +24,12 @@ public class ThreadKeyWord {
 		
 		logger.debug("Simple Fun 1..........");
 		
-		//fun();
-		
-		//Thread t=new Thread(new Runner());
-		
-		//t.start();
-		
+//		fun();  //Time loss
+//		
+//		Thread t=new Thread(new Runner());  //old Method
+//		
+//		t.start();
+	
 		ExecutorService e=Executors.newFixedThreadPool(1);
 		
 		e.execute(()->{fun();});
@@ -72,7 +73,7 @@ class Runner implements Runnable{
 		
 		}
 		
-		logger.info("The Big Fun is Started...........");
+		logger.info("The Big Fun also is Started...........");
 		
 	}
 	
