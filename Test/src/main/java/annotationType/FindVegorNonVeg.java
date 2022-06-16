@@ -25,6 +25,8 @@ public class FindVegorNonVeg {
 		
 		Method m=f.getClass().getMethod("Pongal");
 		
+		String s=v.Hi();
+		
 		if(v==null) {
 			
 			logger.debug("It is Veg............");
