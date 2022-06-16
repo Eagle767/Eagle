@@ -3289,3 +3289,314 @@ DEBUG   2022-06-15 17:57:50,045 [main] annotationType.FindVegorNonVeg  - It is V
 WARN    2022-06-15 17:57:50,045 [main] annotationType.FindVegorNonVeg  - end.............
 WARN    2022-06-15 18:03:26,765 [main] annotationType.FindVegorNonVeg  - Start............
 WARN    2022-06-15 18:04:21,298 [main] annotationType.FindVegorNonVeg  - Start............
+WARN    2022-06-16 11:52:09,101 [main] multiThread.BeforeEnumTest  - Start..................
+INFO    2022-06-16 11:52:09,103 [main] multiThread.BeforeEnumTest  - HELLO
+INFO    2022-06-16 11:52:09,103 [main] multiThread.BeforeEnumTest  - HI
+INFO    2022-06-16 11:52:09,103 [main] multiThread.BeforeEnumTest  - HIII
+WARN    2022-06-16 11:52:09,103 [main] multiThread.BeforeEnumTest  - End................
+WARN    2022-06-16 11:57:54,502 [main] multiThread.EnumTest  - Start...............
+WARN    2022-06-16 11:57:54,505 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 11:58:55,616 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 11:58:55,618 [main] multiThread.EnumTest  - HAI
+WARN    2022-06-16 11:58:55,618 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:00:24,227 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:00:24,229 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:00:24,229 [main] multiThread.EnumTest  - HAI
+WARN    2022-06-16 12:00:24,229 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:00:58,658 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:00:58,661 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:00:58,661 [main] multiThread.EnumTest  - HAI
+WARN    2022-06-16 12:00:58,661 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:01:24,051 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:01:24,053 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:01:24,053 [main] multiThread.EnumTest  - HELLO
+WARN    2022-06-16 12:01:24,053 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:01:36,850 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:01:36,852 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:01:36,852 [main] multiThread.EnumTest  - HELLO
+WARN    2022-06-16 12:01:36,852 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:02:03,615 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:02:03,617 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:02:03,617 [main] multiThread.EnumTest  - HAI
+WARN    2022-06-16 12:02:03,617 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:11:48,255 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:11:48,258 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:11:48,258 [main] multiThread.EnumTest  - HAI
+WARN    2022-06-16 12:11:48,258 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:15:15,664 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:15:15,667 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:15:15,667 [main] multiThread.EnumTest  - HAI
+WARN    2022-06-16 12:15:15,667 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:17:40,570 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:17:40,572 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:17:40,572 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 12:17:40,572 [main] multiThread.EnumTest  - 1
+WARN    2022-06-16 12:17:40,572 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:18:12,798 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:18:12,801 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:18:12,801 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 12:18:12,801 [main] multiThread.EnumTest  - 1
+WARN    2022-06-16 12:18:12,801 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:19:15,115 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:19:15,118 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:19:15,118 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 12:19:15,118 [main] multiThread.EnumTest  - 1
+INFO    2022-06-16 12:19:15,118 [main] multiThread.EnumTest  - [LmultiThread.HelloEnum;@5a1c0542
+INFO    2022-06-16 12:19:15,118 [main] multiThread.EnumTest  - [LmultiThread.HelloEnum;@5a1c0542
+INFO    2022-06-16 12:19:15,118 [main] multiThread.EnumTest  - [LmultiThread.HelloEnum;@5a1c0542
+INFO    2022-06-16 12:19:15,119 [main] multiThread.EnumTest  - [LmultiThread.HelloEnum;@5a1c0542
+WARN    2022-06-16 12:19:15,119 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:19:22,764 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:19:22,767 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:19:22,767 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 12:19:22,767 [main] multiThread.EnumTest  - 1
+INFO    2022-06-16 12:19:22,767 [main] multiThread.EnumTest  - HI
+INFO    2022-06-16 12:19:22,767 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 12:19:22,767 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:19:22,767 [main] multiThread.EnumTest  - HIII
+WARN    2022-06-16 12:19:22,767 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 12:28:16,496 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 12:28:16,499 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:28:16,499 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 12:28:16,499 [main] multiThread.EnumTest  - 1
+INFO    2022-06-16 12:28:16,499 [main] multiThread.EnumTest  - HI
+INFO    2022-06-16 12:28:16,499 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 12:28:16,499 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 12:28:16,500 [main] multiThread.EnumTest  - HIII
+DEBUG   2022-06-16 12:28:16,500 [main] multiThread.EnumTest  - HELLO
+WARN    2022-06-16 12:28:16,500 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 14:03:45,969 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 14:03:45,971 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - 1
+INFO    2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HI...................HI
+DEBUG   2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HAI...................null
+DEBUG   2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HELLO...................null
+DEBUG   2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HIII...................null
+DEBUG   2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HELLO
+DEBUG   2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - HELLO
+WARN    2022-06-16 14:03:45,972 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 14:04:00,687 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - 1
+INFO    2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - HI...................HI
+INFO    2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - HAI...................null
+INFO    2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - HELLO...................null
+INFO    2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - HIII...................null
+DEBUG   2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - HELLO
+WARN    2022-06-16 14:04:00,690 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 14:04:23,207 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - 1
+INFO    2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - HI...................0
+INFO    2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - HAI...................99
+INFO    2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - HELLO...................0
+INFO    2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - HIII...................1
+DEBUG   2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - HELLO
+WARN    2022-06-16 14:04:23,210 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 14:04:30,462 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 14:04:30,464 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 14:04:30,464 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 14:04:30,464 [main] multiThread.EnumTest  - 1
+INFO    2022-06-16 14:04:30,465 [main] multiThread.EnumTest  - HI...................0.0
+INFO    2022-06-16 14:04:30,465 [main] multiThread.EnumTest  - HAI...................0.0
+INFO    2022-06-16 14:04:30,466 [main] multiThread.EnumTest  - HELLO...................26.5
+INFO    2022-06-16 14:04:30,466 [main] multiThread.EnumTest  - HIII...................0.0
+DEBUG   2022-06-16 14:04:30,466 [main] multiThread.EnumTest  - HELLO
+WARN    2022-06-16 14:04:30,466 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 14:04:51,398 [main] multiThread.EnumTest  - Start...............
+INFO    2022-06-16 14:04:51,400 [main] multiThread.EnumTest  - HELLO
+INFO    2022-06-16 14:04:51,400 [main] multiThread.EnumTest  - HAI
+INFO    2022-06-16 14:04:51,401 [main] multiThread.EnumTest  - 1
+INFO    2022-06-16 14:04:51,401 [main] multiThread.EnumTest  - HI...................HI
+INFO    2022-06-16 14:04:51,401 [main] multiThread.EnumTest  - HAI...................null
+INFO    2022-06-16 14:04:51,401 [main] multiThread.EnumTest  - HELLO...................null
+INFO    2022-06-16 14:04:51,401 [main] multiThread.EnumTest  - HIII...................null
+DEBUG   2022-06-16 14:04:51,401 [main] multiThread.EnumTest  - HELLO
+WARN    2022-06-16 14:04:51,401 [main] multiThread.EnumTest  - End...........................
+WARN    2022-06-16 15:51:29,892 [main] collection.CollectionList  - Start...............
+WARN    2022-06-16 15:51:29,894 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 15:54:31,970 [main] collection.CollectionList  - Start...............
+WARN    2022-06-16 15:54:31,973 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 15:54:47,637 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 15:54:47,640 [main] collection.CollectionList  - [1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+WARN    2022-06-16 15:54:47,641 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 15:55:51,761 [main] collection.CollectionList  - Start...............
+ERROR   2022-06-16 15:55:51,763 [main] collection.CollectionList  - It is Wrong..........
+INFO    2022-06-16 15:55:51,763 [main] collection.CollectionList  - [1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+WARN    2022-06-16 15:55:51,765 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 15:56:18,539 [main] collection.CollectionList  - Start...............
+ERROR   2022-06-16 15:56:18,541 [main] collection.CollectionList  - It is Wrong..........
+INFO    2022-06-16 15:56:18,541 [main] collection.CollectionList  - [1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+WARN    2022-06-16 15:56:18,543 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 15:58:02,598 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 15:58:02,602 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+WARN    2022-06-16 15:58:02,602 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:00:10,960 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:00:10,964 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+WARN    2022-06-16 16:00:10,964 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:00:47,354 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:00:47,358 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:00:47,358 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+WARN    2022-06-16 16:00:47,358 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:01:35,378 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:01:35,382 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:01:35,382 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+WARN    2022-06-16 16:01:35,382 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:33:31,259 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:33:31,263 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:33:31,263 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:33:31,263 [main] collection.CollectionList  - [Hello]
+WARN    2022-06-16 16:33:31,263 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:35:50,898 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:35:50,902 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:35:50,902 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:35:50,902 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+WARN    2022-06-16 16:35:50,902 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:36:24,980 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:36:24,984 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:36:24,984 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:36:24,984 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+WARN    2022-06-16 16:36:24,984 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:39:04,218 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:39:04,222 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:39:04,222 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:39:04,222 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2, [1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:39:04,222 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+WARN    2022-06-16 16:39:04,222 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:39:44,345 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:39:44,349 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:39:44,349 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:39:44,349 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], 1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:39:44,349 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+WARN    2022-06-16 16:39:44,349 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:40:53,376 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:40:53,380 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:40:53,380 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:40:53,380 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], 1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:40:53,380 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:40:53,380 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:40:53,380 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 16:40:53,380 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:40:53,380 [main] collection.CollectionList  - HI
+WARN    2022-06-16 16:40:53,380 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:41:01,777 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:41:01,781 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:41:01,781 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:41:01,781 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], 1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:41:01,781 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:41:01,781 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:41:01,781 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:41:01,782 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:41:01,782 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+WARN    2022-06-16 16:41:01,782 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:41:11,853 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:41:11,857 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:41:11,857 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:41:11,857 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], 1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:41:11,857 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:41:11,857 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:41:11,857 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 16:41:11,858 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:41:11,858 [main] collection.CollectionList  - HI
+WARN    2022-06-16 16:41:11,858 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:48:37,732 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:48:37,736 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:48:37,736 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:48:37,736 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], 1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:48:37,736 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:48:37,736 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:48:37,736 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 16:48:37,736 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:48:37,736 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:48:37,736 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:48:37,736 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:48:37,736 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:48:37,736 [main] collection.CollectionList  - HI
+WARN    2022-06-16 16:48:37,736 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:49:27,291 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:49:27,295 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:49:27,295 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:49:27,295 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], 1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:49:27,295 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:49:27,295 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:49:27,295 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 16:49:27,295 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:49:27,295 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:49:27,295 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:49:27,295 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:49:27,295 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:49:27,295 [main] collection.CollectionList  - HI
+WARN    2022-06-16 16:49:27,295 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:50:11,979 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:50:11,983 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:50:11,983 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:50:11,983 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:50:11,983 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:50:11,984 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:50:11,984 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 16:50:11,984 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:50:11,984 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:50:11,984 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:50:11,984 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:50:11,984 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:50:11,984 [main] collection.CollectionList  - HI
+WARN    2022-06-16 16:50:11,984 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:50:51,558 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:50:51,562 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:50:51,562 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:50:51,562 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:50:51,562 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:50:51,562 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:50:51,562 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 16:50:51,562 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:50:51,563 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:50:51,563 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:50:51,563 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:50:51,563 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:50:51,563 [main] collection.CollectionList  - HI
+WARN    2022-06-16 16:50:51,563 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 16:53:39,585 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:53:39,589 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:53:39,589 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:53:39,589 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:53:39,589 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:53:39,589 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:53:39,589 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 16:53:39,589 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:53:39,589 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:53:39,589 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:53:39,589 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:53:39,589 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:53:39,589 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:53:39,590 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-16 16:53:39,590 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-16 16:53:39,590 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-16 16:53:39,590 [main] collection.CollectionList  - It is Correct order......HI
+WARN    2022-06-16 16:54:35,701 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 16:54:35,705 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:54:35,705 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 16:54:35,705 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 16:54:35,705 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 16:54:35,705 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:54:35,705 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 16:54:35,705 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 16:54:35,705 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:54:35,705 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - HI
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Reverse order......HI
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Reverse order......Hello
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Reverse order......HI
+INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Reverse order......Hello
+WARN    2022-06-16 16:54:35,706 [main] collection.CollectionList  - End...............
