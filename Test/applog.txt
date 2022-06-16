@@ -3600,3 +3600,47 @@ INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Revers
 INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Reverse order......HI
 INFO    2022-06-16 16:54:35,706 [main] collection.CollectionList  - It is Reverse order......Hello
 WARN    2022-06-16 16:54:35,706 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 17:00:08,535 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 17:00:08,539 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 17:00:08,539 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 17:00:08,539 [main] collection.CollectionList  - It is Wrong..........But Vailable.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 17:00:08,539 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 17:00:08,539 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 17:00:08,539 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 17:00:08,539 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 17:00:08,540 [main] collection.CollectionList  - HI
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - HI
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - HI
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - It is Reverse order......HI
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - It is Reverse order......Hello
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - It is Reverse order......HI
+INFO    2022-06-16 17:00:08,540 [main] collection.CollectionList  - It is Reverse order......Hello
+WARN    2022-06-16 17:00:08,540 [main] collection.CollectionList  - End...............
+WARN    2022-06-16 17:00:54,470 [main] collection.CollectionList  - Start...............
+INFO    2022-06-16 17:00:54,473 [main] collection.CollectionList  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 17:00:54,474 [main] collection.CollectionList  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-16 17:00:54,474 [main] collection.CollectionList  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-16 17:00:54,474 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-16 17:00:54,474 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 17:00:54,474 [main] collection.CollectionList  - HI
+DEBUG   2022-06-16 17:00:54,474 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-16 17:00:54,474 [main] collection.CollectionList  - HI
+INFO    2022-06-16 17:00:54,474 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 17:00:54,474 [main] collection.CollectionList  - HI
+INFO    2022-06-16 17:00:54,474 [main] collection.CollectionList  - Hello
+INFO    2022-06-16 17:00:54,474 [main] collection.CollectionList  - HI
+INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Reverse order......HI
+INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Reverse order......Hello
+INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Reverse order......HI
+INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Reverse order......Hello
+WARN    2022-06-16 17:00:54,475 [main] collection.CollectionList  - End...............

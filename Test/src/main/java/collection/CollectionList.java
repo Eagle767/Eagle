@@ -39,7 +39,7 @@ public class CollectionList {
 		
 		l.add(new Fjhj());
 		
-		logger.info("It is Wrong..........But Vailable........."+l);
+		logger.info("It is Wrong..........But Available........."+l);
 		
 		List<Object> s=new ArrayList<>();
 		
@@ -47,11 +47,11 @@ public class CollectionList {
 		
 		s.add(l);
 		
-		logger.info("It is Wrong..........But Vailable........."+s);
+		logger.info("It is Wrong..........But Available........."+s);
 		
 		s.addAll(l);
 		
-		logger.info("It is Wrong..........But Vailable........."+s);
+		logger.info("It is Wrong..........But Available........."+s);
 		
 		List<String> a=new ArrayList<>();
 		
