@@ -3644,3 +3644,2321 @@ INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Revers
 INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Reverse order......HI
 INFO    2022-06-16 17:00:54,475 [main] collection.CollectionList  - It is Reverse order......Hello
 WARN    2022-06-16 17:00:54,475 [main] collection.CollectionList  - End...............
+WARN    2022-06-17 09:48:21,991 [main] collection.CollectionList  - Start...............
+INFO    2022-06-17 09:48:22,002 [main] collection.CollectionList  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-17 09:48:22,003 [main] collection.CollectionList  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-17 09:48:22,003 [main] collection.CollectionList  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-17 09:48:22,003 [main] collection.CollectionList  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 09:48:22,004 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-17 09:48:22,004 [main] collection.CollectionList  - HI
+DEBUG   2022-06-17 09:48:22,004 [main] collection.CollectionList  - Hello
+DEBUG   2022-06-17 09:48:22,004 [main] collection.CollectionList  - HI
+INFO    2022-06-17 09:48:22,004 [main] collection.CollectionList  - Hello
+INFO    2022-06-17 09:48:22,004 [main] collection.CollectionList  - HI
+INFO    2022-06-17 09:48:22,004 [main] collection.CollectionList  - Hello
+INFO    2022-06-17 09:48:22,004 [main] collection.CollectionList  - HI
+INFO    2022-06-17 09:48:22,004 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-17 09:48:22,005 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-17 09:48:22,005 [main] collection.CollectionList  - It is Correct order......Hello
+INFO    2022-06-17 09:48:22,005 [main] collection.CollectionList  - It is Correct order......HI
+INFO    2022-06-17 09:48:22,005 [main] collection.CollectionList  - It is Reverse order......HI
+INFO    2022-06-17 09:48:22,005 [main] collection.CollectionList  - It is Reverse order......Hello
+INFO    2022-06-17 09:48:22,005 [main] collection.CollectionList  - It is Reverse order......HI
+INFO    2022-06-17 09:48:22,005 [main] collection.CollectionList  - It is Reverse order......Hello
+WARN    2022-06-17 09:48:22,005 [main] collection.CollectionList  - End...............
+WARN    2022-06-17 11:14:51,544 [main] multiThread.StringTokanizerTest  - Start............
+WARN    2022-06-17 11:14:51,546 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:16:03,761 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:16:03,763 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:16:03,763 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:16:03,763 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:16:03,764 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:16:03,764 [main] multiThread.StringTokanizerTest  - you
+WARN    2022-06-17 11:16:03,764 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:16:53,975 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:16:53,977 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:16:53,977 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:16:53,977 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:16:53,978 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:16:53,978 [main] multiThread.StringTokanizerTest  - you
+WARN    2022-06-17 11:16:53,978 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:19:28,894 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:19:28,896 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:19:28,896 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:19:28,896 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:19:28,896 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:19:28,896 [main] multiThread.StringTokanizerTest  - you
+WARN    2022-06-17 11:19:28,896 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:20:08,239 [main] multiThread.StringTokanizerTest  - Start............
+DEBUG   2022-06-17 11:20:08,241 [main] multiThread.StringTokanizerTest  - Hello
+DEBUG   2022-06-17 11:20:08,241 [main] multiThread.StringTokanizerTest  - Muthu
+DEBUG   2022-06-17 11:20:08,241 [main] multiThread.StringTokanizerTest  - How
+DEBUG   2022-06-17 11:20:08,241 [main] multiThread.StringTokanizerTest  - are
+DEBUG   2022-06-17 11:20:08,241 [main] multiThread.StringTokanizerTest  - you
+WARN    2022-06-17 11:20:08,241 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:20:49,288 [main] multiThread.StringTokanizerTest  - Start............
+DEBUG   2022-06-17 11:20:49,290 [main] multiThread.StringTokanizerTest  - Hello
+DEBUG   2022-06-17 11:20:49,290 [main] multiThread.StringTokanizerTest  - Muthu
+DEBUG   2022-06-17 11:20:49,290 [main] multiThread.StringTokanizerTest  - How
+DEBUG   2022-06-17 11:20:49,290 [main] multiThread.StringTokanizerTest  - are
+DEBUG   2022-06-17 11:20:49,290 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:20:49,290 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:20:49,290 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:20:49,291 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:20:49,291 [main] multiThread.StringTokanizerTest  -  Hiii
+WARN    2022-06-17 11:20:49,291 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:21:10,673 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:21:10,675 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:21:10,675 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:21:10,675 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:21:10,675 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:21:10,675 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:21:10,675 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:21:10,675 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:21:10,676 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:21:10,676 [main] multiThread.StringTokanizerTest  -  Hiii
+WARN    2022-06-17 11:21:10,676 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:21:26,987 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:21:26,989 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:21:26,989 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:21:26,989 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:21:26,989 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:21:26,989 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:21:26,990 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:21:26,990 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:21:26,990 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:21:26,990 [main] multiThread.StringTokanizerTest  -  Hiii
+WARN    2022-06-17 11:21:26,990 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:22:00,278 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:22:00,280 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  -  Hiii
+WARN    2022-06-17 11:22:00,281 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:22:10,429 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:22:10,431 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:22:10,431 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:22:10,431 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:22:10,431 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  -  Hiii
+WARN    2022-06-17 11:22:10,432 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:23:38,301 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:23:38,303 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  -  Hiii
+WARN    2022-06-17 11:23:38,304 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:25:45,419 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:25:45,421 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:25:45,422 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:25:45,423 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:25:45,423 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:25:45,423 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:25:45,423 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:25:45,423 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:25:45,423 [main] multiThread.StringTokanizerTest  -  Hiii
+WARN    2022-06-17 11:25:45,423 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:26:55,436 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:26:55,438 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:26:55,438 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:26:55,438 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:26:55,438 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:26:55,439 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:26:55,440 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:26:55,440 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:26:55,440 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:26:55,440 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:26:55,440 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:27:29,097 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:27:29,099 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:27:29,099 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:27:29,099 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:27:29,099 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:27:29,099 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:27:29,099 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:27:29,099 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - 3
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:27:29,100 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:27:29,101 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:27:29,101 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:27:29,101 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:27:29,101 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:27:29,101 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:43:52,032 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:43:52,034 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:43:52,034 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:43:52,034 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:43:52,034 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:43:52,034 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:43:52,034 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:43:52,034 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - 3
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:43:52,035 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:43:52,036 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:43:52,036 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:43:52,036 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:43:52,036 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:43:52,036 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:44:14,319 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:44:14,321 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - 3
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - World 
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:44:14,322 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:44:14,323 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:44:14,323 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:44:14,323 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:44:44,423 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:44:44,425 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  - Hello World aa Hi aa Hiii
+INFO    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:44:44,426 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:44:54,583 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:44:54,585 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - ello World aa 
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - i aa 
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:44:54,586 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:44:54,587 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:45:24,744 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:45:24,746 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:45:24,747 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:45:24,748 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:45:24,748 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:45:24,748 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:46:04,968 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:46:04,970 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:46:04,970 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:46:04,970 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:46:04,970 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:46:04,970 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:46:04,971 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:46:04,972 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:46:04,972 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:46:04,972 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:46:04,972 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:46:04,972 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:46:15,128 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:46:15,130 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:46:15,130 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:15,131 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:46:15,132 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:46:42,910 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:46:42,912 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:46:42,912 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:46:42,912 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:46:42,912 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:46:42,912 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:46:42,913 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:46:42,914 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:46:42,914 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:46:42,914 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:46:42,914 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:46:42,914 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:46:42,914 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:47:00,691 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:47:00,693 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:47:00,693 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:47:00,693 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:47:00,693 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:47:00,693 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:47:00,693 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:47:00,693 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:47:00,694 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:47:00,695 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:47:00,695 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:47:52,187 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:47:52,189 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:47:52,190 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:48:38,049 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:48:38,051 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:48:38,051 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:48:38,051 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:48:38,051 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:48:38,051 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:48:38,052 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:48:38,053 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:48:38,053 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:48:38,053 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:48:38,053 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:48:38,053 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:48:38,053 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:48:38,053 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:48:38,053 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:50:06,065 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:50:06,068 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:50:06,069 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:50:43,473 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:50:43,475 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:50:43,476 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:50:43,477 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:50:43,477 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:50:43,477 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:50:43,477 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:50:43,477 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:51:06,160 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:51:06,162 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:51:06,163 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:51:06,164 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:51:06,164 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:51:06,164 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:51:06,164 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:51:06,164 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:51:31,134 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:51:31,136 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:51:31,137 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:51:31,138 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:51:31,138 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:51:45,409 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:51:45,411 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:51:45,412 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:51:45,413 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:51:45,413 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:54:06,987 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:54:06,989 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:54:06,990 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:54:24,146 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:54:24,148 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:54:24,148 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:54:24,148 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:54:24,148 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:54:24,148 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:54:24,148 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:54:24,149 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:54:24,150 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:55:04,662 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:55:04,664 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:55:04,664 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:55:04,664 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:55:04,664 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:55:04,664 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:55:04,664 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:55:04,665 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:55:04,666 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:55:04,666 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:55:04,666 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:55:04,666 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:55:04,666 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:55:04,666 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:55:04,666 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:55:04,666 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:55:26,807 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:55:26,808 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+DEBUG   2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - Hello
+DEBUG   2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - Muthu
+DEBUG   2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - How
+DEBUG   2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - are
+DEBUG   2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:26,809 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:55:26,810 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 11:55:46,913 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:46,915 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 11:55:46,916 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:02:59,559 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:02:59,561 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:02:59,561 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:02:59,561 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:02:59,561 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:02:59,561 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:02:59,561 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:02:59,561 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:02:59,561 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:02:59,562 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:02:59,563 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:02:59,563 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:02:59,563 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:02:59,563 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:02:59,563 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:02:59,563 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:02:59,563 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 12:02:59,563 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:03:31,078 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:03:31,080 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:03:31,080 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:03:31,080 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:03:31,080 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:03:31,080 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:03:31,080 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:03:31,081 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+WARN    2022-06-17 12:03:31,082 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:04:14,846 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:04:14,848 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:04:14,848 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:04:14,849 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@5a1c0542
+WARN    2022-06-17 12:04:14,850 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:04:48,554 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:04:48,556 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:04:48,556 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:04:48,556 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:04:48,556 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:04:48,556 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:04:48,556 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:04:48,556 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:04:48,556 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:04:48,557 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:04:48,558 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:04:48,558 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:04:48,558 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:04:48,558 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:04:48,558 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:04:48,558 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@5a1c0542
+WARN    2022-06-17 12:04:48,558 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:05:58,975 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:05:58,977 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:05:58,977 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:05:58,977 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:05:58,977 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:05:58,977 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:05:58,977 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:05:58,978 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@5a1c0542
+INFO    2022-06-17 12:05:58,979 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:05:58,980 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:06:18,613 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:06:18,616 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:06:18,617 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+INFO    2022-06-17 12:06:18,618 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:06:18,618 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:08:14,700 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:08:14,702 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:08:14,702 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:08:14,702 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:08:14,702 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:08:14,702 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:08:14,702 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:08:14,702 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:08:14,703 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+INFO    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:08:14,704 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:13:21,139 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:13:21,141 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:13:21,141 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:13:21,142 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:13:21,143 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:13:21,143 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:13:21,143 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:13:21,143 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:13:21,143 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:13:21,143 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:13:21,143 [main] multiThread.StringTokanizerTest  - 0
+WARN    2022-06-17 12:15:37,937 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:15:37,939 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:15:37,939 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:15:37,939 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:15:37,939 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:15:37,939 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:15:37,939 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:15:37,940 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+INFO    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:15:37,941 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:19:50,429 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:19:50,430 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:19:50,431 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............3
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............2
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............1
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:19:50,432 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:19:50,433 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:19:50,433 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:19:50,433 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+INFO    2022-06-17 12:19:50,433 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:19:50,433 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:20:49,558 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:20:49,560 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:20:49,560 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:20:49,560 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:20:49,560 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:20:49,560 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:20:49,561 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............3
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............2
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............1
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:20:49,562 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:20:49,563 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+INFO    2022-06-17 12:20:49,563 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:20:49,563 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:23:20,020 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:23:20,022 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:23:20,023 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............11
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............2
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - How many Tokans are there..............3
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:23:20,024 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+INFO    2022-06-17 12:23:20,025 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:23:20,025 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:24:58,852 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:24:58,854 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:24:58,854 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:24:58,854 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:24:58,854 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:24:58,854 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:24:58,854 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:24:58,854 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - How many letterss are there..............11
+INFO    2022-06-17 12:24:58,855 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - How many letterss are there..............2
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - How many letterss are there..............3
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - 1454031203
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+INFO    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:24:58,856 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 12:47:07,680 [main] multiThread.StringTokanizerTest  - Start............
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - No Delimiters..................
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - Hello
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - Muthu
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - How
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - are
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - you
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - Delimiters..................
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean True..................
+INFO    2022-06-17 12:47:07,683 [main] multiThread.StringTokanizerTest  - Hello 
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  -  World 
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  -  Hi 
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - :
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  -  Hiii
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - Delimiters and Boolean false..................
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - ello World 
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - 2
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - How many letterss are there..............11
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - i 
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - 1
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - How many letterss are there..............2
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - iii
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:47:07,684 [main] multiThread.StringTokanizerTest  - How many letterss are there..............3
+INFO    2022-06-17 12:47:07,685 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:47:07,685 [main] multiThread.StringTokanizerTest  - false
+INFO    2022-06-17 12:47:07,685 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@56aac163
+INFO    2022-06-17 12:47:07,685 [main] multiThread.StringTokanizerTest  - 0
+INFO    2022-06-17 12:47:07,685 [main] multiThread.StringTokanizerTest  - java.util.StringTokenizer@1f7030a6
+INFO    2022-06-17 12:47:07,685 [main] multiThread.StringTokanizerTest  - java.util.Enumeration$1@396f6598
+WARN    2022-06-17 12:47:07,685 [main] multiThread.StringTokanizerTest  - End....................
+WARN    2022-06-17 14:26:08,285 [main] collection.ArrayListTest  - Start...............
+INFO    2022-06-17 14:26:08,289 [main] collection.ArrayListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-17 14:26:08,289 [main] collection.ArrayListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]]
+INFO    2022-06-17 14:26:08,289 [main] collection.ArrayListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2], Hi, c, 27.5, 5.6, collection.Fjhj@4d95d2a2]
+INFO    2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - Hello
+DEBUG   2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - HI
+DEBUG   2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - Hello
+DEBUG   2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - HI
+INFO    2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - Hello
+INFO    2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - HI
+INFO    2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - Hello
+INFO    2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - HI
+INFO    2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:26:08,290 [main] collection.ArrayListTest  - It is Correct order......HI
+INFO    2022-06-17 14:26:08,291 [main] collection.ArrayListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:26:08,291 [main] collection.ArrayListTest  - It is Correct order......HI
+INFO    2022-06-17 14:26:08,291 [main] collection.ArrayListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:26:08,291 [main] collection.ArrayListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:26:08,291 [main] collection.ArrayListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:26:08,291 [main] collection.ArrayListTest  - It is Reverse order......Hello
+WARN    2022-06-17 14:26:08,291 [main] collection.ArrayListTest  - End...............
+WARN    2022-06-17 14:26:35,918 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:26:35,923 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - It is Reverse order......Hello
+WARN    2022-06-17 14:26:35,924 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:28:29,048 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:28:29,052 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:28:29,052 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:28:29,052 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:28:29,052 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:28:29,052 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:28:29,053 [main] collection.LinkedListTest  - It is Reverse order......Hello
+WARN    2022-06-17 14:28:29,054 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:31:51,122 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:31:51,126 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:31:51,126 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:31:51,127 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:31:51,128 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:31:51,128 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:31:51,128 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:31:51,128 [main] collection.LinkedListTest  - It is Reverse order......Hello
+WARN    2022-06-17 14:31:51,128 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:33:18,653 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:33:18,657 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:33:18,657 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:33:18,657 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:33:18,657 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:33:18,657 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:33:18,657 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:33:18,657 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - class collection.LinkedListTest
+WARN    2022-06-17 14:33:18,658 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:34:42,881 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:34:42,886 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:34:42,886 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:34:42,886 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:34:42,887 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:34:42,888 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:34:42,888 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:34:42,888 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:34:42,888 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:34:42,888 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:34:42,888 [main] collection.LinkedListTest  - class collection.LinkedListTest
+INFO    2022-06-17 14:34:42,888 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+WARN    2022-06-17 14:34:42,888 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:34:52,799 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:34:52,804 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:34:52,804 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:34:52,804 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:34:52,805 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:34:52,806 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:34:52,806 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:34:52,806 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:34:52,806 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:34:52,806 [main] collection.LinkedListTest  - class collection.LinkedListTest
+INFO    2022-06-17 14:34:52,806 [main] collection.LinkedListTest  - java.util.LinkedList$ListItr@3b088d51
+WARN    2022-06-17 14:34:52,806 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:35:37,779 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:35:37,784 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - class collection.LinkedListTest
+INFO    2022-06-17 14:35:37,785 [main] collection.LinkedListTest  - [[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+WARN    2022-06-17 14:35:37,786 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:36:10,739 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:36:10,743 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:36:10,743 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:36:10,743 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:36:10,743 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:36:10,743 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:36:10,743 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:36:10,743 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - class collection.LinkedListTest
+INFO    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - java.util.LinkedList$ListItr@3b088d51
+WARN    2022-06-17 14:36:10,744 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:43:02,419 [main] collection.VectorDemo  - Start.....................
+INFO    2022-06-17 14:43:02,421 [main] collection.VectorDemo  - [Hello]
+WARN    2022-06-17 14:43:02,421 [main] collection.VectorDemo  - End..............................
+WARN    2022-06-17 14:44:35,998 [main] collection.VectorDemo  - Start.....................
+INFO    2022-06-17 14:44:36,000 [main] collection.VectorDemo  - [Hello]
+WARN    2022-06-17 14:44:36,000 [main] collection.VectorDemo  - End..............................
+WARN    2022-06-17 14:45:19,580 [main] collection.VectorDemo  - Start.....................
+INFO    2022-06-17 14:45:19,582 [main] collection.VectorDemo  - 10
+INFO    2022-06-17 14:45:19,582 [main] collection.VectorDemo  - [Hello]
+WARN    2022-06-17 14:45:19,582 [main] collection.VectorDemo  - End..............................
+WARN    2022-06-17 14:45:59,139 [main] collection.VectorDemo  - Start.....................
+INFO    2022-06-17 14:45:59,141 [main] collection.VectorDemo  - 10
+INFO    2022-06-17 14:45:59,141 [main] collection.VectorDemo  - [Hello, Hellllllllllllllllllllll]
+WARN    2022-06-17 14:45:59,141 [main] collection.VectorDemo  - End..............................
+WARN    2022-06-17 14:50:15,560 [main] collection.VectorDemo  - Start.....................
+INFO    2022-06-17 14:50:15,562 [main] collection.VectorDemo  - 10
+INFO    2022-06-17 14:50:15,562 [main] collection.VectorDemo  - [Hello, Hellllllllllllllllllllll]
+WARN    2022-06-17 14:50:15,562 [main] collection.VectorDemo  - End..............................
+WARN    2022-06-17 14:50:52,944 [main] collection.VectorDemo  - Start.....................
+INFO    2022-06-17 14:50:52,946 [main] collection.VectorDemo  - 10
+INFO    2022-06-17 14:50:52,946 [main] collection.VectorDemo  - [Hello, Hellllllllllllllllllllll]
+INFO    2022-06-17 14:50:52,946 [main] collection.VectorDemo  - [HTTTTTT, Hello, Hellllllllllllllllllllll]
+WARN    2022-06-17 14:50:52,946 [main] collection.VectorDemo  - End..............................
+WARN    2022-06-17 14:51:42,958 [main] collection.LinkedListTest  - Start...............
+INFO    2022-06-17 14:51:42,962 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[1, Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:51:42,962 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]]
+INFO    2022-06-17 14:51:42,962 [main] collection.LinkedListTest  - It is Wrong..........But Available.........[[Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459], Hi, c, 27.5, 5.6, collection.Fjhjj@53f65459]
+INFO    2022-06-17 14:51:42,962 [main] collection.LinkedListTest  - [Hello, HI, Hello, HI]
+DEBUG   2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - HI
+DEBUG   2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - Hello
+DEBUG   2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - Hello
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - HI
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - It is Correct order......Hello
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - It is Correct order......HI
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - It is Reverse order......HI
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - It is Reverse order......Hello
+INFO    2022-06-17 14:51:42,963 [main] collection.LinkedListTest  - class collection.LinkedListTest
+INFO    2022-06-17 14:51:42,964 [main] collection.LinkedListTest  - java.util.LinkedList$ListItr@3b088d51
+WARN    2022-06-17 14:51:42,964 [main] collection.LinkedListTest  - End...............
+WARN    2022-06-17 14:54:17,682 [main] collection.VectorDemo  - Start.....................
+INFO    2022-06-17 14:54:17,684 [main] collection.VectorDemo  - 10
+INFO    2022-06-17 14:54:17,684 [main] collection.VectorDemo  - [Hello, Hellllllllllllllllllllll]
+INFO    2022-06-17 14:54:17,684 [main] collection.VectorDemo  - [HTTTTTT, Hello, Hellllllllllllllllllllll]
+WARN    2022-06-17 14:54:17,684 [main] collection.VectorDemo  - End..............................
+WARN    2022-06-17 15:03:52,846 [main] collection.ConsumerDemo  - Start..................
+INFO    2022-06-17 15:03:52,848 [main] collection.ConsumerDemo  - Hello
+WARN    2022-06-17 15:03:52,848 [main] collection.ConsumerDemo  - End....................
+WARN    2022-06-17 15:04:07,125 [main] collection.ConsumerDemo  - Start..................
+INFO    2022-06-17 15:04:07,127 [main] collection.ConsumerDemo  - Hello
+WARN    2022-06-17 15:04:07,127 [main] collection.ConsumerDemo  - End....................
+WARN    2022-06-17 15:20:38,970 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:20:38,972 [main] collection.HashSetTest  - [1, 3, 5]
+WARN    2022-06-17 15:20:38,972 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:21:12,468 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:21:12,470 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:21:12,470 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:21:12,470 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:22:01,242 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:22:01,244 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:22:01,244 [main] collection.HashSetTest  - [1, 3, 5]
+WARN    2022-06-17 15:22:01,244 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:23:18,151 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:23:18,153 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:23:18,153 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:23:18,153 [main] collection.HashSetTest  - true
+WARN    2022-06-17 15:23:18,153 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:23:50,656 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:23:50,657 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:23:50,658 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:23:50,658 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:23:50,658 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:23:50,658 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:24:27,181 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:24:27,183 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:24:27,183 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:24:27,183 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:24:27,183 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:24:27,183 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:24:27,183 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:25:23,430 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:25:23,432 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:25:23,432 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:25:23,432 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:25:23,432 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:25:23,432 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:25:23,432 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:25:41,172 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:25:41,174 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:25:41,174 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:25:41,174 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:25:41,174 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:25:41,174 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:25:41,174 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:26:27,089 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:26:27,091 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:26:27,091 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:26:27,091 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:26:27,091 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:26:27,091 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:26:27,091 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:26:27,091 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:26:33,799 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:26:33,801 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:26:33,801 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:26:33,801 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:26:33,801 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:26:33,801 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:26:33,801 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:26:33,801 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:27:02,582 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:27:02,584 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:27:02,584 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:27:02,584 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:27:02,584 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:27:02,584 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:27:02,584 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:27:02,584 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:27:02,584 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:28:58,493 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:28:58,495 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:28:58,495 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:28:58,495 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:28:58,495 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:28:58,495 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:28:58,495 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:28:58,496 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:28:58,496 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:28:58,496 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:28:58,496 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:28:58,496 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:29:53,768 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:29:53,770 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:29:53,770 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:29:53,770 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:29:53,770 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:29:53,770 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:29:53,770 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:29:53,771 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:29:53,771 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:29:53,771 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:29:53,772 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:29:53,772 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:30:30,707 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:30:30,709 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:30:30,709 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:30:30,710 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:30:30,710 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:30:30,710 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:30:30,710 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:30:30,711 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:30:30,711 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:30:30,711 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:30:30,711 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:30:30,711 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:30:30,712 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:30:30,712 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:30:30,712 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:30:46,694 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:30:46,696 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:30:46,696 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:30:46,696 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:30:46,696 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:30:46,696 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:30:46,697 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:30:46,697 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:30:46,698 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:30:46,698 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:30:46,698 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:30:46,698 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:30:46,698 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:30:46,698 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:30:46,698 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:32:28,157 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:32:28,160 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:32:28,160 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:32:28,160 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:32:28,160 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:32:28,160 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:32:28,160 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:32:28,161 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:32:28,161 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:32:28,161 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:32:28,162 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:32:28,162 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:32:28,162 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:33:10,453 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:33:10,455 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:10,455 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:10,455 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:10,455 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:33:10,455 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:10,455 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:33:10,456 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:33:10,456 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:33:10,456 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:33:10,457 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:33:10,457 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:33:10,457 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:33:10,457 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:33:10,457 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:33:28,908 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:33:28,910 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:28,910 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:28,910 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:28,910 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:33:28,910 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:28,910 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:33:28,911 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:33:28,911 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:33:28,911 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:33:28,911 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:33:28,911 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:33:28,912 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:33:28,912 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:33:28,912 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:33:36,996 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:33:36,998 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:36,998 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:36,998 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:36,998 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:33:36,998 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:36,999 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:33:36,999 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:33:36,999 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:33:37,000 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:33:37,000 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:33:37,000 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:33:37,000 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:33:37,000 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:33:37,000 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:33:49,456 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:33:49,459 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:49,459 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:49,459 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:49,459 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:33:49,459 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:49,459 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:33:49,460 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:33:49,460 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:33:49,460 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:33:49,461 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:33:49,461 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:33:49,461 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:33:49,461 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:33:49,461 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:33:59,361 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:33:59,363 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:59,363 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:33:59,363 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:59,363 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:33:59,363 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:33:59,363 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:33:59,364 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:33:59,364 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:33:59,364 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:33:59,365 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:33:59,365 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:33:59,365 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:33:59,365 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:33:59,365 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:34:48,792 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:34:48,794 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:34:48,794 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:34:48,794 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:34:48,794 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:34:48,794 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:34:48,794 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:34:48,795 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:34:48,795 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:34:48,796 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:34:48,796 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:34:48,796 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:34:48,796 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:34:48,796 [main] collection.HashSetTest  - 9
+INFO    2022-06-17 15:34:48,796 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:34:48,797 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:34:48,797 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:35:40,834 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:35:40,836 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:35:40,836 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:35:40,836 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:35:40,836 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:35:40,837 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:35:40,837 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:35:40,837 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:35:40,838 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:36:08,571 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:36:08,573 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:36:08,573 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:36:08,573 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:36:08,573 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:36:08,574 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:36:08,574 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:36:08,575 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:36:08,575 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:36:08,575 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:36:08,575 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:36:08,575 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:36:08,575 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:36:08,575 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:36:08,575 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:36:08,576 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:36:08,576 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:36:58,607 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:36:58,609 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:36:58,609 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:36:58,609 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:36:58,609 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:36:58,609 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:36:58,609 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:36:58,610 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:36:58,610 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:36:58,610 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:36:58,611 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:36:58,611 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:36:58,611 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:36:58,611 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:36:58,611 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:36:58,611 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+WARN    2022-06-17 15:37:10,018 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:37:10,019 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:37:10,020 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:37:10,020 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:37:10,020 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:37:10,020 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:37:10,020 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:37:10,021 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:37:10,021 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:37:10,021 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:37:10,022 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:37:10,022 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:37:10,022 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:37:10,022 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:37:10,022 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:37:10,022 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+WARN    2022-06-17 15:37:22,657 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:37:22,659 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:37:22,659 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:37:22,660 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:37:22,660 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:37:22,660 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:37:22,660 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:37:22,661 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:37:22,661 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:37:22,661 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:37:22,661 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:37:22,661 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:37:22,661 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:37:22,661 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:37:22,662 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:37:22,662 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+WARN    2022-06-17 15:38:42,132 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:38:42,134 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:38:42,134 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:38:42,134 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:38:42,134 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:38:42,134 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:38:42,135 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:38:42,135 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:38:42,135 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:38:42,135 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:38:42,136 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:38:42,136 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:38:42,136 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:38:42,136 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:38:42,136 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:38:42,136 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:38:42,137 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:38:42,137 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:38:42,137 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:38:42,137 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:39:01,942 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:39:01,944 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:39:01,944 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:39:01,944 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:01,944 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:39:01,944 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:01,944 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:39:01,945 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:39:01,945 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:39:01,945 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:39:01,945 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:39:01,945 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:39:01,946 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:39:01,946 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:39:01,946 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:39:01,946 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:39:01,946 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:39:01,946 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:01,946 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:39:01,946 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:39:16,587 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:39:16,588 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:39:16,589 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:39:16,589 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:16,589 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:39:16,589 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:16,589 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:39:16,590 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:39:16,590 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:39:16,590 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:39:16,590 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:39:16,590 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:39:16,591 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:39:59,078 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:39:59,080 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:39:59,080 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:39:59,080 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:59,080 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:39:59,080 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:59,080 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:39:59,081 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:39:59,081 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:39:59,081 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:39:59,082 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:39:59,083 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:41:37,477 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:41:37,479 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:41:37,480 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:41:37,480 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:41:37,480 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:41:37,480 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:41:37,480 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:41:37,481 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:41:37,481 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:41:37,481 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:41:37,481 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:41:37,481 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:41:37,482 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:41:37,482 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:41:37,482 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:41:37,482 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:41:37,482 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:41:37,482 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:41:37,482 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:41:37,482 [main] collection.HashSetTest  - false
+WARN    2022-06-17 15:42:31,843 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:42:31,845 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:42:31,845 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:42:31,845 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:42:31,845 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:42:31,845 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:42:31,845 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:42:31,846 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:42:31,846 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:42:31,846 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:42:31,846 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - 2
+INFO    2022-06-17 15:42:31,847 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:42:31,848 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:43:03,944 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:43:03,945 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:43:03,946 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:43:03,946 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:03,946 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:03,946 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:03,946 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:43:03,947 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:43:03,947 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:43:03,947 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:43:03,947 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:43:03,948 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:43:03,948 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:43:03,948 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:43:03,948 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:03,948 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:43:03,948 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:43:03,948 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:03,948 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:43:03,949 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:03,949 [main] collection.HashSetTest  - 2
+INFO    2022-06-17 15:43:03,949 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:03,949 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:43:03,949 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:43:18,002 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:43:18,004 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:43:18,004 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:43:18,004 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:18,004 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:18,004 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:18,004 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:43:18,005 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:43:18,005 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:43:18,005 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:18,006 [main] collection.HashSetTest  - 2
+INFO    2022-06-17 15:43:18,007 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:18,007 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:43:18,007 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:43:18,007 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:43:34,412 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:43:34,414 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:43:34,415 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:43:34,415 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:34,415 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:34,415 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:34,415 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:43:34,416 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:43:34,416 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:43:34,416 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:43:34,416 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:43:34,416 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - 2
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:43:34,417 [main] collection.HashSetTest  - []
+INFO    2022-06-17 15:43:34,418 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:43:34,418 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:44:40,766 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:44:40,768 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:44:40,768 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:44:40,768 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:44:40,768 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:44:40,768 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:44:40,768 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:44:40,770 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:44:40,770 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:44:40,770 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:44:40,770 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:44:40,770 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:44:40,770 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:44:40,770 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:44:40,770 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - 2
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - []
+INFO    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:44:40,771 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:45:02,005 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:45:02,007 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:45:02,007 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:45:02,007 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:45:02,007 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:45:02,007 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:45:02,007 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:45:02,008 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:45:02,008 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:45:02,008 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:45:02,009 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:45:02,009 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:45:02,009 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:45:02,009 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:45:02,009 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:45:02,010 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:45:02,010 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:45:02,010 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:45:02,010 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:45:02,010 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:45:02,010 [main] collection.HashSetTest  - 2
+INFO    2022-06-17 15:45:02,010 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:45:02,010 [main] collection.HashSetTest  - []
+INFO    2022-06-17 15:45:02,011 [main] collection.HashSetTest  - [Ljava.lang.Object;@5f282abb
+INFO    2022-06-17 15:45:02,011 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:45:02,011 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 15:45:43,263 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-17 15:45:43,265 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:45:43,265 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-17 15:45:43,265 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:45:43,265 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:45:43,265 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:45:43,266 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-17 15:45:43,266 [main] collection.HashSetTest  - 1
+INFO    2022-06-17 15:45:43,266 [main] collection.HashSetTest  - 3
+INFO    2022-06-17 15:45:43,266 [main] collection.HashSetTest  - 5
+WARN    2022-06-17 15:45:43,267 [main] collection.HashSetTest  - 1
+WARN    2022-06-17 15:45:43,267 [main] collection.HashSetTest  - 3
+WARN    2022-06-17 15:45:43,267 [main] collection.HashSetTest  - 5
+INFO    2022-06-17 15:45:43,267 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-17 15:45:43,267 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:45:43,267 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - false
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - 2
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - true
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - []
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - [Ljava.lang.Object;@5f282abb
+INFO    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - []
+WARN    2022-06-17 15:45:43,268 [main] collection.HashSetTest  - End........................
+WARN    2022-06-17 17:35:16,857 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:35:16,859 [main] collection.TreeSetDemo  - [AM, Hello, I, Man, Spider]
+WARN    2022-06-17 17:35:16,860 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:36:14,774 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:36:14,777 [main] collection.TreeSetDemo  - [Hello, Spider, I, Man, AM]
+WARN    2022-06-17 17:36:14,777 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:36:36,611 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:36:36,613 [main] collection.TreeSetDemo  - [Hello, Spider, I, Man, AM]
+WARN    2022-06-17 17:36:36,614 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:36:52,671 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:36:52,674 [main] collection.TreeSetDemo  - [AM, Hello, I, Man, Spider]
+WARN    2022-06-17 17:36:52,674 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:38:47,883 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:38:47,886 [main] collection.TreeSetDemo  - [AM, Hello, I, Man, Spider]
+WARN    2022-06-17 17:38:47,887 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:39:01,769 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:39:01,772 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+WARN    2022-06-17 17:39:01,773 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:39:46,170 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:39:46,173 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+WARN    2022-06-17 17:39:46,174 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:41:38,157 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:41:38,160 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+WARN    2022-06-17 17:41:38,160 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:42:56,612 [main] collection.TreeSetDemo  - Start.............
+WARN    2022-06-17 17:43:27,626 [main] collection.TreeSetDemo  - Start.............
+WARN    2022-06-17 17:44:02,184 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:44:02,186 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+WARN    2022-06-17 17:44:02,187 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:44:28,670 [main] collection.TreeSetDemo  - Start.............
+INFO    2022-06-17 17:44:28,673 [main] collection.TreeSetDemo  - 0
+DEBUG   2022-06-17 17:44:28,673 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+WARN    2022-06-17 17:44:28,674 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:45:02,578 [main] collection.TreeSetDemo  - Start.............
+WARN    2022-06-17 17:45:48,656 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:45:48,659 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+WARN    2022-06-17 17:49:52,842 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:49:52,844 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+WARN    2022-06-17 17:50:11,463 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:50:11,466 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+INFO    2022-06-17 17:50:11,466 [main] collection.TreeSetDemo  - -28
+WARN    2022-06-17 17:50:11,466 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:51:13,102 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:51:13,105 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+INFO    2022-06-17 17:51:13,105 [main] collection.TreeSetDemo  - -28
+WARN    2022-06-17 17:51:13,105 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:51:24,438 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:51:24,441 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+INFO    2022-06-17 17:51:24,441 [main] collection.TreeSetDemo  - -28
+WARN    2022-06-17 17:51:24,441 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:51:34,781 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:51:34,784 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+INFO    2022-06-17 17:51:34,784 [main] collection.TreeSetDemo  - -28
+WARN    2022-06-17 17:51:34,784 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:51:48,133 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:51:48,136 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+INFO    2022-06-17 17:51:48,136 [main] collection.TreeSetDemo  - -28
+WARN    2022-06-17 17:51:48,136 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:52:09,672 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:52:09,675 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+INFO    2022-06-17 17:52:09,675 [main] collection.TreeSetDemo  - -28
+WARN    2022-06-17 17:52:09,676 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:52:44,974 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:52:44,977 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+WARN    2022-06-17 17:53:58,956 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:53:58,959 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+INFO    2022-06-17 17:53:58,960 [main] collection.TreeSetDemo  - 4
+WARN    2022-06-17 17:53:58,960 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:57:05,968 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:57:05,970 [main] collection.TreeSetDemo  - [Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 17:57:05,971 [main] collection.TreeSetDemo  - [AM, Hello, I, Man, Spider]
+INFO    2022-06-17 17:57:05,971 [main] collection.TreeSetDemo  - 4
+WARN    2022-06-17 17:57:05,971 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:58:07,748 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:58:07,751 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 17:58:07,751 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 17:58:07,751 [main] collection.TreeSetDemo  - 4
+WARN    2022-06-17 17:58:07,751 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:58:41,998 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:58:42,001 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 17:58:42,001 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 17:58:42,001 [main] collection.TreeSetDemo  - 10
+WARN    2022-06-17 17:58:42,002 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:58:58,603 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:58:58,606 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 17:58:58,606 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 17:58:58,606 [main] collection.TreeSetDemo  - 17
+WARN    2022-06-17 17:58:58,607 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:59:06,460 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:59:06,463 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 17:59:06,464 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 17:59:06,464 [main] collection.TreeSetDemo  - 49
+WARN    2022-06-17 17:59:06,464 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:59:31,641 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:59:31,644 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 17:59:31,644 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 17:59:31,644 [main] collection.TreeSetDemo  - 49
+WARN    2022-06-17 17:59:31,644 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:59:40,831 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:59:40,834 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 17:59:40,834 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 17:59:40,834 [main] collection.TreeSetDemo  - 49
+WARN    2022-06-17 17:59:40,834 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 17:59:54,302 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 17:59:54,305 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 17:59:54,306 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 17:59:54,306 [main] collection.TreeSetDemo  - 49
+WARN    2022-06-17 17:59:54,306 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 18:00:04,378 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 18:00:04,381 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 18:00:04,382 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 18:00:04,382 [main] collection.TreeSetDemo  - 49
+WARN    2022-06-17 18:00:04,382 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 18:00:10,044 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 18:00:10,047 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 18:00:10,048 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 18:00:10,048 [main] collection.TreeSetDemo  - 49
+WARN    2022-06-17 18:00:10,048 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 18:00:23,307 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 18:00:23,310 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 18:00:23,310 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 18:00:23,310 [main] collection.TreeSetDemo  - 49
+WARN    2022-06-17 18:00:23,310 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 18:00:59,046 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 18:00:59,049 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 18:00:59,050 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 18:00:59,050 [main] collection.TreeSetDemo  - 0
+WARN    2022-06-17 18:00:59,050 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 18:01:06,500 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 18:01:06,503 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 18:01:06,504 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 18:01:06,504 [main] collection.TreeSetDemo  - -1
+WARN    2022-06-17 18:01:06,504 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 18:01:13,320 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 18:01:13,323 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 18:01:13,324 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 18:01:13,324 [main] collection.TreeSetDemo  - -2
+WARN    2022-06-17 18:01:13,324 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 18:01:25,290 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 18:01:25,293 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 18:01:25,294 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 18:01:25,294 [main] collection.TreeSetDemo  - 38
+WARN    2022-06-17 18:01:25,294 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-17 18:01:37,982 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-17 18:01:37,985 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-17 18:01:37,985 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-17 18:01:37,985 [main] collection.TreeSetDemo  - -2
+WARN    2022-06-17 18:01:37,985 [main] collection.TreeSetDemo  - End................

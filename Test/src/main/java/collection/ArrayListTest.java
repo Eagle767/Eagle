@@ -7,15 +7,16 @@ import java.util.Iterator;
 import java.util.ArrayList;
 
 import java.util.List;
+
 import java.util.ListIterator;
 
 import org.apache.log4j.Logger;
 
 import org.apache.log4j.PropertyConfigurator;
 
-public class CollectionList {
+public class ArrayListTest {
 	
-	static Logger logger=Logger.getLogger(CollectionList.class);
+	static Logger logger=Logger.getLogger(ArrayListTest.class);
 	
 	public static void main(String[] args) {
 		
