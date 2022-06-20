@@ -1,10 +1,10 @@
-package collection;
+package collectionTest;
 
 import java.io.File;
 
 import java.util.Iterator;
 
-import java.util.ArrayList;
+import java.util.LinkedList;
 
 import java.util.List;
 
@@ -14,9 +14,9 @@ import org.apache.log4j.Logger;
 
 import org.apache.log4j.PropertyConfigurator;
 
-public class ArrayListTest {
+public class LinkedListTest {
 	
-	static Logger logger=Logger.getLogger(ArrayListTest.class);
+	static Logger logger=Logger.getLogger(LinkedListTest.class);
 	
 	public static void main(String[] args) {
 		
@@ -26,7 +26,7 @@ public class ArrayListTest {
 		
 		logger.warn("Start...............");
 		
-		List<Object> l=new ArrayList<Object>();
+		List<Object> l=new LinkedList<Object>();
 		
 		l.add(1);
 		
@@ -38,11 +38,11 @@ public class ArrayListTest {
 		
 		l.add(5.6f);
 		
-		l.add(new Fjhj());
+		l.add(new Fjhjj());
 		
 		logger.info("It is Wrong..........But Available........."+l);
 		
-		List<Object> s=new ArrayList<>();
+		List<Object> s=new LinkedList<>();
 		
 		l.remove(0);
 		
@@ -54,7 +54,7 @@ public class ArrayListTest {
 		
 		logger.info("It is Wrong..........But Available........."+s);
 		
-		List<String> a=new ArrayList<>();
+		List<String> a=new LinkedList<>();
 		
 		a.add("Hello");
 		
@@ -92,10 +92,14 @@ public class ArrayListTest {
 			
 		}
 		
+		logger.info(LinkedListTest.class);
+		
+		logger.info(ad);
+		
 		logger.warn("End...............");
 		
 	}
 	
 }
 
-class Fjhj{}
+class Fjhjj{}

@@ -5962,3 +5962,118 @@ DEBUG   2022-06-17 18:01:37,985 [main] collection.TreeSetDemo  - Descending Orde
 DEBUG   2022-06-17 18:01:37,985 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
 INFO    2022-06-17 18:01:37,985 [main] collection.TreeSetDemo  - -2
 WARN    2022-06-17 18:01:37,985 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-20 10:13:57,394 [main] collection.TreeSetDemo  - Start.............
+DEBUG   2022-06-20 10:13:57,397 [main] collection.TreeSetDemo  - Descending Order...............[Spider, Man, I, Hello, AM]
+DEBUG   2022-06-20 10:13:57,398 [main] collection.TreeSetDemo  - Ascending Order.................[AM, Hello, I, Man, Spider]
+INFO    2022-06-20 10:13:57,398 [main] collection.TreeSetDemo  - -2
+WARN    2022-06-20 10:13:57,398 [main] collection.TreeSetDemo  - End................
+WARN    2022-06-20 10:14:22,400 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-20 10:14:22,402 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-20 10:14:22,403 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-20 10:14:22,403 [main] collection.HashSetTest  - true
+INFO    2022-06-20 10:14:22,403 [main] collection.HashSetTest  - false
+INFO    2022-06-20 10:14:22,403 [main] collection.HashSetTest  - true
+INFO    2022-06-20 10:14:22,403 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-20 10:14:22,404 [main] collection.HashSetTest  - 1
+INFO    2022-06-20 10:14:22,404 [main] collection.HashSetTest  - 3
+INFO    2022-06-20 10:14:22,404 [main] collection.HashSetTest  - 5
+WARN    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - 1
+WARN    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - 3
+WARN    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - 5
+INFO    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - false
+INFO    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - true
+INFO    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - false
+INFO    2022-06-20 10:14:22,405 [main] collection.HashSetTest  - 2
+INFO    2022-06-20 10:14:22,406 [main] collection.HashSetTest  - true
+INFO    2022-06-20 10:14:22,406 [main] collection.HashSetTest  - []
+INFO    2022-06-20 10:14:22,406 [main] collection.HashSetTest  - [Ljava.lang.Object;@5f282abb
+INFO    2022-06-20 10:14:22,406 [main] collection.HashSetTest  - []
+WARN    2022-06-20 10:14:22,406 [main] collection.HashSetTest  - End........................
+WARN    2022-06-20 11:57:57,643 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 11:57:57,646 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[multiThread.InnerValueAccess@1f7030a6, multiThread.InnerValueAccess@5a1c0542, multiThread.InnerValueAccess@396f6598, multiThread.InnerValueAccess@394e1a0f, multiThread.InnerValueAccess@27a5f880]
+WARN    2022-06-20 11:57:57,646 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:00:03,546 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:00:03,548 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+WARN    2022-06-20 12:00:03,548 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:01:31,256 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:01:31,259 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:01:31,259 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+WARN    2022-06-20 12:01:31,259 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:03:48,911 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:03:48,913 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:03:48,913 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+WARN    2022-06-20 12:03:48,914 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:05:26,807 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:05:26,809 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:05:26,810 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+WARN    2022-06-20 12:05:26,810 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:06:07,520 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:06:07,522 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:06:07,522 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:06:07,523 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList using Comparator...............[Raja, Monster, King, Jack, Hello]
+WARN    2022-06-20 12:06:07,523 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:10:25,559 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:10:25,562 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:10:25,562 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:10:25,563 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList using Comparator...............[Raja, Monster, King, Jack, Hello]
+WARN    2022-06-20 12:10:25,563 [main] multiThread.ComparartorComparableDemo  - End...................
+INFO    2022-06-20 12:10:25,563 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Raja, Monster, King, Jack, Hello]
+INFO    2022-06-20 12:10:25,563 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:10:25,563 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList using Comparator...............[Hello, Jack, King, Monster, Raja]
+WARN    2022-06-20 12:10:25,563 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:11:38,960 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:11:38,963 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:11:38,964 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:11:38,964 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList using Comparator...............[Raja, Monster, King, Jack, Hello]
+INFO    2022-06-20 12:11:38,964 [main] multiThread.ComparartorComparableDemo  - Before Sorting in TreeSet...............[Gold, Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:11:38,964 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:11:38,965 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList using Comparator...............[Gold, Hello, Jack, King, Monster, Raja]
+WARN    2022-06-20 12:11:38,965 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:22:37,793 [main] collection.HashSetTest  - Start...................
+INFO    2022-06-20 12:22:37,795 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-20 12:22:37,796 [main] collection.HashSetTest  - [1, 3, 5]
+INFO    2022-06-20 12:22:37,796 [main] collection.HashSetTest  - true
+INFO    2022-06-20 12:22:37,796 [main] collection.HashSetTest  - false
+INFO    2022-06-20 12:22:37,796 [main] collection.HashSetTest  - true
+INFO    2022-06-20 12:22:37,796 [main] collection.HashSetTest  - class java.util.HashSet
+INFO    2022-06-20 12:22:37,797 [main] collection.HashSetTest  - 1
+INFO    2022-06-20 12:22:37,797 [main] collection.HashSetTest  - 3
+INFO    2022-06-20 12:22:37,797 [main] collection.HashSetTest  - 5
+WARN    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - 1
+WARN    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - 3
+WARN    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - 5
+INFO    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - It is hascode...........9
+INFO    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - false
+INFO    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - java.util.HashMap$KeyIterator@396f6598
+INFO    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - java.util.stream.ReferencePipeline$Head@1d29cf23
+INFO    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - true
+INFO    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - [1, 3]
+INFO    2022-06-20 12:22:37,798 [main] collection.HashSetTest  - false
+INFO    2022-06-20 12:22:37,799 [main] collection.HashSetTest  - 2
+INFO    2022-06-20 12:22:37,799 [main] collection.HashSetTest  - true
+INFO    2022-06-20 12:22:37,799 [main] collection.HashSetTest  - []
+INFO    2022-06-20 12:22:37,799 [main] collection.HashSetTest  - [Ljava.lang.Object;@5f282abb
+INFO    2022-06-20 12:22:37,799 [main] collection.HashSetTest  - []
+WARN    2022-06-20 12:22:37,799 [main] collection.HashSetTest  - End........................
+WARN    2022-06-20 12:28:21,029 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:28:21,032 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:28:21,032 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:28:21,033 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList using Comparator...............[Raja, Monster, King, Jack, Hello]
+INFO    2022-06-20 12:28:21,033 [main] multiThread.ComparartorComparableDemo  - Before Sorting in TreeSet...............[Gold, Hello, Jack, King, Monster, Raja]
+WARN    2022-06-20 12:28:21,033 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:30:20,812 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:30:20,815 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:30:20,816 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:30:20,816 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList using Comparator...............[Raja, Monster, King, Jack, Hello]
+INFO    2022-06-20 12:30:20,816 [main] multiThread.ComparartorComparableDemo  - Before Sorting in TreeSet...............[Gold, Hello, Jack, King, Monster, Raja]
+WARN    2022-06-20 12:30:20,817 [main] multiThread.ComparartorComparableDemo  - End...................
+WARN    2022-06-20 12:32:14,110 [main] multiThread.ComparartorComparableDemo  - Start........................
+INFO    2022-06-20 12:32:14,113 [main] multiThread.ComparartorComparableDemo  - Before Sorting in ArrayList...............[Hello, Raja, King, Jack, Monster]
+INFO    2022-06-20 12:32:14,113 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList...............[Hello, Jack, King, Monster, Raja]
+INFO    2022-06-20 12:32:14,114 [main] multiThread.ComparartorComparableDemo  - After Sorting in ArrayList using Comparator...............[Raja, Monster, King, Jack, Hello]
+INFO    2022-06-20 12:32:14,114 [main] multiThread.ComparartorComparableDemo  - Before Sorting in TreeSet...............[Gold, Hello, Jack, King, Monster, Raja]
+WARN    2022-06-20 12:32:14,114 [main] multiThread.ComparartorComparableDemo  - End...................
