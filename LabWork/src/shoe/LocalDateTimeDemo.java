@@ -68,7 +68,7 @@ class Company{
 		
 		c.hour=s.nextInt();
 		
-		logger.debug("Enter Time in Minutes...........");
+		logger.debug("Enter Time in Minutes............");
 		
 		c.date=s.nextInt();
 		
