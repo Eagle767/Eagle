@@ -26,7 +26,7 @@ public class HashMapDemo {
 		
 		PropertyConfigurator.configure(log4jConfigFile);
 		
-		logger.warn("Start..............");
+		logger.warn("Start...............");
 		
 		//HashMap<Integer, String> a=new HashMap<Integer, String>();
 		
