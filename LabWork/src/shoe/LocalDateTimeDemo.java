@@ -3,6 +3,7 @@ package shoe;
 import java.io.File;
 import java.text.Format;
 import java.time.LocalDateTime;
+import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
@@ -32,7 +33,13 @@ public class LocalDateTimeDemo {
 		
 		Company c=new Company();
 		
-		c.display();
+		//c.display();
+		
+		LocalDateTime date = LocalDateTime.parse("2017-02-03T10:15:30");
+		
+	    LocalDateTime date1 = date.minus(Period.of(0,1, 1));
+	    
+	    logger.info(date1);
 		
 		logger.warn("Ended...............");
 		
