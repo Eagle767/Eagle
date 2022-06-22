@@ -33,7 +33,7 @@ public class HoliDayTest {
 		long sd=ChronoUnit.MINUTES.between(l, l1);
 		long sde=ChronoUnit.MINUTES.between(sl, l1);
 		double ssd=14567.3456/sd;
-		System.out.println(ssd);
+		System.out.println(ssd );
 		double ssde=14567.345%sd;
 		System.out.println(ssde);
 		System.out.println(sde);
