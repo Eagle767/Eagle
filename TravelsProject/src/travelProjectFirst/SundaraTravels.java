@@ -138,7 +138,9 @@ public class SundaraTravels {
 		LocalTime startl=LocalTime.now().withHour(shour).withMinute(sminute);
 		
 		LocalTime endl=LocalTime.now().withHour(ehour).withMinute(eminute);
+		
 		long sd=ChronoUnit.MINUTES.between(startl, endl);
+		
 		double ssd=t/sd;
 		
 		double ssde=t%sd;
