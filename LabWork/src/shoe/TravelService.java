@@ -29,19 +29,39 @@ public class TravelService {
 		
 		Scanner s=new Scanner(System.in);
 		
-		logger.info("Enter Date....................");
+		logger.info("Enter Company start Hour....................");
+		
+		shour=s.nextInt();
+		
+		logger.info("Enter Company start Minutes....................");
+		
+		sminute=s.nextInt();
+		
+		logger.info("Enter Company end Hour....................");
+		
+		ehour=s.nextInt();
+		
+		logger.info("Enter Company end Minutes....................");
+		
+		eminute=s.nextInt();
+		
+		try {
+		
+		LocalTime ste=LocalTime.of(ehour, eminute);
+		
+		LocalTime sts=LocalTime.of(shour, sminute);
+		
+		logger.info("Enter Travel start Date....................");
 		
 		date=s.nextInt();
 		
-		logger.info("Enter Month....................");
+		logger.info("Enter Travel start Month....................");
 		
 		month=s.nextInt();
 		
-		logger.info("Enter Year....................");
+		logger.info("Enter Travel start Year....................");
 		
 		year=s.nextInt();
-		
-		try {
 		
 		LocalDate dfg=LocalDate.of(year, month, date);
 		
@@ -97,17 +117,7 @@ public class TravelService {
 		
 		//logger.info("The Total Travel Time in minutes.........."+t);
 		
-		logger.info("Enter Company start Hour....................");
-		
-		shour=s.nextInt();
-		
-		logger.info("Enter Company start Minutes....................");
-		
-		sminute=s.nextInt();
-		
 		LocalTime sti=LocalTime.of(hour, minute);
-		
-		LocalTime sts=LocalTime.of(shour, sminute);
 		
 		if(sti.getHour()<sts.getHour() || ((sti.getHour()==sts.getHour()) && (sti.getMinute()<sts.getMinute()))) {
 			
@@ -116,15 +126,6 @@ public class TravelService {
 		}
 		
 		else {
-		
-		logger.info("Enter Company end Hour....................");
-		
-		ehour=s.nextInt();
-		logger.info("Enter Company end Minutes....................");
-		
-		eminute=s.nextInt();
-		
-		LocalTime ste=LocalTime.of(ehour, eminute);
 		
 		if(sti.getHour()>ste.getHour() || ((sti.getHour()==ste.getHour()) && (sti.getMinute()>ste.getMinute()))) {
 			
@@ -180,7 +181,7 @@ public class TravelService {
 				ret++;
 				
 			}
-			LocalDateTime lfg=l5.plusDays(ret);
+			LocalDateTime lfg=lf.plusDays((long)ret);
 			
 			ZonedDateTime l37=lfg.atZone(st);
 			
