@@ -16,7 +16,7 @@ public class AbstractTest {
 		
 		PropertyConfigurator.configure(log4jConfigFile);
 		
-		logger.warn("The Output is Displayed.........");
+		logger.warn("The Output is Displayed..........");
 		
 		Muthu m=new Muthu();
 		
