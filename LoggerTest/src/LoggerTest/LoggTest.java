@@ -12,7 +12,7 @@ public class LoggTest {
 	
 	public static void main(String[] args) {
 		
-		String a=System.getProperty("user.dir")+File.separator+"pro";
+		String a=System.getProperty("user.dir")+File.separator+"pro" ;
 		
 		PropertyConfigurator.configure(a);
 		
