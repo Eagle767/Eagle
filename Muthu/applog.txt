@@ -24,3 +24,7 @@ INFO    2022-05-24 13:08:57,801 [main] Muthu.HelloWorld  - Hello World
 ERROR   2022-05-24 13:08:57,803 [main] Muthu.HelloWorld  - Hello World
 WARN    2022-05-24 13:08:57,803 [main] Muthu.HelloWorld  - Hello World
 DEBUG   2022-05-24 13:08:57,803 [main] Muthu.HelloWorld  - Hello World
+INFO    2022-06-20 13:54:05,821 [main] muthu.HelloWorld  - Hello World
+ERROR   2022-06-20 13:54:05,823 [main] muthu.HelloWorld  - Hello World
+WARN    2022-06-20 13:54:05,823 [main] muthu.HelloWorld  - Hello World
+DEBUG   2022-06-20 13:54:05,823 [main] muthu.HelloWorld  - Hello World

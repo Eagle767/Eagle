@@ -1,0 +1,6 @@
+INFO    2022-05-20 09:51:06,506 [main] ATM.LoginPage  -  Enter Account Number
+INFO    2022-05-20 09:51:13,624 [main] ATM.LoginPage  -  Enter Account Number
+INFO    2022-06-23 13:37:06,531 [main] ATM.LoginPage  -  Enter Account Number
+INFO    2022-06-23 13:37:10,417 [main] ATM.LoginPage  - this is a welcome message....
+INFO    2022-06-23 13:37:10,417 [main] ATM.LoginPage  -  Enter Password
+INFO    2022-06-23 13:37:14,551 [main] ATM.LoginPage  - correct Password :This is Your Account
