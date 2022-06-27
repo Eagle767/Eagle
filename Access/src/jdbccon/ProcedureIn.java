@@ -3,7 +3,6 @@ import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
-import java.sql.Types;
 public class ProcedureIn {
 	public static void main(String[] args) throws Exception{
 		//Step1 - Load the Driver.
@@ -15,16 +14,16 @@ public class ProcedureIn {
 		System.out.println(con);
 		//Step 3 - Execute sql statement
 		
-		String sql="{call proc3(?,?)}";
+		String sql="{call proc6(?,?)}";
 		
 		CallableStatement cs=con.prepareCall(sql);
-		cs.setString(1, "ramu");
-		cs.registerOutParameter(2, Types.INTEGER);
+		cs.setString(1, "tom");
+		cs.setInt(2, 1);
 		
-		cs.execute();
+		int noofchanges=cs.executeUpdate();
 		//step 4 - process result
-		int flag=cs.getInt(2);
-		System.out.println("Flag Status..:"+flag);
+		
+		System.out.println("No of changes..:"+noofchanges);
 		
 	}
 }

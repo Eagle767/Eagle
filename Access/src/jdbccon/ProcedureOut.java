@@ -15,7 +15,7 @@ public class ProcedureOut {
 		System.out.println(con);
 		//Step 3 - Execute sql statement
 		
-		String sql="{call proc1(?)}";
+		String sql="{call proc7(?)}";
 		
 		CallableStatement cs=con.prepareCall(sql);
 		cs.registerOutParameter(1, Types.INTEGER);

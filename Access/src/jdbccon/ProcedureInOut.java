@@ -15,7 +15,7 @@ public class ProcedureInOut {
 		System.out.println(con);
 		//Step 3 - Execute sql statement
 		
-		String sql="{call proc3(?,?)}";
+		String sql="{call proc5(?,?)}";
 		
 		CallableStatement cs=con.prepareCall(sql);
 		cs.setString(1, "ramu");
