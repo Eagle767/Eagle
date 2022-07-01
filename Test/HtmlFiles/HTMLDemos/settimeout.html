@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>settimeout</title>
+        <style></style>
+        <script lang="JavaScript">
+            var i=0;
+            var d="Light ON";
+            function fun(){
+                i++;
+                console.log(d.substring(0,i));
+                if(i>=d.length){
+                    document.getElementById('bulb').src='https://www.w3schools.com/js/pic_bulbon.gif';
+                    i=0;
+                }else{
+                document.getElementById('bulb').src='https://www.w3schools.com/js/pic_bulboff.gif';
+                }
+            }
+            function trigger(){
+                //window.setTimeout("fun();",5000);
+                window.setInterval("fun();",500);
+            }
+        </script>
+    </head>
+    <body>
+        <h1>This is my page</h1>
+        <img id="bulb" src="https://www.w3schools.com/js/pic_bulboff.gif">
+        <input type="button" value="click" onclick="trigger()">
+    </body>
+</html>

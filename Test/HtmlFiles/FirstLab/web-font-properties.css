@@ -1,0 +1,10 @@
+    @font-face { 
+        font-family: 'BodyCopy'; 
+        src: url('fonts/DVS/DejaVuSerif.eot'); 
+        src: url('fonts/DVS/DejaVuSerif.eot?#iefix') 
+        format('embedded-opentype'), 
+        url('fonts/DVS/DejaVuSerif.woff') format('woff'), 
+        url('fonts/DVS/DejaVuSerif.ttf') format('truetype'); 
+        font-weight: normal; 
+        font-style: normal; } 
+        

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>New_Lab_Work</title>
+        <style type="text/css">
+            :required{background-color: crimson;}
+            :valid{background-color: white;}
+        </style>
+        <script lang="JavaScript">
+            function rating1(slider){
+                document.getElementById("ratingvalue").innerHTML=slider.value;
+            }
+        </script>
+    </head>
+    <body>
+        <h1>New Lab Work</h1>
+        <h2>Registeration Form</h2>
+        <form action="thankyou.html" id="fo">
+            <label for="name">Name:</label>
+            <input id="name" placeholder="Enter Name" type="text" name="name" autofocus required>*<br><br>
+            <label for="email">E-mail:</label>
+            <input id="email" placeholder="Enter E-mail" type="email" name="email" required>*<br><br>
+            <label for="dob">Date of Birth:</label>
+            <input id="dob" type="date" name="dob" required>*<br><br>
+            <label for="age">Age:</label>
+            <input id="age" size="2" type="number" name="age" min="18" max="60" step="1" value="21" required><br><br>
+            <label for="rating">Years of Exprience:</label>
+            <input id="rating" type="range" name="rating" min="0" max="20" value="0" onchange="rating1(this)" required>
+            <span id="ratingvalue">0</span><br><br>
+            <label for="rating2">Years of Exprience in Software:</label>
+            <input id="rating2" type="range" name="rating2" min="0" max="20" value="0" oninput="out.value=rating2.value" required>
+            <output name="out">0</output><br><br>
+            <label for="phone">Phone:</label>
+            <input id="phone" placeholder="XXX-XXX-XXXX" type="text" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>*<br><br>
+            <input type="submit" value="Register">
+            <p>Field marked * are required</p>
+        </form>
+    </body>
+</html>

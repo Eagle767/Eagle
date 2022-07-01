@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>documentform</title>
+        <style></style>
+        <script lang="JavaScript">
+            var c=0;
+            function fun(){
+            var a=parseInt(document.form.first.value);
+            var b=parseInt(document.forms[0].elements[1].value);
+            c=parseInt(a+b);
+            document.form.output.value=c;
+            console.log(c);
+            document.getElementById('bulb').src='https://www.w3schools.com/js/pic_bulboff.gif';
+            window.setTimeout("funn()",c);
+            }
+            function funn(){
+                document.getElementById('bulb').src='https://www.w3schools.com/js/pic_bulbon.gif';
+                window.setInterval("fun()",c);
+            }
+        </script>
+    </head>
+    <body>
+        <h1>documentform</h1>
+        <form name="form">
+            <img id="bulb" src="https://www.w3schools.com/js/pic_bulboff.gif">
+            <input name="first" value="" size="4">
+            <input name="second" value="" size="4">
+            <input name="output" value="">
+            <input type="button" value="click" onclick="fun()">
+        </form>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>DateTest</title>
+        <style></style>
+        <script lang="JavaScript">
+            window.onload=fun;
+            function fun(){
+                var a=new Date();
+                if(a.toLocaleDateString){
+                    alert("Your System is provide valid time or date "+a)
+                    document.write(a);
+                }else{
+                    alert("Your System is provide invalid time or date")
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>DateTest</h1>
+    </body>
+</html>

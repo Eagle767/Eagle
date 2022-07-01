@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>DOWhile</title>
+        <style></style>
+        <script lang="JavaScript">
+            function fgu(){
+                var i=document.forms[0].elements[0].value;
+                console.log(i)
+                var j=0;
+                do{
+                    i/=10;
+                    j++;
+                }while(i>1){
+                    console.log(j)
+                    document.forms[0].elements[2].value=j;
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>DoWhile</h1>
+        <form>
+        <input type="text" value="">
+        <input type="button" onclick="fgu()" value="enter">
+        <input type="button" value="devide 10 how many times">
+    </form>
+    </body>
+</html>

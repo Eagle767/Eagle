@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Bulb</title>
+        <style>
+            #on{
+                background-color:blueviolet;
+                color: honeydew;
+            }
+            #off{
+                background-color: cyan;
+                color: honeydew;
+            }
+        </style>
+        <script lang="JavaScript">
+            alert("You Clicked the Bulb.......");
+            function funon(){
+            document.getElementById('bulb').src='https://www.w3schools.com/js/pic_bulbon.gif';
+        }
+            function funoff(){
+               document.getElementById('bulb').src='https://www.w3schools.com/js/pic_bulboff.gif';
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Bulb Controls</h1>
+        <img id="bulb" src="https://www.w3schools.com/js/pic_bulboff.gif">
+        <Input id="on" type="button" onclick="funon()" value="Light ON">
+        <input id="off" type="button" onclick="funoff()" value="Light OFF">
+    </body>
+</html>

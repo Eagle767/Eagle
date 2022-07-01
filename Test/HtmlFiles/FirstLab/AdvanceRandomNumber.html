@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>AdvanceRandomNumber</title>
+        <style></style>
+        <script lang="JavaScript">
+            function fun(){
+                var b=new Array("E","A","G","L","E");
+                var a=Math.floor(Math.random()*5)
+                var c=Math.floor(Math.random()*75)+1+Math.round(Math.random()*a);
+                return new Array(b[a],c);
+            }
+            var s=fun();
+            function funn(){
+                document.getElementById('rand').innerHTML="Your Lucky Number is "+s[1]+" Eagle Provide letter is "+s[0];
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Advanced Random Number</h1>
+        <h2 id="rand"></h2>
+        <input type="button" onclick="funn()" value="Click to get your number">
+    </body>
+</html>

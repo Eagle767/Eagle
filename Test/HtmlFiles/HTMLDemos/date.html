@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>date</title>
+        <style></style>
+        <script lang="JavaScript">
+            function fun(){
+           var sd=new Date();
+           var sd1=new Date("June 20, 2022 08:00:00");
+           var sd2=sd1.getDate();
+           var sd3=sd1.setDate(5);
+           document.forms[0].elements[1].value=sd1;
+           console.log(sd,sd2);
+            }
+        </script>
+    </head>
+    <body>
+        <h1>date</h1>
+        <form>
+        <input type="button" value="sd1" onclick="fun()">
+        <input name="out" value=""></form>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Modify Style</title>
+        <style>
+            h5{
+                font-weight: bold;
+                font-style: italic;
+            }
+            h6{
+                color: white;
+            }
+        </style>
+        <script lang="JavaScript">
+            window.onload=fun;
+            function fun(){
+                document.getElementById('find').onclick=find;
+            }
+            function find(){
+                var c=document.getElementById('a').value;
+                var b=document.getElementById(c)
+                if(b!=null){
+                    b.style.backgroundColor="black";
+                }
+                else{
+                    alert("Please make correct sentence...........")
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Modify Style</h1>
+        <input id="a" placeholder="enter type" type="text">
+        <input value="enter" type="button" id="find">
+        <h5 >Hello World (a1)</h5>
+        <h6 id="a1">Welcome............</h6>
+        <h5 >How are you (a3)</h5>
+        <h6 id="a3">Fine.....</h6>
+    </body>
+</html>

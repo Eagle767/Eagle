@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>SimpleJavaScript</title>
+        <style></style>
+        <script lang="javaScript">
+            function myfun(){
+            //window.alert("Danger");
+            alert("Danger.......");
+            //confirm("It is Correct.........");
+            var val=confirm("Your reach Correct place........")
+            alert(val);
+            //prompt("Enter name.........");
+            var name=prompt("enter name.........")
+            confirm(name);
+            //document.write(name);
+            var df=document.getElementById('ras');
+            df.innerHTML=name;
+            console.log(val,name);
+        }
+        </script>
+    </head>
+    <body>
+        <h1>Hello</h1> 
+        <p id="ras"></p>
+        <input type="button" value="click" onclick="myfun()">
+    </body>
+</html>

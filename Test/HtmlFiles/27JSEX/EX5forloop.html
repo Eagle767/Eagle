@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>ForLoop</title>
+        <style></style>
+        <script lang="JavaScript">
+            function fgu(){
+                var i=document.forms[0].elements[0].value;
+                console.log(i)
+                var j=document.forms[0].elements[1].value;
+                console.log(j)
+                var t=0;
+                for(var z=i;z>0;z--){
+                    for(var f=j;f<=z;f++){
+                        console.log(z);
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>ForLoop</h1>
+        <form>
+        <input type="text" value="">
+        <input type="text" value="">
+        <input type="button" onclick="fgu()" value="enter">
+    </form>
+    </body>
+</html>

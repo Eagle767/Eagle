@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Oddoreven</title>
+        <style></style>
+        <script lang="JavaScript">
+            function fgu(){
+                var x=document.forms[0].elements[0].value;
+                console.log(x)
+                var msg=""
+                if(x%2==0){
+                    msg="even";
+                }
+                else{
+                    msg="odd";
+                }
+                console.log(msg)
+                document.forms[0].elements[2].value=msg
+            }
+        </script>
+    </head>
+    <body>
+        <h1>OddorEven</h1>
+        <form>
+        <input type="text" value="">
+        <input type="button" onclick="fgu()" value="enter">
+        <input type="button" value="odd or even">
+    </form>
+    </body>
+</html>

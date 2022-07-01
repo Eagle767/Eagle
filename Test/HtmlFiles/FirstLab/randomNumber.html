@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>RandomNumber</title>
+        <style></style>
+        <script lang="JavaScript">
+            function fun(){
+                return Math.floor(Math.random()*75)+1;
+            }
+            var s=fun();
+            function funn(){
+                document.getElementById('rand').innerHTML="Your Lucky Number is "+s;
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Random Number</h1>
+        <h2 id="rand"></h2>
+        <input type="button" onclick="funn()" value="Click to get your number">
+    </body>
+</html>

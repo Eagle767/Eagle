@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>FrameColor</title>
+        <style></style>
+        <script lang="JavaScript">
+            function bgreset(){
+                self.document.bgColor="white";
+                for(var i=0;i<frame.length;i++){
+                    top.frames[i].document.bgColor="yellow";
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>FrameColor</h1>
+        <input type="button" value="orange" onclick="parent.frames[0].document.bgColor='orange'">
+        <input type="button" value="reset" onclick="bgreset()">
+    </body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>large</title>
+        <style></style>
+        <script lang="JavaScript">
+            function fun(){
+            var a=parseInt(document.forms[0].elements[0].value),b=parseInt(document.forms[0].elements[1].value);
+            var c=a+b;
+            document.forms[0].elements[4].value=c;
+            console.log(c)
+            var d=a>b?a:b
+            document.forms[0].elements[3].value=d;
+            console.log(d)
+            }
+        </script>
+    </head>
+    <body>
+        <h1>large</h1>
+        <form>
+            <input type="number" value="">
+            <input type="number" value="">
+            <input type="button" onclick="fun()" value="enter"><br>
+            <input value="large">
+            <input value="sum">
+        </form>
+    </body>
+</html>
