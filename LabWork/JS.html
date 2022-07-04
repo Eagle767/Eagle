@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Hello</title>
+<style type="text/css"></style>
+</head>
+<body>
+<SCRIPT Language="JavaScript">
+       document.write(document.title+" <BR>");
+       document.write(location.toString());
+</SCRIPT>
+
+<p id="dem">Display</p>
+<button type="button" onclick="document.getElementById('dem').innerHTML=Date()">Current Date and Time</button>
+<h1>Light</h1>
+<button onclick="document.getElementById('myImage').src='https://www.w3schools.com/js/pic_bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="https://www.w3schools.com/js/pic_bulbon.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='https://www.w3schools.com/js/pic_bulboff.gif'">Turn off the light</button>
+</body>
+</html>
