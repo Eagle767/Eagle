@@ -128,7 +128,10 @@ class InPut implements Cloneable{
 	}
 	
 }
-abstract class SunTravels{
+
+interface Company{}
+
+abstract class SunTravels implements Company{
 	
 	static Logger logger=Logger.getLogger(SunTravels.class);
 	
@@ -137,7 +140,14 @@ abstract class SunTravels{
 	Scanner s=new Scanner(System.in);
 	
 }
-class Owner extends SunTravels  implements Cloneable{
+
+interface Rule{
+	
+	void setCompanyTime(InPut i);
+	
+}
+
+class Owner extends SunTravels  implements Cloneable,Rule{
 	
 	private Owner() {
 		
@@ -179,7 +189,7 @@ class Owner extends SunTravels  implements Cloneable{
 		
 	}
 	
-	void setCompanyTime(InPut i) {
+	public void setCompanyTime(InPut i) {
 		
 		logger.info("Enter Company start Hour....................");
 		
@@ -224,7 +234,14 @@ class Owner extends SunTravels  implements Cloneable{
 	}
 	
 }
-class Driver extends SunTravels  implements Cloneable{
+
+interface Drive{
+	
+	void calculateDistance(InPut i);
+	
+}
+
+class Driver extends SunTravels  implements Cloneable,Drive{
 	
 	private Driver() {
 		
@@ -266,7 +283,7 @@ class Driver extends SunTravels  implements Cloneable{
 		
 	}
 	
-	void calculateDistance(InPut i) {
+	public void calculateDistance(InPut i) {
 		
 		logger.info("Enter Travel Distance in KM...........");
 		
@@ -394,7 +411,14 @@ class Driver extends SunTravels  implements Cloneable{
 	}
 		
 }
-class Customer extends SunTravels  implements Cloneable{
+
+interface BookTickect{
+	
+	void bookTravel(InPut i);
+	
+}
+
+class Customer extends SunTravels  implements Cloneable,BookTickect{
 	
 	private Customer() {
 		
@@ -436,7 +460,7 @@ class Customer extends SunTravels  implements Cloneable{
 		
 	}
 	
-	void bookTravel(InPut i) {
+	public void bookTravel(InPut i) {
 		
 		logger.info("Enter Travel start Date....................");
 		
