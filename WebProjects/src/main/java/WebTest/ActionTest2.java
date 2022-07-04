@@ -13,7 +13,7 @@ public class ActionTest2 extends HttpServlet {
 	@Override
 	public void init() throws ServletException {
 		
-		System.out.println("The Intialization is processing..........");
+		System.out.println("The Intialization is processing.........");
 		
 	}
 
