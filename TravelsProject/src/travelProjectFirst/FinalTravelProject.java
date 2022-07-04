@@ -34,7 +34,7 @@ public class FinalTravelProject {
 		
 		PropertyConfigurator.configure(log4jConfigFile);
 		
-		logger.warn("Welcome to Sundara Travels.............");
+		logger.warn("Welcome to Sundara Travels............");
 		
 		int date,month,year,hour,minute,shour,sminute,ehour,eminute;
 		
