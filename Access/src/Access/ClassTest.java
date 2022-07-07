@@ -16,7 +16,7 @@ class ClassTest {
 class Twenty{
 	
 	class d{
-		//static hiii h;
+		 //static hiii h;
 		class s{
 			void meth() {
 				int k=5;
