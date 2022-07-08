@@ -18,7 +18,7 @@ public class ActionTest1 extends HttpServlet {
 	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	
-		System.out.println("Service method is called............");
+		System.out.println("Service method is called.............");
 		
 	}
 
