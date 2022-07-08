@@ -5,7 +5,7 @@ function checkForm() {
         alert("Please enter Name");
         return false;
     } 
-    if(isNaN(document.Customer.hAge.value)) {
+    if(document.Customer.hAge.value==0) {
         alert("Please enter Age as Numeric");
         return false;
     } 
@@ -29,7 +29,7 @@ function checkForm1() {
         <td>Enter Name</td>
         <td><input type = "text" name = "hName" size="20"></td>
         <td>Enter Age</td>
-        <td><input type = "text" name = "hAge" size="3"></td>
+        <td><input type = "number" name = "hAge" size="3"></td>
     </tr>
     <tr>
         <td colspan="2" align="center">
