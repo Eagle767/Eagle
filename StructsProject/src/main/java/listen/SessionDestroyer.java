@@ -35,7 +35,7 @@ public class SessionDestroyer implements HttpSessionListener {
     	
     	}
     	
-         System.out.println("session ended.......");
+         System.out.println("session ended........");
          
     }
 	
