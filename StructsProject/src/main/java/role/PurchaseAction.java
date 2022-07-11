@@ -15,6 +15,8 @@ public class PurchaseAction extends ServiceAction{
 		
 		HttpSession hs=request.getSession();
 		
+		String nextShop=request.getParameter("shop"); 
+		
 		while(em.hasMoreElements()) {
 			
 			String a=em.nextElement().toString();
@@ -25,7 +27,7 @@ public class PurchaseAction extends ServiceAction{
 			
 		}
 		
-		return "Completed";
+		return nextShop;
 		
 	}
 

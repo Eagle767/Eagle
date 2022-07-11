@@ -4,16 +4,16 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Fruit Shop</title>
+<title>Toy Shop</title>
 </head>
-<body><center>
+<body bgcolor="orange"><center>
 <h1>Fruit Shop</h1>
 <form action="purchase.do" method="post">
 <input type="hidden" name="action" value="purchase">
-<input type="hidden" name="shop" value="shop2">
-<input type="radio" name="apple" value="F1">Apple
-<input type="radio" name="mango" value="F2">Mango
-<input type="radio" name="banana" value="F3">Banana
+<input type="hidden" name="shop" value="shop3">
+<input type="radio" name="Bike" value="T1">Bike
+<input type="radio" name="Car" value="T2">Car
+<input type="radio" name="Cycle" value="T3">Cycle
 <input type="submit" value="Next">
 </form>
 </center>

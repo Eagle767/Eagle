@@ -13,7 +13,8 @@ Enumeration em=session.getAttributeNames();
 while(em.hasMoreElements()){
 	String a=em.nextElement().toString();
 	String b=session.getAttribute(a).toString();
-	out.println("<h1>"+a+":"+b+"<h1>");
+	if(a.equals("shop")||a.equals("action")){}
+	else{out.println("<h1>"+a+":"+b+"<h1>");}
 }
 %>
 </body>
