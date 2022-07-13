@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.sql.Statement;
 
 import dataPack.UserDIO;
 
@@ -173,6 +174,30 @@ public class DBConnect {
 			e.printStackTrace();
 			
 			return false;
+			
+		}
+		
+	}
+	
+	public ResultSet checkTable(String TableName) {
+		
+		try {
+			
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
+			
+			String qury="select * from "+TableName;
+			
+			Statement ss=con.createStatement();
+			
+			ResultSet rs=ss.executeQuery(qury);
+			
+			return rs;
+			
+		} catch (SQLException e) {
+			
+			e.printStackTrace();
+			
+			return null;
 			
 		}
 		
