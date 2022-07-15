@@ -1,3 +1,4 @@
+<%@page import="java.io.OutputStream"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
@@ -8,25 +9,22 @@
 </head>
 <body><center>
 <h1>Fruit Shop</h1>
-
 <%@ page import = "java.sql.*, dBConnect.DBConnect" %>
 <%! ResultSet rs ;
     DBConnect db ;
     public void jspInit() {
         db = new DBConnect();
-        rs=db.checkTable("FruitShop2"); 
-    } %>
+    }
+%>
 <form action="purchase.do" method="post">
 <input type="hidden" name="action" value="purchase">
 <input type="hidden" name="shop" value="shop2">
-<input type="radio" name="apple" value="F1">Apple1
-<input type="radio" name="mango" value="F2">Mango
-<input type="radio" name="banana" value="F3">Banana<br>
-<% while(rs.next()){ %>
-        <input type="checkbox" name=a value=b>
-        <%=rs.getString(1) %>
-          
-    <%     } %> 
+<% rs=db.checkTable("FruitShop2"); 
+while(rs.next()){ %>
+<input type="checkbox" name=<%=rs.getString(1) %> value=<%=rs.getString(2) %> >
+	<%=rs.getString(1) %>
+	<img alt="Image not found......" src=ImageGet?shopname=fruitshop2&name=<%=rs.getString(1) %> width="100px" height="100px">
+	 <% } %>
     <input type="submit" value="Next">
 </form>
 </center>

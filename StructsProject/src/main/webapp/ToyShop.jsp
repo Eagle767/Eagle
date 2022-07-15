@@ -8,12 +8,22 @@
 </head>
 <body bgcolor="orange"><center>
 <h1>Fruit Shop</h1>
+<%@ page import = "java.sql.*, dBConnect.DBConnect" %>
+<%! ResultSet rs ;
+    DBConnect db ;
+    public void jspInit() {
+        db = new DBConnect();
+    }
+%>
 <form action="purchase.do" method="post">
 <input type="hidden" name="action" value="purchase">
 <input type="hidden" name="shop" value="shop3">
-<input type="radio" name="Bike" value="T1">Bike
-<input type="radio" name="Car" value="T2">Car
-<input type="radio" name="Cycle" value="T3">Cycle
+<% rs=db.checkTable("toyshop2"); 
+while(rs.next()){ %>
+<input type="checkbox" name=<%=rs.getString(1) %> value=<%=rs.getString(2) %> >
+	<%=rs.getString(1) %>
+	<img alt="Image not found......" src=ImageGet?shopname=toyshop2&name=<%=rs.getString(1) %> width="100px" height="100px">
+	 <% } %>
 <input type="submit" value="Next">
 </form>
 </center>
