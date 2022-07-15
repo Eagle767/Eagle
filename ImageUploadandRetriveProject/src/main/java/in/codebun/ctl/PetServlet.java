@@ -22,7 +22,7 @@ import in.codebun.DbConnect.DBConnection;
 public class PetServlet extends HttpServlet {
 
  protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-  response.setContentType("image/jpeg");
+  response.setContentType("image/jpg");
   int id = Integer.parseInt(request.getParameter("id"));
   Connection conn = DBConnection.getConn();
   String sql = "SELECT * FROM PETTABLE WHERE ID ="+id;

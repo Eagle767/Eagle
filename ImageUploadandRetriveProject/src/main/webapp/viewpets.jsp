@@ -60,7 +60,7 @@ font-size: larger;
  
     <tr>
       <th scope="row"><%=rs.getInt(1) %></th>
-      <td><img src=PetServlet?id=<%=rs.getInt(1) %> alt="image not found" width="100px" height="100px"></td>
+      <td><img src=PetServlet.do?id=<%=rs.getInt(1) %> alt="image not found" width="100px" height="100px"></td>
       <td><%=rs.getString(2) %></td>
        <td><%=rs.getString(3) %></td>
         <td><%=rs.getString(4) %></td>
