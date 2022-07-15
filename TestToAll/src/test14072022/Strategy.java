@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Strategy {
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
-		//BadFan shaitan=new BadFan();
+		//BadFan khaitan=new BadFan();
 		GoodFan khaitan=new GoodFan();
 		while(true) {
 			System.out.println("Press a key and then Enter for pulling chain..");
