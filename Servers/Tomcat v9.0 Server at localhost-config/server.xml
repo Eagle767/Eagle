@@ -153,7 +153,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="WebProjects" path="/WebProjects" reloadable="true" source="org.eclipse.jst.jee.server:WebProjects"/><Context docBase="EagleWeb-5-7-2022" path="/EagleWeb-5-7-2022" reloadable="true" source="org.eclipse.jst.jee.server:EagleWeb-5-7-2022"/><Context docBase="WebProjectSun" path="/WebProjectSun" reloadable="true" source="org.eclipse.jst.jee.server:WebProjectSun"/></Host>
+      <Context docBase="WebProjects" path="/WebProjects" reloadable="true" source="org.eclipse.jst.jee.server:WebProjects"/><Context docBase="EagleWeb-5-7-2022" path="/EagleWeb-5-7-2022" reloadable="true" source="org.eclipse.jst.jee.server:EagleWeb-5-7-2022"/><Context docBase="WebProjectSun" path="/WebProjectSun" reloadable="true" source="org.eclipse.jst.jee.server:WebProjectSun"/><Context docBase="StructsProject" path="/StructsProject" reloadable="true" source="org.eclipse.jst.jee.server:StructsProject"/><Context docBase="ImageUploadandRetriveProject" path="/ImageUploadandRetriveProject" reloadable="true" source="org.eclipse.jst.jee.server:ImageUploadandRetriveProject"/><Context docBase="TaxiServiceProject" path="/TaxiServiceProject" reloadable="true" source="org.eclipse.jst.jee.server:TaxiServiceProject"/></Host>
     </Engine>
   </Service>
 </Server>
