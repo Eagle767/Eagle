@@ -8,7 +8,9 @@ public class Work1 extends HeadWork{
 	@Override
 	public String working(HttpServletResponse response, HttpServletRequest request) {
 		
-		return "success,error";
+		return "success";
+		
+		//return "error";
 		
 	}
 

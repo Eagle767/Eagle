@@ -9,7 +9,8 @@
 <body>
 <center>
 <h1>Taxi Service</h1>
-<form action="output.jsp" method="post">
+<form action="form.do" method="post">
+<input name="action" value="login" type="hidden" >
 <input name="customerid" type="text" placeholder="Please Enter Your Id...." required="required"><br><br>
 <label for="PickUpPoint">Select Your Pick Up Point :</label><br><br>
 <input name="PickUpPoint" type="radio" value="A" checked="checked">A
