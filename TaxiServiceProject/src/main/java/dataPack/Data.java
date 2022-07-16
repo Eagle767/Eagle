@@ -2,9 +2,9 @@ package dataPack;
 
 public class Data {
 	
-	private String tname,cstation;
+	private String tname,astation,station;
 	
-	private int flag;
+	private int flag,eamt,distance,time;
 
 	public String getTname() {
 		return tname;
@@ -14,12 +14,20 @@ public class Data {
 		this.tname = tname;
 	}
 
-	public String getCstation() {
-		return cstation;
+	public String getAstation() {
+		return astation;
 	}
 
-	public void setCstation(String cstation) {
-		this.cstation = cstation;
+	public void setAstation(String astation) {
+		this.astation = astation;
+	}
+
+	public String getStation() {
+		return station;
+	}
+
+	public void setStation(String station) {
+		this.station = station;
 	}
 
 	public int getFlag() {
@@ -28,6 +36,30 @@ public class Data {
 
 	public void setFlag(int flag) {
 		this.flag = flag;
+	}
+
+	public int getEamt() {
+		return eamt;
+	}
+
+	public void setEamt(int eamt) {
+		this.eamt = eamt;
+	}
+
+	public int getDistance() {
+		return distance;
+	}
+
+	public void setDistance(int distance) {
+		this.distance = distance;
+	}
+
+	public int getTime() {
+		return time;
+	}
+
+	public void setTime(int time) {
+		this.time = time;
 	}
 
 }
