@@ -20,15 +20,17 @@ public class InsertImage {
 			
 			System.out.println(con);
 			
-			String qury="insert into image values(?,?)";
+			String qury="insert into toyshop2 values(?,?,?)";
 			
 			PreparedStatement ps=con.prepareStatement(qury);
 			
-			ps.setString(1, "Light");
+			ps.setString(1, "Car");
 			
-			FileInputStream fis=new FileInputStream("C://Users//muthukumar.m//Downloads/light.jpg");
+			FileInputStream fis=new FileInputStream("C://Users//muthukumar.m//Downloads/car.jpg");
 			
-			ps.setBinaryStream(2, fis, fis.available());
+			ps.setBinaryStream(3, fis, fis.available());
+			
+			ps.setString(2, "20");
 			
 			int a=ps.executeUpdate();
 			

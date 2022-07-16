@@ -34,9 +34,11 @@ public static void main(String[] args) {
 				
 				byte[] b=img.getBytes(1, (int) img.length());
 				
-				System.out.println();
+				FileOutputStream fos=new FileOutputStream("C://Users//muthukumar.m//Downloads/adhi.jpg");
 				
-				FileOutputStream fos=new FileOutputStream("C://Users//muthukumar.m//Downloads/root1.jpg");
+				System.out.println(img);
+				
+				System.out.println(fos);
 				
 				fos.write(b);
 				
