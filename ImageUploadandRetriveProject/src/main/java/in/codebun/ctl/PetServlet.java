@@ -13,8 +13,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.Part;
-import com.mysql.cj.protocol.Resultset;
-import com.mysql.cj.xdevapi.DbDoc;
 import in.codebun.DbConnect.DBConnection;
 
 @MultipartConfig(maxFileSize=16177215)
