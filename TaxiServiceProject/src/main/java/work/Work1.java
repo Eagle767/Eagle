@@ -1,5 +1,7 @@
 package work;
 
+import java.time.LocalTime;
+
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
@@ -37,6 +39,8 @@ public class Work1 extends HeadWork{
 		
 		d.setCustomerID(request.getParameter("customerid"));
 		
+		db.deleteCustomerInfo(d.getCustomerID());
+		
 		d.setStartstation(request.getParameter("PickUpPoint"));
 		
 		d.setEndstation(request.getParameter("DropPoint"));
@@ -57,13 +61,33 @@ public class Work1 extends HeadWork{
 		
 		int g=db.calculateAddedMoney(e, f);
 		
+		int i=db.checkTime(d.getStartstation());
+		
+		int j=db.checkTime(d.getEndstation());
+		
+		int k=db.calculateAddedTime(i, j);
+		
+		LocalTime l=LocalTime.now();
+		
+		int m=l.getHour();
+		
+		int n=l.getMinute();
+		
+		int o=Integer.parseInt(request.getParameter("hour"));
+		
+		int p=Integer.parseInt(request.getParameter("minutes"));
+		
+		int q=((o-m)*60)+p-n+k;
+		
+		d.setIntertime(q);
+		
 		String taxiname=db.findTaxi(d.getStartstation());
 		
 		String taxiname1=db.findTaxi(prestation);
 		
 		String taxiname2=db.findTaxi(nextstation);
 		
-		if(d.getStartstation().equals(d.getEndstation())) {
+		if(d.getStartstation().equals(d.getEndstation())|| ((o<=m) && (p<n))) {
 			
 			return "error";
 			
@@ -73,7 +97,7 @@ public class Work1 extends HeadWork{
 				
 				db.updateCustomerInfo(d.getCustomerID(), taxiname);	
 				
-				db.updateFlag(taxiname);
+				db.updateFlag(taxiname,1);
 				
 				int h=db.checkMoney(taxiname);
 				
@@ -89,7 +113,7 @@ public class Work1 extends HeadWork{
 					
 					db.updateCustomerInfo(d.getCustomerID(), taxiname1);	
 					
-					db.updateFlag(taxiname1);
+					db.updateFlag(taxiname1,1);
 					
 					int h=db.checkMoney(taxiname1);
 					
@@ -103,7 +127,7 @@ public class Work1 extends HeadWork{
 						
 						db.updateCustomerInfo(d.getCustomerID(), taxiname2);	
 						
-						db.updateFlag(taxiname2);
+						db.updateFlag(taxiname2,1);
 						
 						int h=db.checkMoney(taxiname2);
 						

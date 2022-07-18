@@ -236,7 +236,7 @@ public class DBCon {
 		
 	}
 	
-	public boolean updateFlag(String taxiname) {
+	public boolean updateFlag(String taxiname,int flag) {
 		
 		try {
 			
@@ -246,7 +246,7 @@ public class DBCon {
 			
 			PreparedStatement ps=con.prepareStatement(query);
 			
-			ps.setInt(1, 1);
+			ps.setInt(1, flag);
 			
 			ps.setString(2, taxiname);
 			
@@ -370,6 +370,32 @@ public class DBCon {
 		
 	}
 	
+	public boolean deleteCustomerInfo(String customerid) {
+		
+		try {
+			
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
+			
+			String query="delete from taxicustomer where tid=?";
+			
+			PreparedStatement ps=con.prepareStatement(query);
+			
+			ps.setString(1, customerid);
+			
+			ps.execute();
+			
+			return true;
+			
+		} catch (Exception e) {
+			
+			e.printStackTrace();
+			
+			return false;
+			
+		}
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		DBCon db=new DBCon();
@@ -388,11 +414,17 @@ public class DBCon {
 		
 		System.out.println(db.updateMoney(25, 10, "Taxi-1"));
 		
-		System.out.println(db.updateFlag("Taxi-1"));
+		System.out.println(db.updateFlag("Taxi-1",1));
 		
-		//System.out.println(db.updateCustomerInfo("1", "Taxi-1"));
+		System.out.println(db.checkTime("c"));
 		
-		System.out.println(db.findCustomerTaxi("1"));
+		System.out.println(db.calculateAddedTime(60, 180));
+		
+		System.out.println(db.updateCustomerInfo("2", "Taxi-1"));
+		
+		System.out.println(db.findCustomerTaxi("2"));
+		
+		System.out.println(db.deleteCustomerInfo("2"));
 		
 	}
 

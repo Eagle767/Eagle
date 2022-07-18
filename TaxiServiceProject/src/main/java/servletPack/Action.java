@@ -8,16 +8,23 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import dataPack.Data;
 
 @WebServlet("*.do")
 public class Action extends HttpServlet {
 	
 	ResponseWork rw;
 	
+	Data d;
+	
 	@Override
 	public void init(ServletConfig con) throws ServletException {
 		
 		rw=new ResponseWork();
+		
+		d=new Data();
 		
 		String path=con.getServletContext().getRealPath("/WEB-INF/config.properties");
 		
@@ -34,6 +41,10 @@ public class Action extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		rw.process(response, request);
+		
+		HttpSession hs=request.getSession();
+		
+		hs.setMaxInactiveInterval(d.getIntertime());
 		
 	}
 	

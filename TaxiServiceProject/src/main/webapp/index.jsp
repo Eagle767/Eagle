@@ -27,7 +27,7 @@
 <input name="DropPoint" type="radio" value="E">E
 <input name="DropPoint" type="radio" value="F">F<br><br>
 <label for="time">Select your Pick Up Time :</label><br><br>
-<input type="time" name="time" required="required"><br><br>
+<input type="number" name="hour" min=0 max=23 placeholder="Hour" required="required"><input type="number" placeholder="Minutes" name="minutes" min=0 max=59 required="required"><br><br>
 <input type="submit" value="Allocate Taxi">
 </form></center>
 </body>
