@@ -6,6 +6,7 @@ import java.sql.DriverManager;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
+import java.sql.Statement;
 
 public class DBconn {
 	
@@ -23,28 +24,26 @@ public class DBconn {
 		
 	}
 	
-	public boolean CheckStation(String tname) {
+	public boolean CheckFlag(){
 		
 		try {
 			
 			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
 			
-			String query="select station from taxitable where tname=?";
+			String query="select * from taxitable";
 			
-			PreparedStatement ps=con.prepareStatement(query);
+			Statement ps=con.createStatement();
 			
-			ps.setString(1, tname);
+			ResultSet rs=ps.executeQuery(query);
 			
-			ResultSet rs=ps.executeQuery();
-			
-			if(rs.next()) {
-			
-			return true;
-			
-			}else {
+			while(rs.next()) {
 				
-				return false;
-				
+				while(rs.getInt("flag")==0) {
+					
+					return true;
+					
+				}
+			
 			}
 			
 		} catch (Exception e) {
@@ -55,29 +54,31 @@ public class DBconn {
 			
 		}
 		
+		return false;
+		
 	}
 	
-	public boolean CheckFlag(String tname){
+	public int CheckStation(String station) {
 		
 		try {
 			
 			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
 			
-			String query="select flag from taxitable where tname=?";
+			String query="select sno from taxivalues where astation=?";
 			
 			PreparedStatement ps=con.prepareStatement(query);
 			
-			ps.setString(1, tname);
+			ps.setString(1, station);
 			
 			ResultSet rs=ps.executeQuery();
 			
 			if(rs.next()) {
 			
-			return true;
+			return rs.getInt("sno");
 			
 			}else {
 				
-				return false;
+				return 0;
 				
 			}
 			
@@ -85,7 +86,7 @@ public class DBconn {
 			
 			e.printStackTrace();
 			
-			return false;
+			return 0;
 			
 		}
 		
@@ -233,6 +234,39 @@ public class DBconn {
 		
 	}
 	
+	
+	public boolean CheckTable(){
+		
+		try {
+			
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
+			
+			String query="select * from taxitable order by eamt ASC";
+			
+			PreparedStatement ps=con.prepareStatement(query);
+			
+			ResultSet rs=ps.executeQuery();
+			
+			if(rs.next()) {
+			
+			return true;
+			
+			}else {
+				
+				return false;
+				
+			}
+			
+		} catch (Exception e) {
+			
+			e.printStackTrace();
+			
+			return false;
+			
+		}
+		
+	}
+	
 	public boolean CheckTime(String station){
 		
 		try {
@@ -301,17 +335,49 @@ public class DBconn {
 		
 	}
 	
+	public boolean BookTaxi(String station){
+		
+		try {
+			
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
+			
+			String query="select * from taxitable order by eamt ASC";
+			
+			Statement ps=con.createStatement();
+			
+			ResultSet rs=ps.executeQuery(query);
+			while(rs.next()) {
+				
+				if(rs.getInt("flag")==0 && rs.getString("station").equals(station)) {
+			            System.out.println(rs.getInt(4));
+			            return true;
+				}
+			
+			
+			}
+		} catch (Exception e) {
+			
+			e.printStackTrace();
+			
+			return false;
+			
+		}
+		
+		return false;
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		DBconn db=new DBconn();
 		
 		System.out.println(db.UpdateStation("A","Taxi-2"));
 		
-		System.out.println(db.UpdateFlag("Taxi-1", 0));
+		System.out.println(db.UpdateFlag("Taxi-4", 0));
 		
-		System.out.println(db.CheckStation("Taxi-3"));
+		System.out.println(db.CheckStation("C"));
 		
-		System.out.println(db.CheckFlag("Taxi-4"));
+		System.out.println(db.CheckFlag());
 		
 		System.out.println(db.CheckMoney("Taxi-2"));
 		
@@ -319,7 +385,11 @@ public class DBconn {
 		
 		System.out.println(db.CheckDistance("C"));
 		
-		System.out.println(db.UpdateMoney(0, "Taxi-1"));
+		System.out.println(db.UpdateMoney(45, "Taxi-4"));
+		
+		System.out.println(db.BookTaxi("A"));
+		
+		System.out.println(db.CheckTable());
 		
 	}
 
