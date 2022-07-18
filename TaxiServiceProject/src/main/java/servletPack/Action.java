@@ -44,7 +44,7 @@ public class Action extends HttpServlet {
 		
 		HttpSession hs=request.getSession();
 		
-		hs.setMaxInactiveInterval(d.getIntertime());
+		hs.setMaxInactiveInterval(d.getIntertime()*60);
 		
 	}
 	
