@@ -1,6 +1,7 @@
 package servletPack;
 
 import java.io.IOException;
+import java.time.LocalTime;
 
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
@@ -10,25 +11,27 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import dataPack.Data;
+import dataBaseConnect.DBCon;
 
 @WebServlet("*.do")
 public class Action extends HttpServlet {
 	
 	ResponseWork rw;
 	
-	Data d;
+	DBCon db;
 	
 	@Override
 	public void init(ServletConfig con) throws ServletException {
 		
-		rw=new ResponseWork();
+		db=new DBCon();
 		
-		d=new Data();
+		rw=new ResponseWork();
 		
 		String path=con.getServletContext().getRealPath("/WEB-INF/config.properties");
 		
 		con.getServletContext().setAttribute("path", path);
+		
+		System.out.println("started servelet......");
 		
 	}
 
@@ -44,7 +47,11 @@ public class Action extends HttpServlet {
 		
 		HttpSession hs=request.getSession();
 		
-		hs.setMaxInactiveInterval(d.getIntertime()*60);
+		Object o=hs.getAttribute("intertime");
+		
+		int a=(int) o;
+		
+		hs.setMaxInactiveInterval(a*60);
 		
 	}
 	

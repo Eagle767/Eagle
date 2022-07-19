@@ -7,7 +7,7 @@
 <title>Errop Page</title>
 </head>
 <body><center>
-<h1>Please Enter Select Correct Places...........</h1>
+<h1>Please Enter Correct Time and Select Correct Places...........</h1>
 <h1>or</h1>
 <h1>Not available in Taxi in this time</h1>
 <a href="index.jsp">click to retry.......</a></center>

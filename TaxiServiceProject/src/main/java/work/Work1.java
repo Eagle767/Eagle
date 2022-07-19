@@ -39,6 +39,8 @@ public class Work1 extends HeadWork{
 		
 		d.setCustomerID(request.getParameter("customerid"));
 		
+		request.getSession().setAttribute("customerid", d.getCustomerID());
+		
 		db.deleteCustomerInfo(d.getCustomerID());
 		
 		d.setStartstation(request.getParameter("PickUpPoint"));
@@ -81,13 +83,17 @@ public class Work1 extends HeadWork{
 		
 		d.setIntertime(q);
 		
+		request.getSession().setAttribute("intertime", d.getIntertime());
+		
+		System.out.println(d.getIntertime());
+		
 		String taxiname=db.findTaxi(d.getStartstation());
 		
 		String taxiname1=db.findTaxi(prestation);
 		
 		String taxiname2=db.findTaxi(nextstation);
 		
-		if(d.getStartstation().equals(d.getEndstation())|| ((o<=m) && (p<n))) {
+		if(d.getStartstation().equals(d.getEndstation())|| (o<m) || ((o==m) && (p<=n))) {
 			
 			return "error";
 			
@@ -102,6 +108,8 @@ public class Work1 extends HeadWork{
 				int h=db.checkMoney(taxiname);
 				
 				db.updateMoney(g, h, taxiname);
+				
+				db.updateStation(d.getEndstation(), taxiname);
 				
 				return "success";
 				
@@ -119,6 +127,8 @@ public class Work1 extends HeadWork{
 					
 					db.updateMoney(g, h, taxiname1);
 					
+					db.updateStation(d.getEndstation(), taxiname1);
+					
 					return "success";
 					
 				}else {
@@ -133,6 +143,8 @@ public class Work1 extends HeadWork{
 						
 						db.updateMoney(g, h, taxiname2);
 						
+						db.updateStation(d.getEndstation(), taxiname2);
+						
 						return "success";
 						
 					}else {
@@ -146,7 +158,6 @@ public class Work1 extends HeadWork{
 			}
 		
 		}
-		
 	}
 	
 }

@@ -22,11 +22,15 @@ public class SessionDestroyer implements HttpSessionListener {
     	
     	HttpSession hs=se.getSession();
     	
-    	Object o=hs.getAttribute("lasttaxi");
+    	Object o=hs.getAttribute("customerid");
     	
     	if(o!=null) {
     		
-    		con.updateFlag(o.toString(),0);
+    		String customerid=o.toString();
+    		
+    		String taxiname=con.findCustomerTaxi(customerid);
+    		
+    		con.updateFlag(taxiname,0);
     		
     	}
 

@@ -17,7 +17,6 @@ public void jspInit() {
 <h1>Taxi can be Allocated</h1>
 <% String customerid=request.getParameter("customerid"); %>
 <h1><%=con.findCustomerTaxi(customerid)   %> can be Alloted</h1>
-<input type="hidden" name="lasttaxi" value=<%=con.findCustomerTaxi(customerid)   %>>
 </center>
 </body>
 </html>

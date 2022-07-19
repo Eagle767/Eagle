@@ -396,6 +396,34 @@ public class DBCon {
 		
 	}
 	
+	public boolean updateStation(String endstation,String Taxiname) {
+		
+		try {
+			
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
+			
+			String query="update taxitable set station=? where tname=?";
+			
+			PreparedStatement ps=con.prepareStatement(query);
+			
+			ps.setString(1, endstation);
+			
+			ps.setString(2, Taxiname);
+			
+			ps.execute();
+			
+			return true;
+			
+		} catch (Exception e) {
+			
+			e.printStackTrace();
+			
+			return false;
+			
+		}
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		DBCon db=new DBCon();
@@ -425,6 +453,8 @@ public class DBCon {
 		System.out.println(db.findCustomerTaxi("2"));
 		
 		System.out.println(db.deleteCustomerInfo("2"));
+		
+		System.out.println(db.updateStation("C", "Taxi-2"));
 		
 	}
 
