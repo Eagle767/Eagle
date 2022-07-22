@@ -16,9 +16,6 @@ public class SessionDestroyer implements HttpSessionListener {
         
     }
 
-	/**
-     * @see HttpSessionListener#sessionDestroyed(HttpSessionEvent)
-     */
     public void sessionDestroyed(HttpSessionEvent se)  { 
     	
     	DBConnect db=new DBConnect();
