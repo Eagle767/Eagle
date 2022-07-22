@@ -21,6 +21,42 @@ public class DBCon {
 		
 	}
 	
+	public boolean checkTicketUser(String uname, String upass) {
+		
+		try {
+			
+			Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
+			
+			String quary="select * from trainchart where uname=? and upass=?";
+			
+			PreparedStatement ps=con.prepareStatement(quary);
+			
+			ps.setString(1, uname);
+			
+			ps.setString(2, upass);
+			
+			ResultSet rs=ps.executeQuery();
+			
+			if(rs.next()) {
+			
+			return true;
+			
+			}else {
+				
+				return false;
+				
+			}
+			
+		} catch (Exception e) {
+			
+			e.printStackTrace();
+			
+			return false;
+			
+		}
+		
+	}
+	
 	public boolean checkUser(String uname, String upass) {
 		
 		try {

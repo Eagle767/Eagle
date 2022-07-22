@@ -15,6 +15,10 @@ public class BookTicket extends HeadAbstract{
 		boolean f=con.checkUser(request.getParameter("uname"), request.getParameter("upass"));
 		
 		if(f==true) {
+			
+			boolean b=con.checkTicketUser(request.getParameter("uname"), request.getParameter("upass"));
+			
+			if(b==false) {
 		
 	    int a=con.bookTickets(request.getParameter("tname"));
 	    
@@ -33,7 +37,11 @@ public class BookTicket extends HeadAbstract{
 	    	return "Fail";
 	    	
 	    }
-	    
+			}else {
+				
+				return "alreadybooked";
+				
+			}
 		}else {
 			
 			return "book";
