@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Errop Page</title>
+<title>Error Page</title>
 </head>
 <body><center>
 <h1>Please Enter Correct Time and Select Correct Places...........</h1>
