@@ -132,7 +132,7 @@ class Fruites implements Iteams{
 	
 	public int getweight() {
 		
-		return c;
+	   return c;
 		
 	}
 	
