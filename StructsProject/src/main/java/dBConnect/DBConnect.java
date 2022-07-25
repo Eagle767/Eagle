@@ -1,10 +1,14 @@
 package dBConnect;
+import java.io.IOException;
+import java.io.OutputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+
+import javax.servlet.http.HttpServletResponse;
 
 import dataPack.UserDIO;
 
@@ -200,6 +204,28 @@ public class DBConnect {
 			
 		}
 		
+	}
+	
+	public void getImg(String name,String shopname,HttpServletResponse response) {
+		response.setContentType("image/jpg");
+		  try {
+		  Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
+		  String sql = "SELECT * FROM "+shopname+" WHERE name =?";
+		  PreparedStatement ps = con.prepareStatement(sql);
+		  
+		  ps.setString(1, name);
+		   ResultSet rs = ps.executeQuery();
+		   if(rs.next()){
+		    byte [] imageData = rs.getBytes("img"); 
+		    OutputStream os = response.getOutputStream(); 
+		             os.write(imageData);
+		             os.flush();
+		             os.close();
+		   }
+		  } catch (Exception e) {
+		   // TODO Auto-generated catch block
+		   e.printStackTrace();
+		  }
 	}
 	
 	public static void main(String[] args) {
