@@ -16,7 +16,7 @@ public class ControllerDemo {
 	}
 	
 	@RequestMapping(method =RequestMethod.GET, value = "/hello1" )
-	public void hello1(@RequestParam("name")String name,@RequestParam("pass")String pass) {
+	public void hello1(@RequestParam("uname")String name,@RequestParam("upass")String pass) {
 		System.out.println("Hello......."+name+":"+pass);
 	}
 	
