@@ -1,8 +1,13 @@
 package frompack;
 
+import javax.validation.constraints.Size;
+
 public class Data {
 	
-	private String name,pass,no,email;
+	@Size(max = 15, min = 5)
+	private String name;
+	
+	private String pass,no,email;
 
 	public String getName() {
 		return name;

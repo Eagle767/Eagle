@@ -1,6 +1,9 @@
 package frompack;
 
+import javax.validation.Valid;
+
 import org.springframework.stereotype.Controller;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -26,9 +29,17 @@ public class FormTest {
 	}
 	
 	@RequestMapping(method = RequestMethod.POST,value = "/forms")
-	public ModelAndView welcome(@ModelAttribute Data d) {
+	public ModelAndView welcome(@Valid@ModelAttribute("user") Data d, BindingResult rs) {
 		
 		ModelAndView mv=new ModelAndView();
+		
+		if(rs.hasErrors()) {
+			
+			mv.setViewName("form");
+			
+			return mv;
+			
+		}else {
 		
 		System.out.println(d.getName());
 		
@@ -39,6 +50,8 @@ public class FormTest {
 		mv.setViewName("welcome");
 		
 		return mv;
+		
+		}
 		
 	}
 
