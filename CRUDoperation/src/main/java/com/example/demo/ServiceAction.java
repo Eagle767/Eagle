@@ -1,4 +1,5 @@
 package com.example.demo;
+import java.util.List;
 
 import javax.transaction.Transactional;
 
@@ -23,6 +24,12 @@ public class ServiceAction {
 	public void database(Data da) {
 		
 		getD().save(da);
+		
+	}
+	
+	public List<Data> data(String city){
+		
+		return getD().findBycity(city);
 		
 	}
 
