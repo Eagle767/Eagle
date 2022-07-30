@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class CruDoperationApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads(){
 	}
 
 }
