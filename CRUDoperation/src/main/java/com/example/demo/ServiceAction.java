@@ -32,5 +32,17 @@ public class ServiceAction {
 		return getD().findBycity(city);
 		
 	}
+	
+	public List<Data> data1(int age){
+		
+		return getD().findByageGreaterThan(age);
+		
+	}
+	
+	public List<Data> data2(String city){
+		
+		return getD().findBycitySorted(city);
+		
+	}
 
 }

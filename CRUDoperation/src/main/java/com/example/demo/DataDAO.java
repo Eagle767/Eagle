@@ -13,7 +13,7 @@ import org.springframework.stereotype.Repository;
 		
 		public List<Data> findByageGreaterThan(int age);
 		
-		@Query("from Data where city='Chennai' order by name")
+		@Query("from Data where city=?1 order by name")
 		public List<Data> findBycitySorted(String city);
 
 	}
