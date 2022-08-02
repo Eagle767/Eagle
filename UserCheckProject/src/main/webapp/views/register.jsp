@@ -1,5 +1,6 @@
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<script>window.alert("Please Enter Valid Deatails")</script>
 <h1>Welcome to Register...</h1>
 <form:form action="/con/forms" method="POST" modelAttribute="user">
 	UserName:<form:input type="text" path="name" required="required"/><br>

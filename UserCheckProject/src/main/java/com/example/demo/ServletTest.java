@@ -1,7 +1,11 @@
 package com.example.demo;
+import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.List;
+
+import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
@@ -72,7 +76,7 @@ public class ServletTest {
 		
 		mv.addObject("user", d);	st.saveData(d);
 		
-		mv.setViewName("welcome");	return mv;
+		mv.setViewName("login");	return mv;
 		
 		}else {
 			
@@ -114,11 +118,15 @@ public class ServletTest {
 			
 			if(itr.next().getFlag()==0) {
 			
-				mv.setViewName("welcome"); st.updateFlag(1, name,pass);  return mv;	}
+				mv.setViewName("welcome"); st.updateFlag(1, name,pass);  return mv;	}else {
+					
+					mv.setViewName("logout"); return mv;
+					
+				}
 			
 		}
 		
-		mv.setViewName("error");	return mv;
+		mv.setViewName("register");	return mv;
 		
 	}
 	
@@ -128,6 +136,27 @@ public class ServletTest {
 		st.updateFlag(0, request.getParameter("name"), request.getParameter("pass"));
 		
 	     return websearch5(d,request);
+		
+	}
+	
+	@RequestMapping(method = RequestMethod.POST,value = "/shop")
+	public String shop(Customers d,HttpServletRequest request) {
+		
+		Enumeration<String> em=request.getParameterNames();
+		
+		HttpSession hs=request.getSession();
+		
+		while(em.hasMoreElements()) {
+			
+			String a=em.nextElement().toString();
+			
+			String b=request.getParameter(a);
+			
+			hs.setAttribute(a, b);
+			
+		}
+		
+	     return request.getParameter("shop");
 		
 	}
 	
