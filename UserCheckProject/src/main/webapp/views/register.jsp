@@ -3,8 +3,9 @@
 <h1>Welcome to Register...</h1>
 <form:form action="/con/forms" method="POST" modelAttribute="user">
 	UserName:<form:input type="text" path="name" required="required"/><br>
-	PassWord:<input type="password" name="pass1" required="required"/><br>
-	Re-Enter PassWord:<input type="password" name="pass2" required="required"/><br>
+	<form:errors path="name"></form:errors><br>
+	PassWord:<form:input type="text" path="pass" required="required"/><br>
+	Re-Enter PassWord:<input type="password" name="pass1" required="required"/><br>
 	Age:<form:input type="number" path="age" required="required"/><br>
 	Phone:<form:input path="mno" required="required"/><br>
 	Address:<form:input type="text" path="address" required="required"/><br>

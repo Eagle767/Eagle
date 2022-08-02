@@ -1,7 +1,7 @@
 package com.example.demo;
-
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.validation.constraints.Size;
 
 @Entity
 public class Customers {
@@ -9,6 +9,7 @@ public class Customers {
 	@Id
 	private int uid;
 	
+	@Size(max = 15, min = 5)
 	private String name;
 	
 	private String pass;
