@@ -3,10 +3,16 @@ package com.example.demo;
 import java.util.Iterator;
 import java.util.List;
 
+import javax.servlet.http.HttpServletRequest;
+
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.MessageSource;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 @RequestMapping("/con")
@@ -54,18 +60,41 @@ public class ServletAction {
 		
 	}
 	
-	@RequestMapping("/up")
-	public void met(@RequestParam("city") String city) {
+	@RequestMapping(method = RequestMethod.GET, value = "/forms")
+	public String websearch() {
 		
-		List<Data> l=sa.data(city);
+		return "form";
+		
+	}
+	
+	@RequestMapping(method = RequestMethod.POST, value = "/forms")
+	public ModelAndView met(HttpServletRequest request) {
+		
+		ModelAndView mv=new ModelAndView();
+		
+		String ssd=request.getParameter("city");
+		
+		System.out.println(request.getParameter("city"));
+		
+		List<Data> l=sa.data(ssd);
 		
 		Iterator<Data> itr=l.iterator();
 		
 		System.out.println(l);
 		
+		String s="";
+		
 		while(itr.hasNext()) {
 			
 			Data d=itr.next();
+			
+			String ss=d.getUid()+":"+d.getName()+":"+d.getAge();
+			
+			if(ss!=null) {
+				
+				s=s+","+ss;
+				
+			}
 			
 			System.out.println(d);
 			
@@ -73,12 +102,22 @@ public class ServletAction {
 			
 		}
 		
+		request.setAttribute("names", s);
+		
+		mv.setViewName("name");
+		
+		return mv;
+		
 	}
 	
 	@RequestMapping("/up1")
-	public void met1(@RequestParam("age") int age) {
+	public ModelAndView met1(@RequestParam("age") int age,HttpServletRequest request) {
+		
+		ModelAndView mv=new ModelAndView();
 		
 		List<Data> l=sa.data1(age);
+		
+		String s="";
 		
 		Iterator<Data> itr=l.iterator();
 		
@@ -88,14 +127,30 @@ public class ServletAction {
 			
 			Data d=itr.next();
 			
+			String ss=d.getUid()+":"+d.getName()+":"+d.getCity();
+			
+			if(ss!=null) {
+				
+				s=s+","+ss;
+				
+			}
+			
 			System.out.println(d.getCity()+":"+d.getName()+":"+d.getUid());
 			
 		}
 		
+		request.setAttribute("names", s);
+		
+		mv.setViewName("name");
+		
+		return mv;
+		
 	}
 	
 	@RequestMapping("/up2")
-	public void met2(@RequestParam("city") String city) {
+	public ModelAndView met2(@RequestParam("city") String city,HttpServletRequest request) {
+		
+		ModelAndView mv=new ModelAndView();
 		
 		List<Data> l=sa.data2(city);
 		
@@ -103,11 +158,29 @@ public class ServletAction {
 		
 		System.out.println(l);
 		
+		String s="";
+		
 		while(itr.hasNext()) {
 			
-			System.out.println(itr.next().getName());
+			String ss=itr.next().getName();
+			
+			if(ss!=null) {
+				
+				s=s+","+ss;
+				
+			}
+			
+			System.out.println(ss);
 			
 		}
+		
+		System.out.println(s);
+		
+		request.setAttribute("names", s);
+		
+		mv.setViewName("name");
+		
+		return mv;
 		
 	}
 	
