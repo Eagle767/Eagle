@@ -1,8 +1,13 @@
-<h1>Welcome Login</h1>
-<%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
-<form:form action="/con/forms1" method="POST" modelAttribute="user">
-UserName:<form:input type="text" path="name" required="required"/>
-UserName:<form:input type="text" path="pass" required="required"/>
-	<input type="submit" value="click...">
-	
-</form:form>
+<style>
+body{
+background-image: url("https://getwallpapers.com/wallpaper/full/0/0/4/967376-free-cool-neon-wallpaper-1920x1080-hd-for-mobile.jpg");
+color: white;
+}
+.sub{
+ background-color: green;
+}
+</style>
+<center><h1>Welcome to Login</h1><form action="/con/forms1" method="POST">
+UserName:<input type="text" name="name" required="required"/><br><br>
+UserName:<input type="text" name="pass" required="required"/><br><br>
+<input class="sub" type="submit" value="GO"></form></center>

@@ -1,6 +1,8 @@
 package com.example.demo;
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.validation.constraints.Digits;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 @Entity
@@ -9,21 +11,25 @@ public class Customers {
 	@Id
 	private int uid;
 	
+	@NotNull
 	@Size(max = 15, min = 5)
 	private String name;
 	
+	@Size(max = 15, min = 5)
 	private String pass;
 	
 	private long mno;
-	
+
+	@Size(max = 15, min = 3)
 	private String city;
-	
+
 	private int age;
 	
 	private int flag;
-	
+
+	@Size(max = 50, min = 10)
 	private String address;
-	
+
 	private String img;
 	
 	public int getFlag() {

@@ -7,6 +7,7 @@ import java.sql.ResultSet;
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Locale;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
@@ -17,6 +18,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
+import org.springframework.validation.FieldError;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -93,11 +95,9 @@ public class ServletTest {
 	}
 	
 	@RequestMapping(method = RequestMethod.GET, value = "/forms1")
-	public ModelAndView websearch5(Customers d,HttpServletRequest request) {
+	public ModelAndView websearch5(HttpServletRequest request) {
 		
         ModelAndView mv=new ModelAndView();
-		
-		mv.addObject("user", d);
 		
 		mv.setViewName("login");
 		
@@ -106,15 +106,17 @@ public class ServletTest {
 	}
 	
 	@RequestMapping(method = RequestMethod.POST,value = "/forms1")
-	public ModelAndView websearch1(@ModelAttribute("user") Customers d,HttpServletRequest request) {
+	public ModelAndView websearch1(Customers d,HttpServletRequest request) {
 		
 		ModelAndView mv=new ModelAndView();
 		
-		mv.addObject("names",d.getName());
+		String name=request.getParameter("name"),pass=request.getParameter("pass");
 		
-		mv.addObject("passs",d.getPass());
+		if(name.length()>5)
 		
-		String name=d.getName(),pass=d.getPass();
+		mv.addObject("names",name);
+		
+		mv.addObject("passs",pass);
 		
 		List<Customers> c=st.checkUser(name, pass);
 		
@@ -132,16 +134,18 @@ public class ServletTest {
 			
 		}
 		
+		mv.addObject("user", d);
+		
 		mv.setViewName("register");	return mv;
 		
 	}
 	
 	@RequestMapping(method = RequestMethod.GET,value = "/log")
-	public ModelAndView logout(Customers d,HttpServletRequest request) {
+	public ModelAndView logout(HttpServletRequest request) {
 		
 		st.updateFlag(0, request.getParameter("name"), request.getParameter("pass"));
 		
-	     return websearch5(d,request);
+	     return websearch5(request);
 		
 	}
 	

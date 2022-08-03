@@ -8,8 +8,21 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Fruit Shop</title>
+<style type="text/css">
+body{
+background-color: yellow;
+text-align: center;
+color: black;
+}
+h1,span{
+color: black;
+}
+.sub{
+ background-color: green;
+}
+</style>
 </head>
-<body><center>
+<body>
 <h1>Fruit Shop</h1>
 <%! ResultSet rs ;
     DbCon db ;
@@ -21,12 +34,11 @@
 <input type="hidden" name="shop" value="ToyShop">
 <% rs=db.checkTable("FruitShop2"); 
 while(rs.next()){ %>
-<input type="checkbox" name=<%=rs.getString(1) %> value=<%=rs.getString(2) %> >
+<span><input type="checkbox" name=<%=rs.getString(1) %> value=<%=rs.getString(2) %> >
 	<%=rs.getString(1) %>
 	<img alt="Image not found......" src=/con/shopimg?shopname=fruitshop2&name=<%=rs.getString(1) %> width="100px" height="100px">
-	 <% } %>
-    <input type="submit" value="Next">
+	 <% } %></span>
+    <input class="sub" type="submit" value="Next">
 </form>
-</center>
 </body>
 </html>

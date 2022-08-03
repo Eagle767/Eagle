@@ -1,16 +1,31 @@
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <script>window.alert("Please Enter Valid Deatails")</script>
-<h1>Welcome to Register...</h1>
+<style>
+body{
+background-image: url("https://getwallpapers.com/wallpaper/full/e/4/c/967481-cool-neon-wallpaper-2560x1600-for-phone.jpg");
+color: white;
+}
+.sub{
+ background-color: green;
+}
+</style>
+<center><h1>Welcome to Register Page</h1>
 <form:form action="/con/forms" method="POST" modelAttribute="user">
-	UserName:<form:input type="text" path="name" required="required"/><br>
-	<form:errors path="name"></form:errors><br>
-	PassWord:<form:input type="text" path="pass" required="required"/><br>
-	Re-Enter PassWord:<input type="password" name="pass1" required="required"/><br>
-	Age:<form:input type="number" path="age" required="required"/><br>
-	Phone:<form:input path="mno" required="required"/><br>
-	Address:<form:input type="text" path="address" required="required"/><br>
-	City:<form:input type="text" path="city" required="required"/><br>
-	image:<form:input type="file" path="img" required="required"/><br>
-	<input type="submit" value="click...">
-</form:form>
+	<label>UserName</label><br><form:input type="text" path="name"/><br>
+	<form:errors style="color:red;" path="name"></form:errors><br>
+	<label>PassWord</label><br><form:input type="text" path="pass"/><br>
+	<label>Re-Enter PassWord</label><br><input type="password" name="pass1" required="required"/><br>
+	<form:errors style="color:red;" path="pass"></form:errors><br>
+	<label>Age</label><br><form:input type="number" path="age"/><br>
+	<form:errors style="color:red;" path="age"></form:errors><br>
+	<label>Phone</label><br><form:input path="mno"/><br>
+	<form:errors style="color:red;" path="mno"></form:errors><br>
+	<label>Address</label><br><form:input type="text" path="address"/><br>
+	<form:errors style="color:red;" path="address"></form:errors><br>
+	<label>City</label><br><form:input type="text" path="city"/><br>
+	<form:errors style="color:red;" path="city"></form:errors><br>
+	<label>Image</label><br><form:input type="file" path="img"/><br>
+	<form:errors style="color:red;" path="img"></form:errors><br>
+	<input class="sub" type="submit" value="click...">
+</form:form></center>
