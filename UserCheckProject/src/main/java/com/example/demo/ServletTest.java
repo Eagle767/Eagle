@@ -1,10 +1,16 @@
 package com.example.demo;
+import java.io.OutputStream;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.List;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -159,5 +165,31 @@ public class ServletTest {
 	     return request.getParameter("shop");
 		
 	}
+	
+	@RequestMapping(method = RequestMethod.GET,value = "/shopimg")
+	public void met(HttpServletRequest request,HttpServletResponse response) {
+		
+		  response.setContentType("image/jpg");
+		  String name =request.getParameter("name");
+		  String shopname =request.getParameter("shopname");
+		  try {
+		  Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/muthu","root","root");
+		  String sql = "SELECT * FROM "+shopname+" WHERE name =?";
+		  PreparedStatement ps = con.prepareStatement(sql);
+		  
+		  ps.setString(1, name);
+		   ResultSet rs = ps.executeQuery();
+		   if(rs.next()){
+		    byte [] imageData = rs.getBytes("img");
+		    OutputStream os = response.getOutputStream();
+		             os.write(imageData);
+		             os.flush();
+		             os.close();
+		   }
+		  } catch (Exception e) {
+		   e.printStackTrace();
+		  }
+		  
+		 }
 	
 }

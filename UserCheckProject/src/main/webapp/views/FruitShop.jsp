@@ -1,17 +1,32 @@
-
+<%@page import="java.sql.ResultSet"%>
+<%@page import="com.example.demo.DbCon"%>
+<%@page import="java.io.OutputStream"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="ISO-8859-1">
 <title>Fruit Shop</title>
 </head>
-<body>
+<body><center>
 <h1>Fruit Shop</h1>
+<%! ResultSet rs ;
+    DbCon db ;
+    public void jspInit() {
+        db = new DbCon();
+    }
+%>
 <form action="/con/shop" method="post">
 <input type="hidden" name="shop" value="ToyShop">
-<input name="apple" value="50" type="checkbox">Apple
-<input name="orange" value="30" type="checkbox">Orange
-<input name="mango" value="40" type="checkbox">Mango
-<input type="submit" value="Next Shop">
+<% rs=db.checkTable("FruitShop2"); 
+while(rs.next()){ %>
+<input type="checkbox" name=<%=rs.getString(1) %> value=<%=rs.getString(2) %> >
+	<%=rs.getString(1) %>
+	<img alt="Image not found......" src=/con/shopimg?shopname=fruitshop2&name=<%=rs.getString(1) %> width="100px" height="100px">
+	 <% } %>
+    <input type="submit" value="Next">
 </form>
+</center>
 </body>
 </html>
