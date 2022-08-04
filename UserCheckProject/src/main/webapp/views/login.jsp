@@ -9,5 +9,5 @@ color: white;
 </style>
 <center><h1>Welcome to Login</h1><form action="/con/forms1" method="POST">
 UserName:<input type="text" name="name" required="required"/><br><br>
-UserName:<input type="text" name="pass" required="required"/><br><br>
+Password:<input type="text" name="pass" required="required"/><br><br>
 <input class="sub" type="submit" value="GO"></form></center>

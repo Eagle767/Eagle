@@ -1,4 +1,5 @@
 package com.example.demo;
+import java.io.IOException;
 import java.io.OutputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,18 +8,21 @@ import java.sql.ResultSet;
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Locale;
-
+import javax.servlet.Filter;
+import javax.servlet.FilterChain;
 import javax.servlet.ServletException;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
+import javax.servlet.http.HttpFilter;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
+import javax.servlet.http.HttpSessionEvent;
+import javax.servlet.http.HttpSessionListener;
 import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.MessageSource;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
-import org.springframework.validation.FieldError;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -26,13 +30,10 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 @RequestMapping("/con")
-public class ServletTest {
+public class ServletTest{
 	
 	@Autowired
 	private ServiceTest st;
-	
-	@Autowired
-	MessageSource ms;
 
 	public ServiceTest getSt() {
 		return st;
@@ -40,7 +41,7 @@ public class ServletTest {
 
 	public void setSt(ServiceTest st) {
 		this.st = st;
-	}
+	}  
 	
 	@RequestMapping(method = RequestMethod.GET, value = "/forms")
 	public ModelAndView websearch(Customers d) {
@@ -112,11 +113,11 @@ public class ServletTest {
 		
 		String name=request.getParameter("name"),pass=request.getParameter("pass");
 		
-		if(name.length()>5)
+		 request.getSession().setAttribute("name", name); request.getSession().setAttribute("pass", pass);
 		
-		mv.addObject("names",name);
+		if(name.length()>=5)
 		
-		mv.addObject("passs",pass);
+		mv.addObject("names",name);	mv.addObject("passs",pass);
 		
 		List<Customers> c=st.checkUser(name, pass);
 		
@@ -125,6 +126,8 @@ public class ServletTest {
 		while(itr.hasNext()) {
 			
 			if(itr.next().getFlag()==0) {
+				
+				HttpSession hs=request.getSession(); hs.setMaxInactiveInterval(10);
 			
 				mv.setViewName("welcome"); st.updateFlag(1, name,pass);  return mv;	}else {
 					
