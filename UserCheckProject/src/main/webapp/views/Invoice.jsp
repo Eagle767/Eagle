@@ -27,7 +27,7 @@ Enumeration<String> em=session.getAttributeNames();
 while(em.hasMoreElements()){
 	String a=em.nextElement().toString();
 	String b=session.getAttribute(a).toString();
-	if(a.equals("shop")){}
+	if(a.equals("shop") || a.equals("name") || a.equals("pass")){}
 	else{
 		c=c+Integer.parseInt(b);
 %>

@@ -7,7 +7,8 @@
 <title>Toy Shop</title>
 <style type="text/css">
 body{
-background-color: orange;
+background-image:url("https://mcdn.wallpapersafari.com/medium/87/89/S5mPzr.jpg");
+background-size:100%;
 text-align: center;
 color: black;
 }

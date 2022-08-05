@@ -19,6 +19,8 @@ import org.springframework.stereotype.Component;
 @WebFilter("/con")
 public class FilterFunction extends HttpFilter implements Filter {
 
+	private static final long serialVersionUID = 1L;
+
 	public void destroy() {
 		
 		System.out.println("The filter is destroyed.....");

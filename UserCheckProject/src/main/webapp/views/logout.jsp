@@ -1,6 +1,6 @@
 <style type="text/css">
 body{
-background-color: yellow;
+background-image :url("https://wallpapercave.com/wp/wp4793314.jpg");
 color: white;
 text-align: center;
 }
