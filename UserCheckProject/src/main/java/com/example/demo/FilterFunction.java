@@ -31,21 +31,13 @@ public class FilterFunction extends HttpFilter implements Filter {
 		
 		System.out.println("The Filter option is Do go........");
 		
-		HttpServletRequest hreq=(HttpServletRequest) request;
-		
-		HttpServletResponse hres=(HttpServletResponse) response;
+		HttpServletRequest hreq=(HttpServletRequest) request;	HttpServletResponse hres=(HttpServletResponse) response;
 		
 		HttpSession hs=hreq.getSession();
 		
-		if(hs.isNew()) {
+		if(hs.isNew()) {	hres.sendRedirect("../expiry.jsp");
 			
-				hres.sendRedirect("../expiry.jsp");
-			
-		}else {
-			
-		chain.doFilter(request, response);
-		
-		}
+		}else {	chain.doFilter(request, response);	}
 		
 	}
 
