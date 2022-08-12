@@ -6,7 +6,9 @@ public class Visitor1 {
 
 		Iteams[] i=new Iteams[] {new Books(45, "Java"),new Books(55, "c"),new Fruites(15, 5, "Mango")};
 		
-		price(i);
+		int a=price(i);
+		
+		System.out.println(a);
 
 	}
 	
