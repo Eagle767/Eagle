@@ -11,7 +11,7 @@ public class ImageString {
     public static void main(String[] args) {
 
         try {
-            File file = new File("C://Users//muthukumar.m//Downloads/car.jpg");
+            File file = new File("C://Users//muthukumar.m//Downloads/bike.jpg");
             
             BufferedImage bufferedImage = ImageIO.read(file);
 
