@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>WindowTimeOut</title>
+        <style></style>
+        <script lang="JavaScript">
+            var c=0;
+            i=setTimeout("fun();",2000)
+            function fun(){
+                c++;
+                window.status="The Counter is Increasd..........."+c;
+                document.forms[0].elements[0].value="The Counter is Increasd..........."+c;
+                i=setTimeout("fun();",2000)
+            }
+        </script>
+    </head>
+    <body>
+        <h1>WindowTimeOut</h1>
+        <form>
+            <input type="text">
+            <input value="start" type="button" onclick="c=0"><br>
+            <input type="button" value="stop" onclick="window.clearTimeout(i)">
+        </form>
+    </body>
+</html>

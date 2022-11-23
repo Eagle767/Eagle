@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>objcreate</title>
+        <style></style>
+        <script lang="JavaScript">
+            
+            function dis(){
+                document.write("Name is "+this.name+" Age is "+this.age+"<br>")
+            }
+            function role(name,age){
+                this.name=name;
+                this.age=age;
+                this.dis=dis;
+            }
+            sun=new role("muthu","7");
+            sunn=new role("abc","78")
+            sun.dis();
+            sunn.dis();
+        </script>
+    </head>
+    <body>
+        <h1>objcreate</h1>
+        <p id="base"></p>
+    </body>
+</html>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package jdbccon;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -14,4 +15,22 @@ public class ConnectionTest {
 		
 		//step 4 - process result
 	}
+=======
+package jdbccon;
+import java.sql.Connection;
+import java.sql.DriverManager;
+public class ConnectionTest {
+	public static void main(String[] args) throws Exception{
+		//Step1 - Load the Driver.
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		//Step 2 - Establish Connection
+		Connection con=DriverManager.getConnection
+				("jdbc:mysql://localhost:3306/muthu","root","root");
+		
+		System.out.println(con);
+		//Step 3 - Execute sql statement
+		
+		//step 4 - process result
+	}
+>>>>>>> branch 'master' of https://github.com/MayilaiMuthu/Eagle.git
 }

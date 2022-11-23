@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package access;
 import java.io.File;
 import org.apache.log4j.Logger;
@@ -14,4 +15,22 @@ public class Simple {
 		logger.warn("warning message...:"+str);
 		logger.error("error message...:");
 	}
+=======
+package access;
+import java.io.File;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+public class Simple {
+	static Logger logger=Logger.getLogger(Simple.class);
+	
+	public static void main(String[] args) {
+		String str="welcome to sonar";
+		
+		String log4jConfigFile = System.getProperty("user.dir") + File.separator + "log4j.properties";
+		PropertyConfigurator.configure(log4jConfigFile);
+		logger.info("this is a message......:"+str);
+		logger.warn("warning message...:"+str);
+		logger.error("error message...:");
+	}
+>>>>>>> branch 'master' of https://github.com/MayilaiMuthu/Eagle.git
 }

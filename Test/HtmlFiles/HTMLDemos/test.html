@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>hello</title>
+    <script lang="javaScript">
+        function self()
+        {
+            var x=parseInt(document.Simple.first.value);
+            var y=parseInt(document.forms[0].elements[1].value);
+            document.Simple.sum.value=x+y
+        }
+    </script>
+    </head>
+    <body>
+    <form name="Simple">
+        <input type="text" size="4" name="first" value=""><BR>
+        <input type="text" size="4" name="SECOND" value=""><BR>
+        <input type="button" value="Click" onClick="self()"><BR>
+        <input type="text"name="sum"value=""><br>
+    </form>
+</body>
+</html>

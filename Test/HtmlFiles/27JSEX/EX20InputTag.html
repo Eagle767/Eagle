@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>InputTag</title>
+        <style></style>
+        <script lang="JavaScript"></script>
+    </head>
+    <body>
+        <h1>InputTag</h1>
+        <form name="hi">
+            <input name="hii" type="number" value="">
+            <input name="hiii" type="text" onchange="if(parseInt(this.value)<=5){
+                alert('please enter big values.............');
+            }">
+            <input type="button" value="enter" onclick="window.status=document.hi.hii.value;">
+        </form>
+    </body>
+</html>

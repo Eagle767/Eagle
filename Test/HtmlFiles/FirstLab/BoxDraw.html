@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Box</title>
+        <style>
+            canvas{
+                background-color: green;
+            }
+        </style>
+        <script lang="JavaScript">
+            function drawoncanvas(){
+            var a=document.getElementById("a");
+            if(a.getContext){
+            var b=a.getContext('2d')
+            b.fillStyle="orange"
+            b.fillRect(50,50,200,150)
+            b.moveTo(50,50)
+            b.lineTo(250,200)
+            b.moveTo(250,50)
+            b.lineTo(50,200)
+            b.strokeStyle="yellow"
+            b.stroke();
+            }else{
+                console.log("Your browser doesn't supported in canvas.........")
+            }
+        }
+        </script>
+    </head>
+    <body onload="drawoncanvas()">
+        <h1>Box</h1>
+        <canvas id="a" width="400" height="300" style="border: 1px solid green" >browser doesn't support canvas inside content</canvas>
+    </body>
+</html>

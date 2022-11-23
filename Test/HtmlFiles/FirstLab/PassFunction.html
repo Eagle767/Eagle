@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Pass Function</title>
+        <style></style>
+        <script lang="JavaScript">
+            window.onload=fun;
+            function fun(){
+            var a=prompt("hello print 1 to 100 values","enter value")
+            try{
+            if(!a || a==isNaN || a<=0 || a>100 || Math.round(a)!=a){
+                throw new Error("It is not Valid Number......")
+            }
+            calculatePrime(a);
+            console.log(a)
+            }catch(errMsg){
+                alert(errMsg.message)
+            }
+            }
+            function calculatePrime(num){
+                console.log(num)
+                var primeNum=""
+                for(var t=2;t<=num;t++){
+                    if(testPrime(t)){
+                    primeNum+=t+",";
+                    }
+                }
+                console.log(primeNum)
+                var r=primeNum.lastIndexOf(",");
+                if(r!=-1){
+                    primeNum=primeNum.substring(0,r);
+                }
+                console.log(primeNum)
+                dis(num,primeNum);
+            }
+            function testPrime(nsd){
+                var m=Math.ceil(Math.sqrt(nsd))
+                for(;m>1;m--){
+                    if(nsd%m==0){
+                        return false;
+                    }}
+                return true;
+            }
+            function dis(mn,p){
+                document.write("You Entered Number is........."+mn +"<br>")
+                if(p.length==0){
+                    document.write("no Prime Numbers are available..........")
+                }else{
+                    document.write("The Prime Numbers are........."+p)
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Pass Function</h1>
+    </body>
+</html>

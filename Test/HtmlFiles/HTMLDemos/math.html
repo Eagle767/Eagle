@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>math</title>
+        <style></style>
+        <script lang="JavaScript">
+            function fun(){
+            var a=Math.ceil(document.forms[0].ro.value)
+            var b=Math.floor(document.forms[0].elements[0].value);
+            var c=Math.round(document.ros.elements[0].value);
+            document.forms[0].elements[2].value=a;
+            document.forms[0].elements[3].value=b;
+            document.forms[0].elements[4].value=c;
+            console.log(a,b,c)
+            }
+            function funn(){
+                var d=document.ros.elements[5].value.toUpperCase();
+                var e=document.ros.elements[5].value.toLowerCase();
+                document.forms[0].elements[7].value=d;
+                document.forms[0].elements[8].value=e;
+                console.log(d,e);
+            }
+        </script>
+    </head>
+    <body>
+        <h1>math</h1>
+        <form name="ros">
+        <input name="ro" type="number">
+        <input value="enter" type="button" onclick="fun()"><br>
+        <input value="ceil" type="button">
+        <input value="floor" type="button">
+        <input value="round" type="button"><br>
+        <input value="enter name" type="text">
+        <input type="button" value="enter" onclick="funn()"><br>
+        <input type="button" value="uppercase"><input type="button" value="lowercase">
+    </form>
+    </body>
+</html>

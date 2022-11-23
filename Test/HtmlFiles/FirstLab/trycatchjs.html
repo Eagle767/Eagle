@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>TryCatch</title>
+        <style></style>
+        <script lang="JavaScript">
+            window.onload=fun;
+            function fun(){
+                var a=prompt("Enter Your Positive Number...........")
+                try {
+                    if(!a || isNaN(a) || a<0){
+                        throw new Error("It is not valid number..........");
+                    }
+                    var s=Math.sqrt(a)
+                    var ss="squre root of "+a+" is "+s;
+                    alert(ss) 
+                    document.write(ss)
+                } catch (errMsg) {
+                    alert(errMsg.ss)
+                    console.log(errMsg.ss)
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>TryCatch</h1>
+    </body>
+</html>

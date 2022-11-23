@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+        "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+    <package name="custominterceptor" namespace="/interceptor" extends="struts-default">
+			<interceptors>
+					<interceptor name="authenticationInterceptor" 
+						class="model.CustomInterceptor"/>
+
+					<interceptor-stack name="secureStack">
+						<interceptor-ref name="authenticationInterceptor"/>
+						<interceptor-ref name="defaultStack"/>
+					</interceptor-stack>						
+			</interceptors>
+		
+		<default-interceptor-ref name="secureStack"/> 
+		
+		<action name="custom">
+			<result>/NameCollector2.jsp</result>
+		</action>
+		
+		<action name="customform" class="model.HelloWorldForm">
+				<interceptor-ref name="timer"/>
+				<interceptor-ref name="logger"/>
+				<interceptor-ref name="token"/>
+				<interceptor-ref name="defaultStack"/>
+			<result name="invalid.token">/duplicatesubmit.jsp</result>	
+			<result name="success">/welcomeform.jsp</result>	
+			<result name="input">/NameCollector.jsp</result>		
+		</action>
+				
+     </package>
+
+</struts>
+			

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Thread;
 
 import java.util.HashSet;
@@ -42,4 +43,50 @@ class MyConsumer implements Consumer<String>{
 	public void accept(String s) {
 		System.out.println(s);
 	}
+=======
+package Thread;
+
+import java.util.HashSet;
+import java.util.Iterator;
+import java.util.Set;
+import java.util.function.Consumer;
+public class HashSetDemo {
+	public static void main(String[] args) {
+		Set<String> hs=new HashSet<String>();
+		
+		hs.add("aaa");
+		hs.add("baa");
+		hs.add("caa");
+		
+		System.out.println(hs);
+		hs.remove("aaa");
+	System.out.println(hs.size());
+	System.out.println(hs);
+	
+	System.out.println(hs.isEmpty());
+	
+	System.out.println(hs.contains("baa"));
+	
+	//hs.forEach(System.out::println);
+	//hs.forEach(new MyConsumer());
+	//hs.forEach((s)->{System.out.println(s);});
+	//hs.forEach(System.out::println);
+	hs.forEach(HashSetDemo::print);
+	
+	Iterator<String> it=hs.iterator();
+	while(it.hasNext()) {
+		System.out.println(it.next());
+	}
+	}
+	
+	static void print(String s) {
+		System.out.println(s);
+	}
+}
+class MyConsumer implements Consumer<String>{
+	@Override
+	public void accept(String s) {
+		System.out.println(s);
+	}
+>>>>>>> branch 'master' of https://github.com/MayilaiMuthu/Eagle.git
 }

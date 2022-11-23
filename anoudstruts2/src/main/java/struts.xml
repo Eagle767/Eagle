@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts> 
+    <constant name="struts.devMode" value="true" />  
+     <include file="model/interceptor.xml"></include>
+	 <package name="helloworld" namespace="/" extends="struts-default">	
+	 	
+	 	<global-results>
+			<result name="error1">/Error1.jsp</result>
+			<result name="error2">/Error2.jsp</result>
+		</global-results>
+
+		<global-exception-mappings>
+			<exception-mapping exception="java.lang.ArithmeticException"
+				result="error1" />
+		<exception-mapping exception="java.lang.NumberFormatException"
+				result="error2" />
+		</global-exception-mappings>
+		
+		<action name="errordemo" class="model.ErrorDemo">
+			<result name="success">/welcome.jsp</result>
+		</action>
+		
+ 		<action name="helloworld" class="model.HelloWorldAction">
+			<result name="success">/welcome.jsp</result>
+		</action>
+			
+		<action name="helloworld_*" method="{1}" class="model.HelloWorldAction2">						
+			<result name="add.success">/welcome1.jsp</result>	
+			<result name="del.success">/welcome2.jsp</result>
+			<result name="edit.success">/welcome3.jsp</result>			
+		</action>
+		
+		<action name="helloworld3_*" method="{1}" class="model.HelloWorldAction3">						
+			<result name="success">${nextPage}</result>			
+		</action>
+		
+		<action name="helloworld4_*" method="{1}" class="model.HelloWorldAction4">
+				<interceptor-ref name="timer"/>
+				<interceptor-ref name="logger"/>
+				<interceptor-ref name="defaultStack"/>						
+			<result name="success">${nextPage}</result>			
+		</action>
+		
+		<action name="loadform">
+			<result>/NameCollector.jsp</result>
+		</action>
+		<action name="helloworld5" class="model.HelloWorldForm">
+				<interceptor-ref name="timer"/>
+				<interceptor-ref name="logger"/>
+				<interceptor-ref name="token"/>
+				<interceptor-ref name="defaultStack"/>
+			<result name="invalid.token">/duplicatesubmit.jsp</result>	
+			<result name="success">/welcomeform.jsp</result>	
+			<result name="input">/NameCollector.jsp</result>		
+		</action>
+			   			
+     </package>		
+</struts>

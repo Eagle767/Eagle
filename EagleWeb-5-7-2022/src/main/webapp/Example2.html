@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript">
+function fun(){
+	var a=document.forms[0].name.value;
+	if(a.length==0){
+		alert("Plese Enter Name........")
+		return false;
+	}else{
+		return true;
+	}
+}
+</script>
+</head>
+<body>
+<form action="Example2NoNameAlart" method="post" onsubmit="return fun()">
+<input type="text" placeholder="Enter Name" name="name">
+<input type="submit">
+</form>
+</body>
+</html>
