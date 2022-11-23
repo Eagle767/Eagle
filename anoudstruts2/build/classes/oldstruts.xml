@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+  
+   <constant name="struts.devMode" value="true" />
+ 		<include file="myinterceptors/interceptorDemo.xml"/>
+	<package name="helloworld" namespace="/" extends="struts-default,myinterceptors">
+	
+ 		<global-results>
+			<result name="error">/ImageError.jsp</result>
+		</global-results>
+
+		<global-exception-mappings>
+			<exception-mapping exception="errorpack.ImageException"
+				result="error" />				
+		</global-exception-mappings>
+		
+		<action name="start">
+			<result>/NameCollector.jsp</result>
+		</action>	
+		
+		<action name="HelloWorld_*" method="{1}" class="actionpack.HelloWorld">
+				<interceptor-ref name="defaultStack"/>
+				<interceptor-ref name="token"/>
+				
+			<result name="invalid.token">/duplicatePage.jsp</result>	
+			<result name="success">/welcome.jsp</result>
+			<result name="input">/NameCollector.jsp</result>
+			
+		</action>
+    			
+		<action name="helloworld" class="model.HelloWorldAction">
+			<result name="success">/welcome.jsp</result>
+		</action>		
+    			
+     </package>		
+
+     
+    
+ 
+</struts>
