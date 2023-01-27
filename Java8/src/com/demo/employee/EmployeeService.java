@@ -13,8 +13,10 @@ public class EmployeeService {
 	}
 	
 	public static void main(String[] args) {
+		List<Employee> employees= new EmployeeDAO().getAll();
 		System.out.println(new EmployeeService().getStatus("tAx"));
 		System.out.println(new EmployeeService().getStatus("nOntAx"));
+		System.out.println(employees.size());
 	}
 
 }
